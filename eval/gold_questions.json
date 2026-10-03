@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the total sales amount?",
+    "reference_sql": "SELECT SUM(total) FROM sales"
+  },
+  {
+    "question": "How many unique items do we sell?",
+    "reference_sql": "SELECT COUNT(DISTINCT item) FROM sales"
+  },
+  {
+    "question": "How many items were sold on 2023-05-02?",
+    "reference_sql": "SELECT SUM(quantity) FROM sales WHERE date = '2023-05-02'"
+  },
+  {
+    "question": "2023 ke pehle mahine (January) mein sab se zyada kaunsa item bika?",
+    "reference_sql": "SELECT item, SUM(quantity) FROM sales WHERE date >= '2023-01-01' AND date < '2023-02-01' GROUP BY item ORDER BY SUM(quantity) DESC LIMIT 1"
+  },
+  {
+    "question": "show top 3 customers by total sales",
+    "reference_sql": "SELECT customer, SUM(total) FROM sales GROUP BY customer ORDER BY SUM(total) DESC LIMIT 3"
+  },
+  {
+    "question": "kis customer ne sab se zyada martaba udhaar liya hai?",
+    "reference_sql": "SELECT customer, COUNT(*) FROM udhaar_ledger WHERE type = 'given' GROUP BY customer ORDER BY COUNT(*) DESC LIMIT 1"
+  },
+  {
+    "question": "how much udhaar is given in total?",
+    "reference_sql": "SELECT SUM(amount) FROM udhaar_ledger WHERE type = 'given'"
+  },
+  {
+    "question": "total udhaar paid back?",
+    "reference_sql": "SELECT SUM(amount) FROM udhaar_ledger WHERE type = 'paid'"
+  },
+  {
+    "question": "sab se zyada udhaar kis ne wapas kiya?",
+    "reference_sql": "SELECT customer, SUM(amount) FROM udhaar_ledger WHERE type = 'paid' GROUP BY customer ORDER BY SUM(amount) DESC LIMIT 1"
+  },
+  {
+    "question": "what is the average unit price of items sold?",
+    "reference_sql": "SELECT AVG(unit_price) FROM sales"
+  },
+  {
+    "question": "how many times was jazzcash used?",
+    "reference_sql": "SELECT COUNT(*) FROM sales WHERE payment_method = 'jazzcash'"
+  },
+  {
+    "question": "which category has the most quantity sold?",
+    "reference_sql": "SELECT category, SUM(quantity) FROM sales GROUP BY category ORDER BY SUM(quantity) DESC LIMIT 1"
+  },
+  {
+    "question": "easypaisa se total kitni sale hui?",
+    "reference_sql": "SELECT SUM(total) FROM sales WHERE payment_method = 'easypaisa'"
+  },
+  {
+    "question": "sab se mehnga item kaunsa bika?",
+    "reference_sql": "SELECT item FROM sales ORDER BY unit_price DESC LIMIT 1"
+  },
+  {
+    "question": "show top 5 days by total sales amount",
+    "reference_sql": "SELECT date, SUM(total) FROM sales GROUP BY date ORDER BY SUM(total) DESC LIMIT 5"
+  },
+  {
+    "question": "how many udhaar records have a note mentioning 'milk'?",
+    "reference_sql": "SELECT COUNT(*) FROM udhaar_ledger WHERE LOWER(note) LIKE '%milk%'"
+  },
+  {
+    "question": "list the items sold to Ali",
+    "reference_sql": "SELECT DISTINCT item FROM sales WHERE customer = 'Ali'"
+  },
+  {
+    "question": "what payment method was most used by Walk-in customers?",
+    "reference_sql": "SELECT payment_method, COUNT(*) FROM sales WHERE customer = 'Walk-in' GROUP BY payment_method ORDER BY COUNT(*) DESC LIMIT 1"
+  },
+  {
+    "question": "how many sales transactions were made by customers who have taken udhaar?",
+    "reference_sql": "SELECT COUNT(s.invoice_id) FROM sales s JOIN udhaar_ledger u ON s.customer = u.customer AND u.type='given'"
+  },
+  {
+    "question": "what is the highest total sale amount in a single transaction?",
+    "reference_sql": "SELECT MAX(total) FROM sales"
+  }
+]

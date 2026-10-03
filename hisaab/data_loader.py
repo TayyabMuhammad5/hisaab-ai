@@ -1,9 +1,12 @@
 import pandas as pd
 import duckdb
 import re
+import warnings
 from pathlib import Path
 from typing import Dict, List, Tuple
 from . import config
+
+
 
 def clean_column_name(col: str) -> str:
     col = str(col).strip().lower()
@@ -39,7 +42,7 @@ def clean_dataframe(df: pd.DataFrame, table_name: str) -> Tuple[pd.DataFrame, Di
             continue
             
         # Try cleaning Rs prefixes and converting to numeric
-        if df[col].dtype == object:
+        if pd.api.types.is_object_dtype(df[col]) or pd.api.types.is_string_dtype(df[col]):
             sample_strs = df[col].dropna().astype(str)
             if sample_strs.str.contains(r'^[^\d]*rs\.?\s*[\d,]+', case=False, regex=True).any():
                 cleaned_series = df[col].astype(str).str.replace(r'[^\d.]', '', regex=True)
@@ -49,48 +52,52 @@ def clean_dataframe(df: pd.DataFrame, table_name: str) -> Tuple[pd.DataFrame, Di
                 continue
 
             # Try datetime with dayfirst
-            try:
-                parsed = pd.to_datetime(df[col], dayfirst=True, errors='coerce')
-                if parsed.notna().sum() > len(parsed.dropna()) * 0.5 and parsed.notna().sum() > 0:
-                     df[col] = parsed
-                     logs.append(f"[{table_name}] Parsed '{col}' as datetime (day-first).")
-            except Exception:
-                pass
+            import warnings
+            with warnings.catch_warnings():
+                warnings.simplefilter("ignore", category=UserWarning)
+                try:
+                    parsed = pd.to_datetime(df[col], dayfirst=True, errors='coerce')
+                    if parsed.notna().sum() > len(df[col].dropna()) * 0.5 and parsed.notna().sum() > 0:
+                         df[col] = parsed
+                         logs.append(f"[{table_name}] Parsed '{col}' as datetime (day-first).")
+                except Exception:
+                    pass
                 
     return df, col_mapping, logs
 
-def load_file_to_duckdb(file_path: Path) -> Tuple[duckdb.DuckDBPyConnection, Dict[str, Dict[str, str]], List[str]]:
-    if file_path.stat().st_size > config.MAX_FILE_MB * 1024 * 1024:
-        raise ValueError(f"File exceeds maximum size of {config.MAX_FILE_MB}MB.")
-        
+def load_files_to_duckdb(file_paths: List[Path]) -> Tuple[duckdb.DuckDBPyConnection, Dict[str, Dict[str, str]], List[str]]:
     conn = duckdb.connect(database=':memory:')
     all_logs = []
     all_mappings = {}
     
-    if file_path.suffix.lower() in ['.xlsx', '.xls']:
-        xls = pd.ExcelFile(file_path)
-        for sheet_name in xls.sheet_names:
-            df = pd.read_excel(xls, sheet_name=sheet_name)
+    for file_path in file_paths:
+        if file_path.stat().st_size > config.MAX_FILE_MB * 1024 * 1024:
+            raise ValueError(f"File {file_path.name} exceeds maximum size of {config.MAX_FILE_MB}MB.")
+            
+        if file_path.suffix.lower() in ['.xlsx', '.xls']:
+            xls = pd.ExcelFile(file_path)
+            for sheet_name in xls.sheet_names:
+                df = pd.read_excel(xls, sheet_name=sheet_name)
+                if len(df) > config.MAX_ROWS:
+                    raise ValueError(f"Sheet {sheet_name} in {file_path.name} exceeds max rows of {config.MAX_ROWS}.")
+                table_name = clean_column_name(sheet_name)
+                if not table_name:
+                    table_name = "table"
+                df, mapping, logs = clean_dataframe(df, table_name)
+                conn.register(table_name, df)
+                all_mappings[table_name] = mapping
+                all_logs.extend(logs)
+                
+        elif file_path.suffix.lower() == '.csv':
+            df = pd.read_csv(file_path)
             if len(df) > config.MAX_ROWS:
-                raise ValueError(f"Sheet {sheet_name} exceeds maximum rows of {config.MAX_ROWS}.")
-            table_name = clean_column_name(sheet_name)
-            if not table_name:
-                table_name = "table"
+                raise ValueError(f"File {file_path.name} exceeds max rows of {config.MAX_ROWS}.")
+            table_name = clean_column_name(file_path.stem)
             df, mapping, logs = clean_dataframe(df, table_name)
             conn.register(table_name, df)
             all_mappings[table_name] = mapping
             all_logs.extend(logs)
+        else:
+            raise ValueError(f"Unsupported file format {file_path.name}. Please upload .csv or .xlsx")
             
-    elif file_path.suffix.lower() == '.csv':
-        df = pd.read_csv(file_path)
-        if len(df) > config.MAX_ROWS:
-            raise ValueError(f"File exceeds maximum rows of {config.MAX_ROWS}.")
-        table_name = clean_column_name(file_path.stem)
-        df, mapping, logs = clean_dataframe(df, table_name)
-        conn.register(table_name, df)
-        all_mappings[table_name] = mapping
-        all_logs.extend(logs)
-    else:
-        raise ValueError("Unsupported file format. Please upload .csv or .xlsx")
-        
     return conn, all_mappings, all_logs

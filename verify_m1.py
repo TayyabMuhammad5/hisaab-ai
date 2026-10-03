@@ -1,6 +1,6 @@
 from pathlib import Path
 from data.make_sample_data import generate_sample_data
-from hisaab.data_loader import load_file_to_duckdb
+from hisaab.data_loader import load_files_to_duckdb
 from hisaab.profiler import get_db_profile
 
 def main():
@@ -12,7 +12,7 @@ def main():
     
     sample_file = data_dir / "sample_shop.xlsx"
     print(f"\n2. Loading data from {sample_file}...")
-    conn, mappings, logs = load_file_to_duckdb(sample_file)
+    conn, mappings, logs = load_files_to_duckdb([sample_file])
     
     print("\nCoercion Logs:")
     for log in logs:

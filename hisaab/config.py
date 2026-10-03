@@ -1,4 +1,6 @@
 import os
+from dotenv import load_dotenv
+load_dotenv()
 
 ROW_CAP = 1000
 QUERY_TIMEOUT_S = 10
