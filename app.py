@@ -172,5 +172,9 @@ with gr.Blocks(title="Hisaab AI (MVP)") as demo:
         outputs=[answer_out, chart_out, table_out, sql_out, query_status]
     )
 
+from fastapi import FastAPI
+app = FastAPI()
+app = gr.mount_gradio_app(app, demo, path="/")
+
 if __name__ == "__main__":
     demo.launch(auth=(config.DEMO_USER, config.DEMO_PASS), server_name="0.0.0.0")
