@@ -1,0 +1,501 @@
+Customer,Date,Amount,Type,Note
+Ayesha,04-10-2023,600,given,milk
+Ahmed,05-07-2023,1215,given,cash
+Usman,03-05-2023,Rs 2151,given,grocery
+Ahmed,14-03-2023,Rs 2915,given,last month pending
+Ayesha,27-07-2023,Rs 4458,given,grocery
+Ayesha,22-07-2023,3894,given,cash
+Usman,11-11-2023,Rs 3429,given,milk
+Usman,14-02-2023,Rs 1169,paid,last month pending
+Usman,15-10-2023,Rs 2938,paid,milk
+Usman,30-08-2023,3115,paid,cash
+Usman,10-04-2023,Rs 3623,given,grocery
+Ali,10-07-2023,Rs 1728,given,last month pending
+Zainab,28-10-2023,Rs 1697,paid,cash
+Zainab,31-07-2023,2873,given,
+Usman,04-04-2023,702,paid,grocery
+Ali,19-01-2023,900,paid,cash
+Ayesha,25-10-2023,4034,given,cash
+Usman,28-11-2023,Rs 3419,paid,milk
+Ayesha,13-08-2023,1487,given,milk
+Zainab,23-04-2023,Rs 2025,paid,last month pending
+Ahmed,08-02-2023,3181,given,cash
+Ali,07-04-2023,Rs 1180,given,cash
+Zainab,21-05-2023,Rs 2518,given,
+Usman,31-07-2023,2238,given,last month pending
+Zainab,06-04-2023,4037,given,cash
+Ali,29-03-2023,2623,paid,last month pending
+Ayesha,02-04-2023,Rs 1676,given,grocery
+Usman,05-04-2023,Rs 2677,given,cash
+Ahmed,07-11-2023,Rs 2695,paid,cash
+Ahmed,05-09-2023,Rs 3702,paid,
+Fatima,31-10-2023,1734,paid,last month pending
+Fatima,14-10-2023,Rs 3605,given,
+Usman,13-07-2023,4819,given,grocery
+Ali,25-04-2023,Rs 482,given,last month pending
+Ahmed,12-10-2023,Rs 1752,paid,
+Fatima,16-04-2023,Rs 2085,given,
+Usman,25-06-2023,540,given,
+Fatima,22-03-2023,2155,given,milk
+Fatima,21-10-2023,Rs 529,paid,milk
+Fatima,19-04-2023,Rs 135,paid,last month pending
+Ayesha,23-10-2023,3217,paid,cash
+Ahmed,26-05-2023,Rs 4768,paid,cash
+Ahmed,20-09-2023,Rs 4195,paid,last month pending
+Usman,16-09-2023,Rs 882,given,cash
+Zainab,17-09-2023,Rs 4774,paid,milk
+Zainab,10-05-2023,Rs 356,paid,grocery
+Ahmed,22-03-2023,4214,paid,last month pending
+Ali,03-02-2023,4450,paid,grocery
+Fatima,14-05-2023,3658,paid,cash
+Usman,22-06-2023,2266,given,last month pending
+Fatima,31-07-2023,3492,given,cash
+Fatima,25-08-2023,Rs 1450,given,last month pending
+Zainab,13-02-2023,Rs 1726,paid,grocery
+Ali,05-07-2023,Rs 1081,paid,last month pending
+Ali,12-06-2023,3882,paid,grocery
+Usman,27-12-2023,1574,given,cash
+Ahmed,03-02-2023,Rs 3867,given,grocery
+Fatima,04-05-2023,Rs 1976,paid,milk
+Usman,18-07-2023,Rs 3019,paid,last month pending
+Ayesha,02-10-2023,852,paid,last month pending
+Ali,14-11-2023,Rs 3582,paid,milk
+Zainab,18-02-2023,Rs 3737,given,last month pending
+Ali,11-06-2023,Rs 692,paid,
+Usman,24-03-2023,Rs 4609,given,milk
+Ayesha,16-09-2023,Rs 399,given,milk
+Fatima,29-06-2023,393,paid,milk
+Usman,28-06-2023,Rs 1872,paid,last month pending
+Ali,24-04-2023,628,paid,last month pending
+Usman,11-12-2023,Rs 1460,given,grocery
+Fatima,13-08-2023,Rs 2067,given,
+Fatima,30-11-2023,3243,given,
+Ahmed,25-12-2023,1436,given,cash
+Fatima,19-06-2023,3299,paid,grocery
+Zainab,04-02-2023,1415,paid,
+Fatima,25-02-2023,Rs 1848,paid,milk
+Zainab,16-05-2023,224,paid,
+Ahmed,19-07-2023,Rs 2862,paid,milk
+Ayesha,25-02-2023,Rs 231,given,cash
+Ayesha,21-01-2023,Rs 4750,paid,grocery
+Zainab,15-12-2023,3133,paid,grocery
+Ali,26-04-2023,Rs 4849,given,last month pending
+Ayesha,09-01-2023,3922,paid,grocery
+Ali,09-03-2023,2001,given,last month pending
+Ali,04-10-2023,Rs 612,paid,grocery
+Usman,23-09-2023,1379,given,last month pending
+Usman,27-01-2023,Rs 4438,given,
+Usman,26-03-2023,4203,paid,cash
+Ali,25-10-2023,4078,paid,last month pending
+Fatima,16-08-2023,4639,given,
+Usman,20-05-2023,1081,given,milk
+Zainab,29-03-2023,1611,given,milk
+Ali,11-03-2023,1607,given,grocery
+Fatima,16-01-2023,Rs 4181,given,last month pending
+Ahmed,12-03-2023,Rs 699,paid,milk
+Usman,01-07-2023,Rs 1053,paid,milk
+Ahmed,01-12-2023,Rs 4429,given,grocery
+Ali,30-11-2023,Rs 639,paid,cash
+Zainab,19-08-2023,Rs 3601,paid,cash
+Usman,20-03-2023,2596,given,milk
+Fatima,26-02-2023,Rs 4839,given,milk
+Ayesha,22-06-2023,3681,paid,grocery
+Ayesha,26-08-2023,Rs 4285,given,cash
+Ahmed,20-09-2023,918,given,milk
+Zainab,04-09-2023,Rs 4625,paid,last month pending
+Fatima,13-08-2023,3238,given,last month pending
+Usman,03-07-2023,Rs 1423,paid,cash
+Ali,18-08-2023,Rs 2391,given,milk
+Fatima,26-08-2023,3655,paid,grocery
+Zainab,07-02-2023,391,given,
+Fatima,03-09-2023,677,paid,last month pending
+Usman,14-12-2023,2679,given,milk
+Ahmed,10-01-2023,Rs 158,paid,cash
+Usman,14-04-2023,3506,given,last month pending
+Usman,22-05-2023,3512,paid,
+Ali,16-09-2023,Rs 527,given,cash
+Fatima,06-04-2023,Rs 1371,given,
+Ayesha,02-04-2023,Rs 2031,paid,milk
+Fatima,04-05-2023,3024,given,milk
+Usman,20-09-2023,1044,paid,milk
+Usman,14-08-2023,Rs 2824,given,last month pending
+Zainab,18-09-2023,1774,paid,grocery
+Ahmed,22-06-2023,2765,paid,
+Usman,05-05-2023,3603,given,last month pending
+Zainab,03-12-2023,4730,paid,last month pending
+Ahmed,01-06-2023,2683,given,cash
+Ahmed,03-05-2023,3288,paid,grocery
+Ayesha,24-08-2023,3331,paid,cash
+Usman,17-09-2023,Rs 2086,given,
+Ayesha,27-02-2023,Rs 2571,given,
+Zainab,14-06-2023,Rs 3983,given,last month pending
+Ahmed,12-10-2023,2902,paid,
+Usman,22-06-2023,Rs 2888,paid,last month pending
+Usman,11-11-2023,Rs 853,given,
+Ali,08-02-2023,Rs 2061,given,cash
+Zainab,28-09-2023,Rs 4267,paid,
+Zainab,16-12-2023,389,paid,
+Fatima,19-08-2023,165,paid,cash
+Ali,28-02-2023,Rs 2003,paid,
+Ali,25-08-2023,Rs 1681,given,cash
+Ahmed,24-04-2023,2720,given,
+Usman,12-04-2023,Rs 1818,given,last month pending
+Fatima,14-07-2023,Rs 636,paid,last month pending
+Usman,18-04-2023,Rs 399,given,
+Zainab,03-10-2023,Rs 4975,paid,grocery
+Zainab,16-03-2023,3717,given,
+Zainab,28-01-2023,Rs 2992,given,cash
+Fatima,08-06-2023,2237,given,milk
+Usman,24-12-2023,1905,paid,milk
+Usman,28-07-2023,Rs 3528,given,grocery
+Zainab,23-11-2023,Rs 4662,paid,cash
+Usman,30-08-2023,Rs 4110,given,cash
+Zainab,04-06-2023,Rs 2704,paid,milk
+Ali,27-10-2023,Rs 202,paid,
+Ahmed,02-07-2023,4045,given,last month pending
+Fatima,13-06-2023,Rs 2465,paid,milk
+Ali,09-12-2023,Rs 1951,given,cash
+Usman,22-07-2023,2434,given,cash
+Ali,13-08-2023,330,paid,cash
+Ali,12-05-2023,Rs 2427,given,grocery
+Ahmed,13-08-2023,Rs 4461,given,
+Ayesha,10-09-2023,Rs 1544,given,
+Zainab,18-12-2023,2254,given,milk
+Ali,08-12-2023,4279,given,cash
+Ahmed,28-09-2023,Rs 756,paid,cash
+Usman,06-10-2023,Rs 4336,given,last month pending
+Ahmed,31-01-2023,3141,paid,cash
+Zainab,02-07-2023,225,given,
+Ayesha,04-06-2023,Rs 2182,given,
+Fatima,12-10-2023,3901,given,cash
+Zainab,25-02-2023,1228,paid,last month pending
+Fatima,30-03-2023,Rs 1389,paid,grocery
+Zainab,12-05-2023,3076,paid,
+Ahmed,23-07-2023,Rs 2644,paid,
+Ahmed,19-10-2023,Rs 1298,paid,
+Usman,29-10-2023,Rs 2959,given,grocery
+Ayesha,10-12-2023,Rs 3009,given,milk
+Zainab,24-08-2023,Rs 920,given,last month pending
+Usman,14-03-2023,Rs 2925,given,milk
+Ali,13-01-2023,4588,given,grocery
+Zainab,02-06-2023,Rs 1083,paid,
+Ali,20-01-2023,3517,given,
+Usman,17-04-2023,Rs 4921,given,cash
+Usman,02-12-2023,1410,given,grocery
+Ahmed,14-10-2023,2665,given,grocery
+Zainab,02-02-2023,Rs 1330,given,cash
+Ayesha,22-01-2023,1612,paid,milk
+Fatima,27-01-2023,4122,given,cash
+Fatima,10-01-2023,1585,given,grocery
+Ahmed,23-11-2023,Rs 4825,paid,
+Ahmed,20-06-2023,2910,given,cash
+Ayesha,13-12-2023,Rs 3853,paid,
+Ahmed,20-06-2023,3899,paid,milk
+Ayesha,01-09-2023,3968,paid,grocery
+Usman,10-11-2023,Rs 1452,given,last month pending
+Ali,19-07-2023,2387,paid,grocery
+Ayesha,28-07-2023,Rs 3891,given,cash
+Usman,13-03-2023,Rs 1537,given,last month pending
+Ahmed,08-11-2023,Rs 2221,paid,last month pending
+Fatima,20-11-2023,Rs 440,given,grocery
+Ahmed,20-07-2023,Rs 4993,given,milk
+Usman,22-09-2023,Rs 1957,paid,
+Fatima,09-06-2023,2256,paid,last month pending
+Fatima,08-03-2023,Rs 1159,given,cash
+Fatima,08-01-2023,Rs 3413,given,last month pending
+Usman,23-04-2023,818,given,
+Ahmed,17-11-2023,3033,given,milk
+Usman,02-11-2023,1031,paid,grocery
+Ali,15-05-2023,Rs 2868,paid,
+Ali,13-07-2023,4842,given,milk
+Ahmed,13-01-2023,2196,given,grocery
+Fatima,10-01-2023,Rs 2663,paid,last month pending
+Usman,29-10-2023,Rs 688,given,last month pending
+Zainab,18-11-2023,Rs 1465,given,grocery
+Zainab,29-05-2023,Rs 1135,paid,milk
+Fatima,13-05-2023,4401,paid,milk
+Fatima,21-08-2023,Rs 4170,paid,
+Ahmed,18-10-2023,Rs 2032,given,cash
+Zainab,10-01-2023,3332,given,last month pending
+Ahmed,10-09-2023,1948,paid,milk
+Zainab,05-02-2023,3370,paid,cash
+Fatima,08-08-2023,3948,paid,milk
+Ali,28-03-2023,1176,given,
+Fatima,23-11-2023,Rs 139,paid,milk
+Fatima,08-02-2023,Rs 1869,given,grocery
+Ali,26-03-2023,4669,given,grocery
+Usman,28-03-2023,Rs 418,given,
+Zainab,08-06-2023,4424,given,milk
+Ali,18-12-2023,Rs 2606,given,grocery
+Fatima,12-08-2023,1320,given,
+Zainab,21-09-2023,1205,given,milk
+Ali,08-01-2023,Rs 3269,paid,last month pending
+Ahmed,16-09-2023,Rs 2158,paid,cash
+Ahmed,20-05-2023,1245,paid,grocery
+Ahmed,29-10-2023,874,paid,grocery
+Ahmed,23-10-2023,1476,paid,milk
+Ali,30-06-2023,3431,given,milk
+Fatima,02-08-2023,1807,given,last month pending
+Zainab,20-08-2023,Rs 1712,given,cash
+Ali,05-09-2023,Rs 2179,paid,milk
+Usman,04-03-2023,3105,given,grocery
+Ayesha,22-10-2023,982,paid,
+Zainab,13-03-2023,Rs 4790,given,cash
+Ahmed,19-04-2023,1005,paid,
+Ahmed,11-01-2023,Rs 2721,given,last month pending
+Zainab,02-03-2023,Rs 1392,paid,cash
+Ayesha,20-02-2023,Rs 2258,paid,grocery
+Ahmed,08-02-2023,2088,paid,grocery
+Fatima,08-04-2023,Rs 4365,paid,last month pending
+Usman,26-05-2023,Rs 4836,paid,
+Ayesha,20-01-2023,1661,paid,milk
+Ahmed,13-09-2023,4909,paid,last month pending
+Fatima,15-02-2023,Rs 3662,given,
+Ayesha,21-04-2023,4696,paid,milk
+Fatima,16-07-2023,3532,given,grocery
+Ayesha,14-06-2023,Rs 3630,given,
+Usman,25-02-2023,Rs 3970,given,last month pending
+Fatima,15-12-2023,434,given,cash
+Fatima,19-09-2023,4539,paid,grocery
+Usman,02-01-2023,Rs 4456,paid,
+Ali,28-05-2023,Rs 4777,paid,cash
+Fatima,17-12-2023,Rs 1998,paid,last month pending
+Zainab,31-03-2023,Rs 1410,paid,grocery
+Fatima,27-01-2023,188,given,last month pending
+Ahmed,20-12-2023,795,paid,milk
+Ayesha,13-01-2023,346,given,cash
+Ayesha,18-02-2023,Rs 2327,paid,
+Ahmed,19-03-2023,4559,paid,cash
+Fatima,10-01-2023,Rs 2351,given,last month pending
+Ahmed,04-11-2023,Rs 873,paid,grocery
+Zainab,11-09-2023,Rs 3318,paid,milk
+Zainab,28-04-2023,907,given,last month pending
+Ayesha,17-07-2023,Rs 3763,paid,grocery
+Ayesha,01-01-2023,Rs 2804,paid,milk
+Ayesha,09-04-2023,Rs 1790,paid,last month pending
+Zainab,08-10-2023,Rs 2066,given,
+Fatima,04-08-2023,1537,paid,cash
+Ayesha,09-10-2023,Rs 4873,given,
+Ahmed,19-03-2023,Rs 3287,paid,last month pending
+Ayesha,28-01-2023,1602,given,
+Zainab,31-12-2023,224,given,milk
+Usman,18-12-2023,3635,given,last month pending
+Zainab,28-12-2023,3587,paid,
+Fatima,17-01-2023,1068,paid,last month pending
+Fatima,20-10-2023,Rs 767,given,last month pending
+Ali,02-07-2023,112,given,
+Usman,14-10-2023,Rs 2245,given,milk
+Usman,08-10-2023,2896,paid,grocery
+Ahmed,06-04-2023,Rs 220,paid,grocery
+Zainab,21-02-2023,Rs 2822,paid,last month pending
+Usman,13-07-2023,Rs 120,given,cash
+Ahmed,31-05-2023,2457,given,milk
+Usman,07-03-2023,571,given,milk
+Ayesha,02-06-2023,Rs 3365,paid,milk
+Fatima,12-10-2023,Rs 2630,given,grocery
+Ayesha,15-01-2023,3414,given,
+Ayesha,22-03-2023,Rs 3179,paid,cash
+Zainab,16-10-2023,Rs 3964,paid,milk
+Fatima,24-02-2023,Rs 424,given,cash
+Fatima,14-06-2023,2111,given,grocery
+Ayesha,25-05-2023,Rs 3175,paid,
+Ali,14-10-2023,Rs 1223,given,last month pending
+Usman,11-08-2023,2358,given,cash
+Ayesha,19-09-2023,3912,paid,grocery
+Zainab,11-12-2023,Rs 4233,paid,cash
+Ahmed,22-02-2023,4647,given,cash
+Ali,13-09-2023,Rs 3422,given,cash
+Fatima,20-09-2023,Rs 584,paid,
+Usman,11-11-2023,1809,given,last month pending
+Ayesha,19-04-2023,4960,given,cash
+Fatima,05-12-2023,4364,given,last month pending
+Ahmed,21-04-2023,Rs 269,paid,
+Fatima,18-05-2023,3112,given,cash
+Ahmed,16-05-2023,4904,given,
+Fatima,17-02-2023,1788,paid,cash
+Ali,23-05-2023,165,paid,cash
+Ayesha,27-11-2023,Rs 2117,paid,grocery
+Ayesha,31-08-2023,Rs 2882,paid,cash
+Ahmed,09-04-2023,1822,paid,milk
+Usman,14-01-2023,1500,given,
+Usman,03-03-2023,Rs 4102,paid,grocery
+Fatima,26-10-2023,4231,given,milk
+Ahmed,24-02-2023,111,given,cash
+Fatima,02-10-2023,3734,paid,grocery
+Usman,15-07-2023,4003,given,grocery
+Ahmed,19-05-2023,Rs 3126,given,
+Zainab,21-03-2023,Rs 318,given,grocery
+Fatima,09-10-2023,Rs 911,paid,milk
+Ali,29-10-2023,Rs 1683,paid,cash
+Zainab,12-06-2023,Rs 4134,paid,
+Ali,31-12-2023,3082,given,
+Ahmed,24-03-2023,Rs 876,given,milk
+Ali,07-08-2023,Rs 2799,given,last month pending
+Fatima,08-06-2023,Rs 3709,given,
+Usman,23-09-2023,2685,given,last month pending
+Usman,06-05-2023,4437,given,last month pending
+Fatima,01-11-2023,Rs 3123,paid,last month pending
+Usman,21-06-2023,1332,paid,grocery
+Zainab,26-01-2023,Rs 2117,paid,last month pending
+Ali,30-11-2023,4766,paid,last month pending
+Zainab,29-03-2023,Rs 2039,given,cash
+Fatima,24-02-2023,1460,paid,grocery
+Fatima,07-08-2023,3055,given,
+Ayesha,15-09-2023,368,given,cash
+Ayesha,11-12-2023,Rs 334,given,last month pending
+Ali,02-10-2023,3354,given,grocery
+Fatima,14-05-2023,Rs 3132,paid,last month pending
+Ahmed,22-03-2023,Rs 1974,paid,
+Ali,18-06-2023,4363,given,milk
+Usman,24-10-2023,4031,paid,cash
+Ayesha,30-05-2023,1552,paid,milk
+Ayesha,10-06-2023,Rs 1484,paid,grocery
+Ali,09-03-2023,Rs 1834,paid,
+Ahmed,13-12-2023,3767,given,last month pending
+Ahmed,31-01-2023,Rs 4136,paid,last month pending
+Fatima,16-01-2023,Rs 2971,paid,milk
+Ayesha,28-08-2023,2547,given,grocery
+Zainab,08-07-2023,Rs 601,given,last month pending
+Fatima,12-12-2023,2247,given,last month pending
+Fatima,25-01-2023,Rs 452,given,last month pending
+Ayesha,01-12-2023,625,given,last month pending
+Ahmed,16-02-2023,Rs 3909,paid,
+Zainab,14-12-2023,Rs 3930,given,milk
+Ali,27-05-2023,Rs 3701,paid,cash
+Ahmed,09-10-2023,Rs 3127,paid,milk
+Ayesha,09-11-2023,Rs 2428,paid,milk
+Fatima,19-05-2023,Rs 4577,paid,
+Usman,28-09-2023,3210,paid,cash
+Ahmed,06-12-2023,1661,paid,last month pending
+Zainab,11-04-2023,Rs 1842,given,grocery
+Zainab,29-01-2023,Rs 2220,paid,last month pending
+Ahmed,03-09-2023,4508,paid,
+Usman,28-03-2023,Rs 2344,paid,grocery
+Ali,28-04-2023,Rs 3078,paid,milk
+Ahmed,04-09-2023,516,given,milk
+Usman,02-06-2023,2694,given,cash
+Ayesha,19-05-2023,4078,paid,cash
+Ayesha,07-12-2023,Rs 1811,paid,cash
+Usman,25-08-2023,2526,paid,last month pending
+Ahmed,26-02-2023,2426,paid,last month pending
+Ali,31-01-2023,3445,given,cash
+Ahmed,13-03-2023,1550,paid,milk
+Ayesha,15-05-2023,Rs 432,paid,milk
+Fatima,25-10-2023,4152,given,last month pending
+Ali,16-02-2023,Rs 4091,given,cash
+Ahmed,11-09-2023,Rs 141,given,cash
+Fatima,28-02-2023,Rs 3798,paid,
+Fatima,18-07-2023,Rs 2118,given,grocery
+Fatima,24-03-2023,1822,given,
+Ahmed,13-04-2023,783,paid,cash
+Ahmed,23-01-2023,Rs 4094,given,
+Usman,14-07-2023,Rs 4777,given,
+Zainab,24-01-2023,1964,paid,
+Usman,11-08-2023,Rs 1453,given,cash
+Ahmed,11-01-2023,Rs 1691,given,
+Zainab,11-12-2023,4217,given,milk
+Usman,20-09-2023,Rs 3926,given,last month pending
+Ali,30-03-2023,983,paid,grocery
+Zainab,10-02-2023,4886,paid,last month pending
+Usman,31-01-2023,Rs 4853,paid,grocery
+Fatima,05-04-2023,Rs 2779,paid,cash
+Usman,28-06-2023,618,paid,last month pending
+Ahmed,14-11-2023,Rs 370,given,cash
+Fatima,30-04-2023,Rs 1107,paid,last month pending
+Usman,26-06-2023,Rs 736,given,
+Fatima,05-08-2023,4465,paid,last month pending
+Zainab,02-04-2023,Rs 1006,paid,milk
+Zainab,24-01-2023,2696,paid,cash
+Zainab,05-04-2023,2497,given,
+Zainab,13-10-2023,Rs 4818,paid,milk
+Zainab,25-05-2023,Rs 245,given,
+Zainab,19-11-2023,729,given,grocery
+Fatima,19-09-2023,Rs 2717,paid,
+Fatima,31-12-2023,4355,paid,grocery
+Ayesha,26-08-2023,4994,given,cash
+Fatima,28-10-2023,3525,given,last month pending
+Usman,11-05-2023,4996,given,milk
+Ahmed,15-04-2023,3115,given,milk
+Ali,27-08-2023,4054,paid,milk
+Zainab,22-02-2023,3033,paid,grocery
+Usman,01-04-2023,Rs 3881,given,
+Ayesha,23-10-2023,878,paid,
+Fatima,19-08-2023,Rs 509,paid,
+Ayesha,15-08-2023,1700,paid,milk
+Usman,05-07-2023,451,given,
+Ayesha,05-04-2023,655,paid,cash
+Zainab,28-08-2023,4988,given,milk
+Ayesha,16-06-2023,Rs 2004,given,last month pending
+Fatima,13-09-2023,Rs 2663,paid,
+Ayesha,16-01-2023,Rs 4655,paid,
+Fatima,21-11-2023,4968,paid,milk
+Ali,21-04-2023,Rs 587,paid,milk
+Zainab,25-08-2023,1267,paid,cash
+Ayesha,05-06-2023,583,paid,cash
+Fatima,09-02-2023,Rs 3233,paid,last month pending
+Ahmed,20-05-2023,1903,paid,cash
+Ayesha,10-12-2023,Rs 2521,paid,milk
+Zainab,17-12-2023,Rs 1944,given,milk
+Ayesha,11-05-2023,Rs 3165,paid,milk
+Zainab,24-08-2023,2518,paid,last month pending
+Fatima,23-10-2023,3229,given,milk
+Zainab,09-05-2023,4049,paid,cash
+Ahmed,29-09-2023,3122,paid,cash
+Ali,28-06-2023,Rs 585,given,milk
+Ahmed,15-12-2023,Rs 2103,paid,cash
+Usman,18-02-2023,Rs 801,given,grocery
+Zainab,10-06-2023,Rs 1979,paid,
+Ahmed,18-03-2023,Rs 4742,given,milk
+Fatima,26-11-2023,250,paid,
+Zainab,01-02-2023,4095,paid,
+Zainab,19-03-2023,Rs 1295,paid,last month pending
+Ayesha,14-03-2023,Rs 1856,paid,last month pending
+Ali,09-01-2023,Rs 2231,paid,grocery
+Zainab,01-02-2023,2467,paid,milk
+Ahmed,26-01-2023,Rs 4428,paid,last month pending
+Ali,13-01-2023,Rs 4813,paid,grocery
+Ahmed,12-11-2023,Rs 1238,given,cash
+Zainab,13-09-2023,Rs 4242,given,cash
+Ali,13-10-2023,2046,given,milk
+Zainab,11-09-2023,4216,paid,cash
+Ali,26-07-2023,1505,paid,last month pending
+Fatima,30-04-2023,2777,given,grocery
+Ahmed,07-09-2023,Rs 2454,paid,cash
+Ayesha,07-04-2023,3957,paid,milk
+Ahmed,15-12-2023,2647,given,
+Zainab,26-02-2023,2380,given,milk
+Zainab,25-02-2023,Rs 2294,paid,last month pending
+Fatima,21-08-2023,Rs 835,paid,
+Ali,22-04-2023,4518,paid,last month pending
+Usman,05-04-2023,889,paid,grocery
+Zainab,30-04-2023,Rs 960,given,milk
+Ali,27-08-2023,Rs 574,paid,grocery
+Ali,22-06-2023,Rs 4808,given,milk
+Fatima,03-10-2023,2492,given,last month pending
+Fatima,30-03-2023,4953,paid,
+Ayesha,21-01-2023,Rs 1260,paid,cash
+Fatima,04-08-2023,1302,paid,last month pending
+Usman,19-09-2023,Rs 1461,given,milk
+Ali,06-03-2023,Rs 1095,given,milk
+Ayesha,31-01-2023,1791,given,milk
+Ali,04-05-2023,Rs 2480,given,
+Fatima,09-01-2023,Rs 1544,given,cash
+Fatima,27-01-2023,2287,given,milk
+Zainab,18-03-2023,Rs 4862,paid,last month pending
+Usman,30-05-2023,1741,given,last month pending
+Ayesha,31-08-2023,Rs 723,paid,last month pending
+Usman,06-09-2023,2092,given,last month pending
+Ayesha,13-11-2023,3446,given,grocery
+Ali,05-06-2023,2443,given,cash
+Ayesha,10-03-2023,Rs 761,paid,last month pending
+Zainab,27-02-2023,1585,given,
+Ahmed,22-07-2023,Rs 103,given,milk
+Ali,27-01-2023,3196,paid,milk
+Ali,25-09-2023,Rs 4590,given,
+Fatima,27-04-2023,Rs 2937,given,milk
+Zainab,16-08-2023,1855,paid,
+Zainab,09-09-2023,Rs 4848,paid,last month pending
+Ali,08-03-2023,2314,given,cash
+Ahmed,08-12-2023,Rs 3632,paid,cash
+Ayesha,21-08-2023,2073,given,last month pending
+Ahmed,21-09-2023,3510,given,

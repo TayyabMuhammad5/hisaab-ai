@@ -1,0 +1,11 @@
+import os
+
+ROW_CAP = 1000
+QUERY_TIMEOUT_S = 10
+MAX_RETRIES = 2
+MAX_FILE_MB = 5
+MAX_ROWS = 50000
+GROQ_TIMEOUT_S = 20
+
+DEMO_USER = os.getenv("DEMO_USER", "demo")
+DEMO_PASS = os.getenv("DEMO_PASS", "demo123")

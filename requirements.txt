@@ -1,0 +1,9 @@
+duckdb
+pandas
+openpyxl
+sqlglot
+gradio
+plotly
+groq
+python-dotenv
+pytest

@@ -1,0 +1,3001 @@
+Date,invoice_id,Item,Category,Quantity,Unit_Price,Total,Customer,Payment_Method
+13/04/2023,INV-1000,Cooking Oil 1L,beverages,2,1089,Rs 2178,Usman,easypaisa
+15/12/2023,INV-1001,Tea 200g,Dairy,2,1333,,Walk-in,udhaar
+28/09/2023,INV-1002,Cooking Oil 1L,Grocery,1,180,180,Ahmed,easypaisa
+17/04/2023,INV-1003,Rice 1kg,dairy,1,276,276,Ayesha,easypaisa
+13/03/2023,INV-1004,Rice 1kg,dairy,3,1450,4350,Ali,cash
+08/07/2023,INV-1005,Shampoo,Grocery,2,1031,Rs 2062,Usman,udhaar
+21/01/2023,INV-1006,Shampoo,Grocery,2,239,478,Ali,jazzcash
+13/04/2023,INV-1007,Soap,Personal Care,2,1387,2774,Ali,cash
+02/05/2023,INV-1008,Milk 1L,dairy,3,911,Rs 2733,Usman,udhaar
+03/08/2023,INV-1009,Sugar 1kg,Personal Care,2,532,1064,Ali,udhaar
+27/11/2023,INV-1010,Milk 1L,Dairy,1,1017,1017,Zainab,easypaisa
+29/03/2023,INV-1011,Atta 10kg,beverages,3,192,576,Usman,easypaisa
+10/04/2023,INV-1012,Milk 1L,dairy,2,509,1018,Usman,jazzcash
+26/12/2023,INV-1013,Sugar 1kg,Dairy,3,695,2085,Ahmed,udhaar
+01/06/2023,INV-1014,Rice 1kg,Dairy,2,191,Rs 382,Fatima,easypaisa
+11/05/2023,INV-1015,Soap,Personal Care,2,645,1290,Ahmed,easypaisa
+30/05/2023,INV-1016,Soap,Dairy,2,132,Rs 264,Ali,udhaar
+05/11/2023,INV-1017,Milk 1L,dairy,1,1400,1400,Walk-in,cash
+15/09/2023,INV-1018,Milk 1L,beverages,3,992,2976,Usman,udhaar
+10/12/2023,INV-1019,Shampoo,dairy,1,335,335,Ali,easypaisa
+21/10/2023,INV-1020,Cooking Oil 1L,dairy,1,1050,1050,Fatima,udhaar
+11/07/2023,INV-1021,Milk 1L,grocery,4,563,2252,Walk-in,jazzcash
+04/10/2023,INV-1022,Soap,dairy,4,526,Rs 2104,Fatima,jazzcash
+10/06/2023,INV-1023,Shampoo,Dairy,2,710,1420,Zainab,cash
+10/11/2023,INV-1024,Tea 200g,grocery,1,1274,Rs 1274,Ahmed,udhaar
+22/01/2023,INV-1025,Shampoo,dairy,1,1081,1081,Ayesha,udhaar
+10/09/2023,INV-1026,Rice 1kg,beverages,3,576,1728,Ayesha,udhaar
+24/08/2023,INV-1027,Tea 200g,dairy,3,554,1662,Zainab,udhaar
+11/12/2023,INV-1028,Rice 1kg,Grocery,4,628,,Fatima,jazzcash
+18/02/2023,INV-1029,Atta 10kg,Grocery,1,1160,1160,Ali,cash
+28/02/2023,INV-1030,Milk 1L,Grocery,2,779,Rs 1558,Ali,cash
+19/06/2023,INV-1031,Tea 200g,beverages,1,802,802,Zainab,udhaar
+07/07/2023,INV-1032,Atta 10kg,Personal Care,1,750,750,Fatima,udhaar
+28/09/2023,INV-1033,Milk 1L,Personal Care,1,651,651,Ahmed,jazzcash
+09/07/2023,INV-1034,Rice 1kg,grocery,2,282,564,Ali,udhaar
+24/06/2023,INV-1035,Tea 200g,Dairy,3,232,Rs 696,Ayesha,jazzcash
+20/02/2023,INV-1036,Cooking Oil 1L,dairy,1,176,176,Fatima,udhaar
+30/12/2023,INV-1037,Shampoo,grocery,4,1006,4024,Usman,easypaisa
+24/02/2023,INV-1038,Soap,Personal Care,4,1323,5292,Walk-in,easypaisa
+01/09/2023,INV-1039,Tea 200g,Grocery,3,776,2328,Ahmed,udhaar
+16/11/2023,INV-1040,Rice 1kg,dairy,1,688,688,Zainab,cash
+11/05/2023,INV-1041,Atta 10kg,Grocery,4,1451,5804,Walk-in,cash
+03/11/2023,INV-1042,Atta 10kg,Personal Care,2,499,Rs 998,Ahmed,jazzcash
+15/05/2023,INV-1043,Rice 1kg,Personal Care,1,1450,1450,Fatima,cash
+21/01/2023,INV-1044,Sugar 1kg,grocery,1,436,436,Ali,easypaisa
+25/11/2023,INV-1045,Milk 1L,Grocery,3,284,852,Usman,cash
+16/06/2023,INV-1046,Rice 1kg,grocery,1,1200,1200,Ayesha,udhaar
+01/10/2023,INV-1047,Tea 200g,grocery,2,1180,2360,Usman,easypaisa
+30/03/2023,INV-1048,Sugar 1kg,Dairy,2,1261,2522,Zainab,udhaar
+12/11/2023,INV-1049,Soap,Grocery,1,1136,1136,Fatima,cash
+14/01/2023,INV-1050,Rice 1kg,dairy,4,1453,5812,Usman,jazzcash
+30/08/2023,INV-1051,Milk 1L,beverages,1,882,882,Ahmed,udhaar
+22/09/2023,INV-1052,Sugar 1kg,Personal Care,4,1492,5968,Fatima,cash
+12/12/2023,INV-1053,Atta 10kg,dairy,2,625,1250,Zainab,easypaisa
+22/02/2023,INV-1054,Atta 10kg,Personal Care,3,1461,,Fatima,jazzcash
+06/12/2023,INV-1055,Cooking Oil 1L,Dairy,1,1228,1228,Ahmed,jazzcash
+02/04/2023,INV-1056,Sugar 1kg,beverages,2,174,348,Ahmed,cash
+21/09/2023,INV-1057,Tea 200g,dairy,2,173,346,Ahmed,udhaar
+04/02/2023,INV-1058,Atta 10kg,dairy,1,846,,Ali,cash
+25/07/2023,INV-1059,Shampoo,grocery,4,1351,5404,Usman,easypaisa
+22/03/2023,INV-1060,Tea 200g,Grocery,2,870,Rs 1740,Ahmed,udhaar
+19/02/2023,INV-1061,Tea 200g,dairy,3,811,2433,Usman,udhaar
+26/12/2023,INV-1062,Cooking Oil 1L,beverages,3,885,2655,Fatima,cash
+02/01/2023,INV-1063,Soap,Dairy,2,188,376,Zainab,easypaisa
+23/02/2023,INV-1064,Shampoo,dairy,2,811,1622,Usman,cash
+16/04/2023,INV-1065,Tea 200g,Personal Care,4,113,452,Usman,jazzcash
+17/09/2023,INV-1066,Milk 1L,dairy,2,444,888,Ali,easypaisa
+06/11/2023,INV-1067,Sugar 1kg,dairy,4,932,,Zainab,udhaar
+10/07/2023,INV-1068,Rice 1kg,grocery,3,744,2232,Ayesha,udhaar
+06/08/2023,INV-1069,Soap,grocery,3,764,Rs 2292,Fatima,cash
+13/02/2023,INV-1070,Rice 1kg,dairy,3,131,393,Walk-in,cash
+11/06/2023,INV-1071,Cooking Oil 1L,grocery,4,560,2240,Ali,cash
+21/07/2023,INV-1072,Atta 10kg,Dairy,4,889,3556,Usman,cash
+27/09/2023,INV-1073,Soap,Personal Care,2,336,672,Usman,easypaisa
+17/12/2023,INV-1074,Cooking Oil 1L,dairy,3,955,2865,Ahmed,cash
+31/10/2023,INV-1075,Shampoo,Dairy,3,745,2235,Fatima,easypaisa
+28/09/2023,INV-1076,Shampoo,Dairy,2,162,324,Ali,udhaar
+03/08/2023,INV-1077,Atta 10kg,beverages,1,50,50,Zainab,udhaar
+09/09/2023,INV-1078,Atta 10kg,grocery,3,306,Rs 918,Ahmed,easypaisa
+09/07/2023,INV-1079,Rice 1kg,Dairy,4,1333,5332,Fatima,easypaisa
+23/10/2023,INV-1080,Milk 1L,Personal Care,1,1363,1363,Ahmed,udhaar
+01/08/2023,INV-1081,Atta 10kg,dairy,3,211,633,Ahmed,easypaisa
+27/07/2023,INV-1082,Sugar 1kg,Dairy,1,233,233,Walk-in,easypaisa
+25/08/2023,INV-1083,Shampoo,grocery,2,1100,2200,Ali,cash
+04/12/2023,INV-1084,Rice 1kg,grocery,1,830,830,Ali,easypaisa
+22/02/2023,INV-1085,Soap,Grocery,1,232,232,Zainab,udhaar
+07/10/2023,INV-1086,Rice 1kg,dairy,4,709,2836,Ayesha,udhaar
+05/08/2023,INV-1087,Tea 200g,beverages,4,896,3584,Fatima,jazzcash
+09/09/2023,INV-1088,Shampoo,Grocery,2,1085,2170,Ahmed,jazzcash
+07/07/2023,INV-1089,Cooking Oil 1L,Grocery,1,1040,1040,Ayesha,easypaisa
+10/02/2023,INV-1090,Atta 10kg,beverages,3,1161,Rs 3483,Zainab,cash
+06/06/2023,INV-1091,Shampoo,Dairy,1,717,717,Ali,jazzcash
+15/01/2023,INV-1092,Sugar 1kg,Dairy,4,661,Rs 2644,Ali,easypaisa
+28/10/2023,INV-1093,Shampoo,Grocery,4,740,2960,Usman,cash
+06/03/2023,INV-1094,Milk 1L,beverages,3,681,2043,Usman,jazzcash
+11/12/2023,INV-1095,Tea 200g,dairy,1,978,978,Walk-in,cash
+23/11/2023,INV-1096,Rice 1kg,beverages,1,582,582,Ahmed,cash
+09/01/2023,INV-1097,Tea 200g,Dairy,2,1377,2754,Walk-in,udhaar
+10/12/2023,INV-1098,Sugar 1kg,grocery,4,276,1104,Usman,easypaisa
+09/05/2023,INV-1099,Tea 200g,grocery,1,1173,Rs 1173,Ayesha,jazzcash
+16/05/2023,INV-1100,Rice 1kg,Grocery,4,1173,4692,Ali,udhaar
+04/03/2023,INV-1101,Shampoo,dairy,3,323,,Usman,udhaar
+19/05/2023,INV-1102,Shampoo,Dairy,2,1138,Rs 2276,Usman,cash
+22/03/2023,INV-1103,Atta 10kg,beverages,2,103,206,Ahmed,easypaisa
+12/06/2023,INV-1104,Tea 200g,dairy,1,1175,1175,Ayesha,easypaisa
+16/10/2023,INV-1105,Cooking Oil 1L,Personal Care,1,436,436,Zainab,udhaar
+18/09/2023,INV-1106,Tea 200g,Personal Care,3,458,Rs 1374,Ali,udhaar
+19/08/2023,INV-1107,Soap,Grocery,4,833,3332,Zainab,jazzcash
+10/02/2023,INV-1108,Rice 1kg,Personal Care,1,224,Rs 224,Walk-in,udhaar
+28/01/2023,INV-1109,Shampoo,dairy,1,714,714,Ali,easypaisa
+15/05/2023,INV-1110,Milk 1L,dairy,4,769,3076,Walk-in,jazzcash
+20/07/2023,INV-1111,Atta 10kg,beverages,4,380,Rs 1520,Ayesha,jazzcash
+24/11/2023,INV-1112,Milk 1L,Grocery,4,244,976,Zainab,cash
+25/09/2023,INV-1113,Soap,grocery,4,520,2080,Walk-in,cash
+02/02/2023,INV-1114,Shampoo,dairy,4,1029,,Ayesha,cash
+17/02/2023,INV-1115,Atta 10kg,Grocery,3,1163,3489,Ali,easypaisa
+03/03/2023,INV-1116,Cooking Oil 1L,dairy,1,1412,1412,Walk-in,jazzcash
+04/08/2023,INV-1117,Milk 1L,Personal Care,3,540,Rs 1620,Ayesha,udhaar
+20/10/2023,INV-1118,Atta 10kg,grocery,3,208,624,Ahmed,cash
+09/04/2023,INV-1119,Milk 1L,Grocery,4,410,1640,Ayesha,jazzcash
+21/06/2023,INV-1120,Sugar 1kg,beverages,3,785,2355,Ayesha,easypaisa
+26/12/2023,INV-1121,Rice 1kg,beverages,2,495,990,Walk-in,easypaisa
+02/08/2023,INV-1122,Cooking Oil 1L,dairy,2,1166,2332,Ali,cash
+04/02/2023,INV-1123,Shampoo,dairy,3,382,1146,Ayesha,cash
+15/08/2023,INV-1124,Shampoo,Grocery,4,1325,Rs 5300,Ayesha,cash
+11/04/2023,INV-1125,Milk 1L,Personal Care,3,406,1218,Ayesha,easypaisa
+11/05/2023,INV-1126,Sugar 1kg,beverages,2,1333,Rs 2666,Ahmed,cash
+14/09/2023,INV-1127,Cooking Oil 1L,beverages,3,294,,Ahmed,udhaar
+05/01/2023,INV-1128,Rice 1kg,grocery,4,544,2176,Fatima,udhaar
+06/08/2023,INV-1129,Shampoo,Grocery,2,142,284,Zainab,cash
+12/09/2023,INV-1130,Milk 1L,Grocery,4,1229,4916,Zainab,udhaar
+25/12/2023,INV-1131,Sugar 1kg,Dairy,3,505,Rs 1515,Ali,cash
+10/10/2023,INV-1132,Cooking Oil 1L,Dairy,4,1246,4984,Ahmed,jazzcash
+26/07/2023,INV-1133,Atta 10kg,dairy,4,650,2600,Zainab,cash
+15/01/2023,INV-1134,Rice 1kg,Grocery,3,1432,4296,Usman,udhaar
+12/12/2023,INV-1135,Tea 200g,Grocery,4,742,2968,Ali,easypaisa
+11/02/2023,INV-1136,Sugar 1kg,Dairy,1,1477,1477,Ali,cash
+28/06/2023,INV-1137,Tea 200g,beverages,2,1266,2532,Ali,cash
+04/03/2023,INV-1138,Milk 1L,Dairy,1,1329,1329,Zainab,easypaisa
+18/12/2023,INV-1139,Cooking Oil 1L,Grocery,3,1182,3546,Usman,cash
+19/08/2023,INV-1140,Rice 1kg,dairy,4,840,3360,Usman,cash
+29/08/2023,INV-1141,Shampoo,dairy,1,1441,1441,Ayesha,cash
+21/02/2023,INV-1142,Cooking Oil 1L,Dairy,4,320,Rs 1280,Walk-in,cash
+06/04/2023,INV-1143,Milk 1L,grocery,2,585,1170,Ali,jazzcash
+10/08/2023,INV-1144,Tea 200g,Personal Care,4,677,2708,Usman,easypaisa
+19/08/2023,INV-1145,Atta 10kg,Grocery,1,749,749,Walk-in,jazzcash
+25/08/2023,INV-1146,Rice 1kg,Personal Care,1,1390,1390,Walk-in,udhaar
+23/05/2023,INV-1147,Milk 1L,grocery,4,1111,4444,Usman,cash
+20/06/2023,INV-1148,Soap,Dairy,2,355,Rs 710,Fatima,easypaisa
+29/01/2023,INV-1149,Atta 10kg,Personal Care,2,545,Rs 1090,Usman,easypaisa
+05/02/2023,INV-1150,Tea 200g,Grocery,4,802,3208,Ahmed,udhaar
+13/01/2023,INV-1151,Cooking Oil 1L,Grocery,2,816,1632,Ayesha,cash
+09/06/2023,INV-1152,Atta 10kg,beverages,4,485,1940,Ayesha,cash
+23/11/2023,INV-1153,Atta 10kg,Grocery,3,612,1836,Walk-in,udhaar
+06/07/2023,INV-1154,Soap,beverages,3,1271,Rs 3813,Ayesha,cash
+31/08/2023,INV-1155,Atta 10kg,Personal Care,2,812,1624,Ayesha,udhaar
+27/03/2023,INV-1156,Milk 1L,beverages,1,1410,1410,Walk-in,udhaar
+11/10/2023,INV-1157,Atta 10kg,dairy,1,1012,1012,Ahmed,cash
+07/03/2023,INV-1158,Cooking Oil 1L,Personal Care,3,1492,4476,Ahmed,cash
+19/06/2023,INV-1159,Soap,grocery,4,777,3108,Ali,cash
+14/02/2023,INV-1160,Shampoo,beverages,3,242,726,Ayesha,jazzcash
+03/03/2023,INV-1161,Cooking Oil 1L,dairy,4,940,Rs 3760,Zainab,jazzcash
+14/05/2023,INV-1162,Sugar 1kg,Personal Care,4,1095,4380,Walk-in,jazzcash
+11/10/2023,INV-1163,Sugar 1kg,dairy,4,1064,Rs 4256,Ali,cash
+28/01/2023,INV-1164,Milk 1L,Personal Care,2,380,760,Ali,cash
+18/04/2023,INV-1165,Atta 10kg,grocery,4,895,3580,Ayesha,easypaisa
+13/02/2023,INV-1166,Shampoo,Personal Care,1,68,68,Walk-in,jazzcash
+06/12/2023,INV-1167,Milk 1L,Personal Care,1,1214,1214,Walk-in,jazzcash
+13/10/2023,INV-1168,Shampoo,Grocery,2,809,Rs 1618,Ali,cash
+27/11/2023,INV-1169,Shampoo,beverages,2,251,,Zainab,easypaisa
+08/05/2023,INV-1170,Atta 10kg,Dairy,1,1155,1155,Ali,udhaar
+14/12/2023,INV-1171,Soap,Grocery,3,436,1308,Zainab,udhaar
+19/08/2023,INV-1172,Sugar 1kg,Dairy,2,71,142,Usman,jazzcash
+09/07/2023,INV-1173,Rice 1kg,dairy,4,602,2408,Fatima,jazzcash
+13/08/2023,INV-1174,Sugar 1kg,Dairy,2,1382,,Ahmed,cash
+10/10/2023,INV-1175,Atta 10kg,Dairy,4,609,2436,Zainab,easypaisa
+01/05/2023,INV-1176,Tea 200g,beverages,4,1138,4552,Walk-in,jazzcash
+26/04/2023,INV-1177,Rice 1kg,dairy,3,609,1827,Ahmed,easypaisa
+21/08/2023,INV-1178,Atta 10kg,grocery,1,333,333,Ali,udhaar
+16/09/2023,INV-1179,Cooking Oil 1L,Personal Care,1,1493,1493,Ayesha,cash
+25/12/2023,INV-1180,Sugar 1kg,beverages,2,103,206,Walk-in,cash
+17/07/2023,INV-1181,Milk 1L,Dairy,3,1344,Rs 4032,Ahmed,jazzcash
+17/05/2023,INV-1182,Shampoo,dairy,4,92,368,Usman,udhaar
+14/11/2023,INV-1183,Soap,grocery,1,806,Rs 806,Ali,easypaisa
+14/06/2023,INV-1184,Tea 200g,Grocery,3,993,Rs 2979,Fatima,easypaisa
+13/08/2023,INV-1185,Sugar 1kg,Grocery,1,380,380,Ahmed,easypaisa
+03/11/2023,INV-1186,Soap,Personal Care,3,1237,Rs 3711,Fatima,easypaisa
+22/08/2023,INV-1187,Rice 1kg,Dairy,1,1064,1064,Ayesha,easypaisa
+21/06/2023,INV-1188,Atta 10kg,grocery,1,558,558,Zainab,udhaar
+01/06/2023,INV-1189,Atta 10kg,beverages,2,598,1196,Ahmed,cash
+11/11/2023,INV-1190,Sugar 1kg,dairy,3,172,516,Ahmed,udhaar
+09/06/2023,INV-1191,Cooking Oil 1L,Personal Care,1,1408,1408,Fatima,easypaisa
+06/04/2023,INV-1192,Atta 10kg,Dairy,1,821,821,Ayesha,udhaar
+21/08/2023,INV-1193,Milk 1L,Personal Care,4,1280,5120,Ahmed,cash
+29/06/2023,INV-1194,Atta 10kg,grocery,2,1111,2222,Ahmed,udhaar
+23/04/2023,INV-1195,Tea 200g,Dairy,2,504,1008,Fatima,udhaar
+14/11/2023,INV-1196,Tea 200g,Grocery,1,245,Rs 245,Walk-in,cash
+21/02/2023,INV-1197,Tea 200g,beverages,1,1392,1392,Walk-in,easypaisa
+25/09/2023,INV-1198,Shampoo,Grocery,3,1462,4386,Ahmed,jazzcash
+22/10/2023,INV-1199,Shampoo,Dairy,1,930,930,Usman,jazzcash
+23/04/2023,INV-1200,Soap,grocery,2,474,Rs 948,Zainab,jazzcash
+11/04/2023,INV-1201,Shampoo,beverages,3,463,1389,Walk-in,cash
+23/04/2023,INV-1202,Soap,beverages,1,721,721,Ali,jazzcash
+22/03/2023,INV-1203,Shampoo,Personal Care,1,499,499,Ayesha,easypaisa
+06/07/2023,INV-1204,Atta 10kg,Dairy,2,770,1540,Ayesha,easypaisa
+23/04/2023,INV-1205,Sugar 1kg,Grocery,3,1069,3207,Zainab,jazzcash
+02/01/2023,INV-1206,Rice 1kg,Personal Care,3,296,888,Walk-in,easypaisa
+10/05/2023,INV-1207,Milk 1L,Personal Care,4,412,1648,Ali,jazzcash
+08/08/2023,INV-1208,Cooking Oil 1L,Grocery,2,224,448,Fatima,cash
+23/02/2023,INV-1209,Rice 1kg,grocery,1,979,979,Usman,udhaar
+09/12/2023,INV-1210,Tea 200g,beverages,1,344,344,Usman,easypaisa
+12/08/2023,INV-1211,Atta 10kg,grocery,3,1080,,Ali,easypaisa
+13/08/2023,INV-1212,Atta 10kg,beverages,3,300,900,Fatima,udhaar
+06/05/2023,INV-1213,Sugar 1kg,grocery,4,1217,4868,Usman,cash
+10/05/2023,INV-1214,Rice 1kg,grocery,4,474,1896,Walk-in,easypaisa
+22/02/2023,INV-1215,Tea 200g,Dairy,3,708,Rs 2124,Fatima,cash
+21/06/2023,INV-1216,Rice 1kg,Grocery,2,106,Rs 212,Ayesha,easypaisa
+06/08/2023,INV-1217,Milk 1L,dairy,3,234,702,Ali,cash
+09/06/2023,INV-1218,Tea 200g,dairy,2,883,,Usman,jazzcash
+17/07/2023,INV-1219,Sugar 1kg,Dairy,1,372,372,Walk-in,easypaisa
+04/09/2023,INV-1220,Milk 1L,Dairy,3,892,2676,Ayesha,jazzcash
+20/11/2023,INV-1221,Sugar 1kg,dairy,2,1329,2658,Ahmed,cash
+22/07/2023,INV-1222,Shampoo,Grocery,3,1121,3363,Ahmed,cash
+03/07/2023,INV-1223,Shampoo,Dairy,1,856,856,Usman,jazzcash
+03/05/2023,INV-1224,Shampoo,dairy,4,620,2480,Ayesha,cash
+12/09/2023,INV-1225,Sugar 1kg,Grocery,1,1473,1473,Zainab,easypaisa
+21/10/2023,INV-1226,Tea 200g,Dairy,1,987,987,Ayesha,udhaar
+07/10/2023,INV-1227,Shampoo,Grocery,4,1132,4528,Ayesha,easypaisa
+21/11/2023,INV-1228,Milk 1L,Grocery,2,349,698,Ahmed,easypaisa
+08/04/2023,INV-1229,Milk 1L,grocery,3,907,,Ayesha,easypaisa
+17/07/2023,INV-1230,Atta 10kg,grocery,3,244,Rs 732,Ayesha,cash
+28/08/2023,INV-1231,Shampoo,Personal Care,4,1451,5804,Ahmed,jazzcash
+24/05/2023,INV-1232,Tea 200g,Personal Care,3,1280,3840,Zainab,easypaisa
+07/04/2023,INV-1233,Tea 200g,beverages,4,253,1012,Walk-in,easypaisa
+20/07/2023,INV-1234,Rice 1kg,dairy,1,454,Rs 454,Ayesha,easypaisa
+04/05/2023,INV-1235,Shampoo,beverages,2,1290,Rs 2580,Walk-in,udhaar
+06/07/2023,INV-1236,Tea 200g,beverages,2,1331,2662,Ayesha,udhaar
+22/11/2023,INV-1237,Cooking Oil 1L,beverages,4,348,Rs 1392,Ahmed,jazzcash
+15/12/2023,INV-1238,Tea 200g,grocery,3,400,1200,Fatima,udhaar
+16/09/2023,INV-1239,Cooking Oil 1L,dairy,3,966,2898,Usman,jazzcash
+28/05/2023,INV-1240,Rice 1kg,dairy,2,1488,2976,Walk-in,jazzcash
+09/09/2023,INV-1241,Shampoo,beverages,3,1428,Rs 4284,Ahmed,jazzcash
+12/12/2023,INV-1242,Atta 10kg,beverages,4,432,1728,Fatima,cash
+27/05/2023,INV-1243,Milk 1L,Grocery,4,260,Rs 1040,Walk-in,udhaar
+28/05/2023,INV-1244,Tea 200g,Grocery,3,1388,4164,Zainab,easypaisa
+18/12/2023,INV-1245,Atta 10kg,Grocery,2,1087,2174,Fatima,jazzcash
+18/07/2023,INV-1246,Rice 1kg,beverages,2,937,Rs 1874,Walk-in,cash
+04/11/2023,INV-1247,Cooking Oil 1L,Dairy,3,906,2718,Ali,udhaar
+08/05/2023,INV-1248,Soap,Personal Care,4,242,968,Ahmed,jazzcash
+08/02/2023,INV-1249,Atta 10kg,grocery,1,479,479,Walk-in,jazzcash
+04/12/2023,INV-1250,Cooking Oil 1L,Personal Care,3,829,2487,Fatima,udhaar
+26/12/2023,INV-1251,Shampoo,grocery,2,1167,Rs 2334,Ayesha,easypaisa
+09/05/2023,INV-1252,Milk 1L,beverages,2,925,1850,Ahmed,easypaisa
+24/09/2023,INV-1253,Atta 10kg,Personal Care,4,389,Rs 1556,Fatima,jazzcash
+31/05/2023,INV-1254,Shampoo,beverages,1,1004,Rs 1004,Walk-in,udhaar
+25/10/2023,INV-1255,Shampoo,Grocery,3,1146,Rs 3438,Ali,jazzcash
+09/04/2023,INV-1256,Soap,Personal Care,3,874,2622,Ayesha,udhaar
+20/09/2023,INV-1257,Milk 1L,Grocery,3,1382,Rs 4146,Ayesha,cash
+09/09/2023,INV-1258,Cooking Oil 1L,Grocery,2,1171,2342,Fatima,udhaar
+24/05/2023,INV-1259,Sugar 1kg,beverages,2,777,1554,Zainab,jazzcash
+12/12/2023,INV-1260,Tea 200g,Dairy,2,633,1266,Ayesha,udhaar
+22/04/2023,INV-1261,Shampoo,dairy,1,911,911,Ali,udhaar
+01/03/2023,INV-1262,Tea 200g,Grocery,1,85,85,Ayesha,jazzcash
+02/01/2023,INV-1263,Shampoo,Dairy,3,1449,4347,Zainab,easypaisa
+31/10/2023,INV-1264,Shampoo,Personal Care,2,502,1004,Fatima,udhaar
+11/09/2023,INV-1265,Shampoo,Grocery,4,1416,5664,Ali,jazzcash
+20/05/2023,INV-1266,Sugar 1kg,grocery,1,233,233,Ahmed,jazzcash
+06/02/2023,INV-1267,Milk 1L,beverages,4,1472,5888,Ali,udhaar
+09/06/2023,INV-1268,Atta 10kg,beverages,4,709,2836,Ali,jazzcash
+09/01/2023,INV-1269,Milk 1L,Dairy,4,1111,Rs 4444,Ahmed,udhaar
+21/08/2023,INV-1270,Soap,beverages,3,236,708,Usman,cash
+09/04/2023,INV-1271,Atta 10kg,Grocery,1,1463,1463,Ayesha,jazzcash
+27/05/2023,INV-1272,Rice 1kg,Personal Care,4,1145,4580,Walk-in,easypaisa
+31/10/2023,INV-1273,Shampoo,beverages,4,102,408,Ayesha,easypaisa
+27/07/2023,INV-1274,Shampoo,Personal Care,2,657,,Ali,easypaisa
+11/05/2023,INV-1275,Rice 1kg,grocery,4,955,3820,Fatima,jazzcash
+01/06/2023,INV-1276,Tea 200g,Personal Care,3,357,1071,Usman,easypaisa
+23/02/2023,INV-1277,Milk 1L,Grocery,3,432,1296,Ahmed,cash
+30/04/2023,INV-1278,Milk 1L,grocery,4,766,3064,Walk-in,cash
+10/06/2023,INV-1279,Atta 10kg,Personal Care,4,1131,4524,Fatima,easypaisa
+26/04/2023,INV-1280,Soap,grocery,3,830,2490,Usman,udhaar
+16/03/2023,INV-1281,Soap,beverages,2,807,1614,Ahmed,cash
+23/04/2023,INV-1282,Rice 1kg,beverages,2,1411,2822,Walk-in,cash
+14/04/2023,INV-1283,Shampoo,dairy,3,677,2031,Walk-in,cash
+06/12/2023,INV-1284,Soap,Personal Care,4,975,3900,Walk-in,cash
+11/09/2023,INV-1285,Milk 1L,dairy,3,1171,3513,Ali,cash
+15/08/2023,INV-1286,Rice 1kg,dairy,1,1002,1002,Ali,jazzcash
+22/04/2023,INV-1287,Shampoo,grocery,2,932,1864,Ali,udhaar
+09/04/2023,INV-1288,Sugar 1kg,Grocery,1,473,Rs 473,Ayesha,cash
+02/06/2023,INV-1289,Tea 200g,Dairy,4,548,2192,Fatima,jazzcash
+15/12/2023,INV-1290,Shampoo,Dairy,1,1222,Rs 1222,Walk-in,udhaar
+04/12/2023,INV-1291,Cooking Oil 1L,Grocery,1,1079,1079,Ayesha,jazzcash
+13/07/2023,INV-1292,Tea 200g,Dairy,3,1317,3951,Zainab,easypaisa
+06/11/2023,INV-1293,Tea 200g,dairy,4,1361,5444,Ayesha,jazzcash
+12/06/2023,INV-1294,Sugar 1kg,dairy,4,1428,5712,Ali,easypaisa
+27/07/2023,INV-1295,Sugar 1kg,Grocery,4,658,Rs 2632,Zainab,easypaisa
+18/06/2023,INV-1296,Milk 1L,Personal Care,3,186,558,Usman,cash
+10/06/2023,INV-1297,Soap,grocery,2,1323,2646,Ahmed,udhaar
+09/03/2023,INV-1298,Shampoo,Dairy,4,1083,4332,Ahmed,jazzcash
+16/10/2023,INV-1299,Shampoo,dairy,1,320,320,Ahmed,jazzcash
+04/10/2023,INV-1300,Sugar 1kg,dairy,3,400,1200,Walk-in,udhaar
+31/10/2023,INV-1301,Soap,Dairy,4,178,712,Ahmed,cash
+15/05/2023,INV-1302,Atta 10kg,grocery,4,677,2708,Zainab,easypaisa
+14/07/2023,INV-1303,Tea 200g,grocery,3,299,897,Usman,udhaar
+08/05/2023,INV-1304,Atta 10kg,dairy,2,119,Rs 238,Fatima,easypaisa
+02/02/2023,INV-1305,Tea 200g,Dairy,4,788,3152,Ahmed,easypaisa
+25/06/2023,INV-1306,Atta 10kg,beverages,4,1058,4232,Ahmed,cash
+22/01/2023,INV-1307,Tea 200g,beverages,3,598,,Usman,cash
+26/08/2023,INV-1308,Cooking Oil 1L,dairy,4,409,1636,Zainab,udhaar
+07/06/2023,INV-1309,Soap,beverages,2,766,1532,Usman,easypaisa
+07/02/2023,INV-1310,Milk 1L,beverages,2,655,,Walk-in,easypaisa
+18/08/2023,INV-1311,Soap,beverages,3,906,2718,Walk-in,cash
+31/12/2023,INV-1312,Atta 10kg,grocery,1,1264,1264,Ayesha,easypaisa
+20/02/2023,INV-1313,Cooking Oil 1L,grocery,1,1281,1281,Ayesha,easypaisa
+21/09/2023,INV-1314,Tea 200g,Personal Care,1,215,215,Fatima,easypaisa
+10/10/2023,INV-1315,Rice 1kg,Dairy,3,121,Rs 363,Usman,cash
+27/01/2023,INV-1316,Soap,Personal Care,1,1065,Rs 1065,Ahmed,cash
+14/08/2023,INV-1317,Soap,Personal Care,1,75,Rs 75,Ayesha,jazzcash
+04/10/2023,INV-1318,Shampoo,Personal Care,2,195,390,Usman,jazzcash
+13/10/2023,INV-1319,Shampoo,dairy,4,936,3744,Fatima,cash
+07/04/2023,INV-1320,Cooking Oil 1L,beverages,3,171,Rs 513,Usman,cash
+11/10/2023,INV-1321,Soap,beverages,3,1123,3369,Ayesha,easypaisa
+13/11/2023,INV-1322,Shampoo,Dairy,2,929,1858,Zainab,udhaar
+31/10/2023,INV-1323,Rice 1kg,Grocery,4,478,1912,Walk-in,jazzcash
+27/05/2023,INV-1324,Rice 1kg,beverages,4,841,Rs 3364,Ahmed,udhaar
+04/01/2023,INV-1325,Soap,grocery,4,925,Rs 3700,Fatima,easypaisa
+04/02/2023,INV-1326,Sugar 1kg,dairy,2,707,1414,Ahmed,jazzcash
+11/07/2023,INV-1327,Rice 1kg,Grocery,1,712,Rs 712,Usman,easypaisa
+18/02/2023,INV-1328,Milk 1L,Grocery,4,1166,Rs 4664,Walk-in,udhaar
+17/01/2023,INV-1329,Sugar 1kg,Dairy,4,506,2024,Walk-in,jazzcash
+21/06/2023,INV-1330,Sugar 1kg,dairy,3,860,,Ali,cash
+08/08/2023,INV-1331,Cooking Oil 1L,Personal Care,1,465,465,Ali,udhaar
+07/06/2023,INV-1332,Rice 1kg,Dairy,4,808,,Ali,udhaar
+15/02/2023,INV-1333,Milk 1L,grocery,3,1343,4029,Ali,jazzcash
+06/01/2023,INV-1334,Sugar 1kg,Personal Care,3,174,522,Ali,udhaar
+09/04/2023,INV-1335,Sugar 1kg,Personal Care,1,1321,1321,Ahmed,cash
+21/08/2023,INV-1336,Rice 1kg,Personal Care,2,655,1310,Fatima,udhaar
+06/02/2023,INV-1337,Shampoo,Personal Care,2,148,296,Usman,jazzcash
+07/10/2023,INV-1338,Soap,Grocery,1,943,Rs 943,Ahmed,easypaisa
+15/12/2023,INV-1339,Cooking Oil 1L,beverages,3,833,2499,Fatima,easypaisa
+29/10/2023,INV-1340,Shampoo,Grocery,2,1002,2004,Zainab,udhaar
+30/06/2023,INV-1341,Tea 200g,Dairy,4,1048,4192,Fatima,jazzcash
+05/04/2023,INV-1342,Soap,dairy,4,1336,5344,Zainab,cash
+09/04/2023,INV-1343,Rice 1kg,dairy,3,66,198,Usman,udhaar
+07/07/2023,INV-1344,Tea 200g,dairy,2,769,1538,Usman,easypaisa
+26/04/2023,INV-1345,Soap,beverages,4,1019,4076,Usman,cash
+10/07/2023,INV-1346,Cooking Oil 1L,beverages,3,277,831,Ahmed,cash
+10/09/2023,INV-1347,Shampoo,grocery,1,76,Rs 76,Ayesha,jazzcash
+10/06/2023,INV-1348,Milk 1L,Personal Care,2,967,1934,Zainab,easypaisa
+13/09/2023,INV-1349,Tea 200g,Personal Care,3,520,Rs 1560,Usman,udhaar
+19/11/2023,INV-1350,Rice 1kg,Dairy,4,1440,5760,Ayesha,easypaisa
+08/05/2023,INV-1351,Milk 1L,dairy,3,1408,Rs 4224,Ahmed,easypaisa
+18/01/2023,INV-1352,Tea 200g,dairy,4,687,2748,Usman,udhaar
+08/10/2023,INV-1353,Sugar 1kg,Dairy,1,698,,Ahmed,easypaisa
+11/08/2023,INV-1354,Soap,Dairy,4,212,848,Walk-in,cash
+23/02/2023,INV-1355,Shampoo,dairy,2,236,472,Ali,udhaar
+27/02/2023,INV-1356,Shampoo,grocery,4,1375,5500,Fatima,jazzcash
+19/11/2023,INV-1357,Tea 200g,grocery,4,1400,5600,Ali,jazzcash
+26/12/2023,INV-1358,Milk 1L,Grocery,4,370,1480,Ahmed,udhaar
+23/06/2023,INV-1359,Milk 1L,Dairy,4,580,,Fatima,cash
+07/10/2023,INV-1360,Cooking Oil 1L,Grocery,4,244,976,Ali,udhaar
+24/04/2023,INV-1361,Sugar 1kg,grocery,4,743,2972,Usman,easypaisa
+15/10/2023,INV-1362,Milk 1L,Personal Care,2,857,1714,Ahmed,jazzcash
+08/12/2023,INV-1363,Tea 200g,Dairy,2,1310,2620,Fatima,cash
+31/05/2023,INV-1364,Shampoo,grocery,2,1233,2466,Zainab,easypaisa
+07/05/2023,INV-1365,Atta 10kg,dairy,2,554,1108,Ahmed,cash
+04/06/2023,INV-1366,Cooking Oil 1L,grocery,4,1481,5924,Ayesha,easypaisa
+30/09/2023,INV-1367,Tea 200g,beverages,3,573,1719,Ahmed,easypaisa
+14/04/2023,INV-1368,Rice 1kg,Personal Care,1,723,Rs 723,Zainab,cash
+26/10/2023,INV-1369,Milk 1L,grocery,2,255,,Ali,cash
+03/09/2023,INV-1370,Milk 1L,Dairy,4,343,1372,Fatima,cash
+25/06/2023,INV-1371,Milk 1L,Personal Care,1,1177,1177,Ayesha,udhaar
+08/02/2023,INV-1372,Shampoo,Personal Care,1,1054,Rs 1054,Walk-in,udhaar
+19/06/2023,INV-1373,Atta 10kg,beverages,1,1383,Rs 1383,Fatima,udhaar
+04/09/2023,INV-1374,Soap,grocery,4,817,3268,Usman,jazzcash
+26/01/2023,INV-1375,Cooking Oil 1L,beverages,1,525,525,Fatima,udhaar
+21/12/2023,INV-1376,Cooking Oil 1L,Personal Care,1,1274,1274,Ahmed,cash
+02/11/2023,INV-1377,Tea 200g,dairy,4,780,3120,Zainab,jazzcash
+13/01/2023,INV-1378,Shampoo,Grocery,3,615,1845,Fatima,udhaar
+12/11/2023,INV-1379,Rice 1kg,grocery,3,242,726,Ali,easypaisa
+09/11/2023,INV-1380,Tea 200g,grocery,4,1399,5596,Fatima,udhaar
+05/02/2023,INV-1381,Cooking Oil 1L,grocery,1,1437,1437,Walk-in,udhaar
+22/06/2023,INV-1382,Cooking Oil 1L,beverages,2,1175,2350,Zainab,cash
+20/01/2023,INV-1383,Rice 1kg,Dairy,4,101,404,Fatima,udhaar
+17/11/2023,INV-1384,Milk 1L,Dairy,4,907,3628,Usman,udhaar
+21/09/2023,INV-1385,Atta 10kg,dairy,4,489,1956,Walk-in,jazzcash
+22/05/2023,INV-1386,Soap,Grocery,2,715,1430,Fatima,jazzcash
+23/05/2023,INV-1387,Shampoo,dairy,2,991,1982,Ali,jazzcash
+02/04/2023,INV-1388,Shampoo,Dairy,4,101,404,Walk-in,cash
+20/12/2023,INV-1389,Milk 1L,Personal Care,1,701,701,Usman,udhaar
+18/11/2023,INV-1390,Shampoo,grocery,1,1342,1342,Zainab,easypaisa
+15/10/2023,INV-1391,Milk 1L,dairy,3,354,1062,Ayesha,cash
+03/08/2023,INV-1392,Soap,grocery,1,840,840,Ahmed,cash
+08/12/2023,INV-1393,Rice 1kg,Personal Care,1,914,914,Zainab,cash
+20/02/2023,INV-1394,Cooking Oil 1L,Personal Care,4,1487,Rs 5948,Ali,jazzcash
+02/06/2023,INV-1395,Rice 1kg,dairy,2,556,1112,Ahmed,easypaisa
+05/07/2023,INV-1396,Shampoo,Grocery,3,266,Rs 798,Ali,cash
+04/03/2023,INV-1397,Sugar 1kg,Dairy,2,440,880,Zainab,cash
+09/07/2023,INV-1398,Atta 10kg,dairy,4,998,3992,Fatima,easypaisa
+05/05/2023,INV-1399,Sugar 1kg,Dairy,4,120,480,Usman,udhaar
+30/05/2023,INV-1400,Cooking Oil 1L,Personal Care,4,805,3220,Ali,easypaisa
+10/11/2023,INV-1401,Milk 1L,Dairy,4,1486,5944,Walk-in,udhaar
+27/02/2023,INV-1402,Tea 200g,grocery,1,353,353,Zainab,easypaisa
+08/12/2023,INV-1403,Rice 1kg,dairy,2,1276,2552,Ahmed,easypaisa
+01/11/2023,INV-1404,Tea 200g,Grocery,3,302,906,Usman,easypaisa
+29/06/2023,INV-1405,Rice 1kg,Personal Care,4,647,2588,Usman,easypaisa
+19/06/2023,INV-1406,Atta 10kg,Personal Care,2,82,164,Fatima,jazzcash
+22/11/2023,INV-1407,Atta 10kg,Dairy,2,454,908,Ayesha,cash
+28/09/2023,INV-1408,Soap,Dairy,2,221,442,Ahmed,udhaar
+23/02/2023,INV-1409,Rice 1kg,Grocery,1,1259,1259,Fatima,udhaar
+11/04/2023,INV-1410,Cooking Oil 1L,Personal Care,2,1269,2538,Ahmed,udhaar
+21/09/2023,INV-1411,Soap,Dairy,2,1499,2998,Walk-in,easypaisa
+22/02/2023,INV-1412,Soap,grocery,4,273,1092,Ahmed,cash
+01/03/2023,INV-1413,Rice 1kg,Dairy,4,776,3104,Ahmed,jazzcash
+18/04/2023,INV-1414,Soap,Grocery,2,974,1948,Zainab,cash
+05/01/2023,INV-1415,Soap,Dairy,3,1469,4407,Fatima,udhaar
+13/04/2023,INV-1416,Shampoo,beverages,3,171,513,Fatima,cash
+15/07/2023,INV-1417,Shampoo,dairy,3,1089,3267,Ayesha,cash
+19/09/2023,INV-1418,Tea 200g,grocery,1,376,376,Ayesha,udhaar
+31/12/2023,INV-1419,Atta 10kg,grocery,1,50,50,Ali,easypaisa
+16/12/2023,INV-1420,Milk 1L,Dairy,1,1441,1441,Ayesha,jazzcash
+16/02/2023,INV-1421,Tea 200g,Personal Care,3,1098,3294,Zainab,easypaisa
+21/12/2023,INV-1422,Cooking Oil 1L,Dairy,4,1392,5568,Walk-in,cash
+07/11/2023,INV-1423,Shampoo,grocery,4,517,2068,Ahmed,udhaar
+04/11/2023,INV-1424,Cooking Oil 1L,Personal Care,2,953,,Usman,cash
+24/05/2023,INV-1425,Tea 200g,Grocery,1,197,197,Ahmed,jazzcash
+26/09/2023,INV-1426,Tea 200g,Grocery,2,224,Rs 448,Walk-in,cash
+04/05/2023,INV-1427,Soap,Personal Care,3,1220,Rs 3660,Ayesha,easypaisa
+16/04/2023,INV-1428,Tea 200g,Personal Care,4,282,1128,Walk-in,udhaar
+07/06/2023,INV-1429,Rice 1kg,Dairy,3,125,375,Ali,jazzcash
+27/05/2023,INV-1430,Milk 1L,Grocery,3,741,Rs 2223,Fatima,easypaisa
+25/05/2023,INV-1431,Soap,dairy,3,1241,3723,Ayesha,easypaisa
+30/04/2023,INV-1432,Shampoo,dairy,4,468,1872,Walk-in,jazzcash
+15/11/2023,INV-1433,Rice 1kg,grocery,1,843,,Ayesha,jazzcash
+02/10/2023,INV-1434,Cooking Oil 1L,Personal Care,4,1416,5664,Usman,jazzcash
+02/04/2023,INV-1435,Sugar 1kg,Dairy,3,1298,3894,Usman,udhaar
+27/02/2023,INV-1436,Sugar 1kg,Grocery,4,1376,5504,Zainab,jazzcash
+12/12/2023,INV-1437,Rice 1kg,beverages,3,698,2094,Ahmed,udhaar
+17/08/2023,INV-1438,Shampoo,beverages,1,1250,1250,Zainab,cash
+27/04/2023,INV-1439,Milk 1L,grocery,1,107,107,Usman,easypaisa
+14/11/2023,INV-1440,Rice 1kg,beverages,1,1148,1148,Fatima,cash
+06/10/2023,INV-1441,Shampoo,beverages,3,195,585,Fatima,easypaisa
+07/05/2023,INV-1442,Atta 10kg,Dairy,4,202,808,Ahmed,cash
+09/05/2023,INV-1443,Shampoo,Personal Care,2,270,Rs 540,Fatima,cash
+27/02/2023,INV-1444,Atta 10kg,Grocery,2,530,1060,Ahmed,cash
+02/05/2023,INV-1445,Tea 200g,Dairy,1,70,70,Walk-in,jazzcash
+01/01/2023,INV-1446,Sugar 1kg,dairy,2,591,1182,Usman,cash
+27/08/2023,INV-1447,Soap,grocery,3,565,1695,Ahmed,udhaar
+17/10/2023,INV-1448,Atta 10kg,beverages,4,192,768,Zainab,jazzcash
+06/04/2023,INV-1449,Sugar 1kg,beverages,3,574,1722,Walk-in,cash
+06/05/2023,INV-1450,Shampoo,beverages,3,240,720,Fatima,jazzcash
+28/04/2023,INV-1451,Tea 200g,dairy,1,1371,Rs 1371,Usman,easypaisa
+17/02/2023,INV-1452,Milk 1L,dairy,4,122,488,Walk-in,jazzcash
+30/03/2023,INV-1453,Shampoo,beverages,4,1224,4896,Walk-in,jazzcash
+25/08/2023,INV-1454,Atta 10kg,Grocery,3,837,2511,Ali,cash
+29/09/2023,INV-1455,Sugar 1kg,Grocery,3,781,2343,Fatima,easypaisa
+08/07/2023,INV-1456,Cooking Oil 1L,Dairy,2,901,1802,Zainab,jazzcash
+11/07/2023,INV-1457,Rice 1kg,dairy,3,1391,4173,Walk-in,cash
+10/03/2023,INV-1458,Milk 1L,dairy,3,232,696,Walk-in,easypaisa
+05/10/2023,INV-1459,Cooking Oil 1L,Grocery,1,1217,1217,Zainab,udhaar
+15/12/2023,INV-1460,Milk 1L,Dairy,3,1346,4038,Ahmed,easypaisa
+04/09/2023,INV-1461,Milk 1L,beverages,1,567,567,Ayesha,cash
+17/03/2023,INV-1462,Soap,Dairy,1,735,735,Ayesha,easypaisa
+03/06/2023,INV-1463,Milk 1L,Grocery,3,1148,Rs 3444,Usman,easypaisa
+24/05/2023,INV-1464,Shampoo,Personal Care,3,1295,Rs 3885,Fatima,jazzcash
+27/03/2023,INV-1465,Atta 10kg,dairy,1,718,718,Fatima,jazzcash
+04/07/2023,INV-1466,Cooking Oil 1L,Dairy,2,286,572,Ayesha,jazzcash
+12/10/2023,INV-1467,Milk 1L,Grocery,3,1196,Rs 3588,Walk-in,udhaar
+08/08/2023,INV-1468,Tea 200g,Dairy,1,432,432,Zainab,jazzcash
+10/03/2023,INV-1469,Rice 1kg,beverages,3,165,495,Walk-in,jazzcash
+16/02/2023,INV-1470,Atta 10kg,Personal Care,4,1097,4388,Ayesha,easypaisa
+04/04/2023,INV-1471,Soap,Dairy,3,1100,3300,Ayesha,jazzcash
+26/08/2023,INV-1472,Tea 200g,Personal Care,1,1033,Rs 1033,Zainab,cash
+23/07/2023,INV-1473,Tea 200g,grocery,1,595,595,Usman,easypaisa
+06/08/2023,INV-1474,Sugar 1kg,Dairy,2,814,1628,Ayesha,easypaisa
+07/12/2023,INV-1475,Atta 10kg,dairy,1,1023,Rs 1023,Usman,cash
+08/02/2023,INV-1476,Tea 200g,grocery,2,340,Rs 680,Fatima,cash
+10/04/2023,INV-1477,Shampoo,Grocery,2,552,1104,Ayesha,easypaisa
+16/10/2023,INV-1478,Atta 10kg,Dairy,3,374,1122,Ali,cash
+11/09/2023,INV-1479,Shampoo,Dairy,1,758,Rs 758,Zainab,easypaisa
+10/08/2023,INV-1480,Shampoo,Dairy,2,1351,Rs 2702,Ayesha,cash
+23/12/2023,INV-1481,Sugar 1kg,dairy,3,1010,3030,Zainab,cash
+23/01/2023,INV-1482,Sugar 1kg,grocery,3,108,324,Walk-in,udhaar
+07/09/2023,INV-1483,Milk 1L,Grocery,2,367,734,Ali,cash
+10/01/2023,INV-1484,Shampoo,beverages,2,743,1486,Ahmed,cash
+03/09/2023,INV-1485,Soap,Grocery,2,968,1936,Ahmed,udhaar
+21/11/2023,INV-1486,Cooking Oil 1L,Personal Care,3,297,891,Ayesha,easypaisa
+10/04/2023,INV-1487,Atta 10kg,beverages,4,543,2172,Usman,easypaisa
+17/10/2023,INV-1488,Rice 1kg,dairy,1,1371,1371,Fatima,easypaisa
+29/06/2023,INV-1489,Shampoo,Dairy,1,290,290,Ayesha,jazzcash
+11/08/2023,INV-1490,Atta 10kg,Dairy,3,660,1980,Zainab,easypaisa
+07/09/2023,INV-1491,Tea 200g,Personal Care,3,474,1422,Ahmed,jazzcash
+27/05/2023,INV-1492,Sugar 1kg,Personal Care,1,1367,1367,Ayesha,jazzcash
+06/04/2023,INV-1493,Shampoo,beverages,3,618,1854,Ali,udhaar
+14/09/2023,INV-1494,Tea 200g,Dairy,1,759,,Usman,cash
+21/11/2023,INV-1495,Shampoo,dairy,4,110,440,Ali,udhaar
+04/01/2023,INV-1496,Sugar 1kg,dairy,4,220,880,Usman,jazzcash
+16/01/2023,INV-1497,Milk 1L,Personal Care,3,1235,3705,Walk-in,udhaar
+07/10/2023,INV-1498,Cooking Oil 1L,dairy,2,1083,2166,Ayesha,easypaisa
+02/12/2023,INV-1499,Shampoo,Grocery,1,1413,1413,Ayesha,jazzcash
+04/09/2023,INV-1500,Sugar 1kg,beverages,2,94,,Walk-in,jazzcash
+15/09/2023,INV-1501,Milk 1L,Dairy,3,843,2529,Ali,cash
+09/06/2023,INV-1502,Tea 200g,Personal Care,2,897,Rs 1794,Usman,easypaisa
+06/12/2023,INV-1503,Cooking Oil 1L,grocery,3,628,1884,Ali,jazzcash
+01/06/2023,INV-1504,Soap,grocery,3,1387,4161,Ali,cash
+27/06/2023,INV-1505,Rice 1kg,Grocery,4,567,2268,Ayesha,udhaar
+12/06/2023,INV-1506,Tea 200g,Grocery,2,1005,2010,Fatima,udhaar
+02/02/2023,INV-1507,Milk 1L,Dairy,4,769,3076,Zainab,cash
+28/06/2023,INV-1508,Shampoo,dairy,2,236,Rs 472,Ahmed,jazzcash
+11/04/2023,INV-1509,Tea 200g,Grocery,3,1288,3864,Ali,jazzcash
+25/09/2023,INV-1510,Sugar 1kg,grocery,1,150,150,Usman,udhaar
+19/11/2023,INV-1511,Shampoo,grocery,2,1193,2386,Ahmed,udhaar
+06/03/2023,INV-1512,Atta 10kg,grocery,4,1391,Rs 5564,Usman,easypaisa
+17/06/2023,INV-1513,Shampoo,Grocery,2,217,434,Walk-in,cash
+26/11/2023,INV-1514,Shampoo,beverages,2,962,1924,Usman,easypaisa
+12/02/2023,INV-1515,Atta 10kg,Grocery,1,1087,1087,Fatima,udhaar
+13/02/2023,INV-1516,Shampoo,Dairy,4,608,Rs 2432,Walk-in,udhaar
+12/10/2023,INV-1517,Tea 200g,Grocery,3,580,1740,Ahmed,easypaisa
+12/01/2023,INV-1518,Milk 1L,grocery,1,387,Rs 387,Ahmed,jazzcash
+05/04/2023,INV-1519,Atta 10kg,Dairy,4,637,Rs 2548,Ali,jazzcash
+29/10/2023,INV-1520,Sugar 1kg,Personal Care,3,1381,4143,Ayesha,udhaar
+10/09/2023,INV-1521,Shampoo,grocery,4,1262,5048,Ahmed,easypaisa
+30/08/2023,INV-1522,Shampoo,Personal Care,4,491,1964,Zainab,udhaar
+04/02/2023,INV-1523,Soap,grocery,1,1407,1407,Ahmed,cash
+03/08/2023,INV-1524,Tea 200g,Dairy,4,1012,Rs 4048,Ahmed,easypaisa
+03/12/2023,INV-1525,Milk 1L,Personal Care,2,1213,Rs 2426,Ayesha,easypaisa
+31/03/2023,INV-1526,Milk 1L,Grocery,2,710,1420,Ahmed,cash
+21/09/2023,INV-1527,Soap,dairy,3,1278,3834,Ahmed,udhaar
+03/04/2023,INV-1528,Milk 1L,Grocery,3,607,1821,Zainab,easypaisa
+31/03/2023,INV-1529,Shampoo,beverages,3,723,Rs 2169,Zainab,easypaisa
+25/04/2023,INV-1530,Sugar 1kg,Dairy,4,229,Rs 916,Walk-in,udhaar
+15/04/2023,INV-1531,Shampoo,Dairy,3,133,Rs 399,Usman,jazzcash
+15/07/2023,INV-1532,Soap,beverages,4,1460,5840,Ali,jazzcash
+10/11/2023,INV-1533,Cooking Oil 1L,grocery,1,578,578,Fatima,easypaisa
+24/04/2023,INV-1534,Shampoo,Personal Care,2,521,1042,Ahmed,udhaar
+16/03/2023,INV-1535,Rice 1kg,Grocery,4,168,672,Ali,cash
+05/08/2023,INV-1536,Cooking Oil 1L,Grocery,2,932,1864,Usman,easypaisa
+04/10/2023,INV-1537,Sugar 1kg,Dairy,1,263,Rs 263,Ahmed,udhaar
+06/09/2023,INV-1538,Atta 10kg,Dairy,2,915,1830,Walk-in,cash
+13/06/2023,INV-1539,Soap,dairy,4,890,3560,Usman,udhaar
+23/12/2023,INV-1540,Sugar 1kg,Grocery,1,261,261,Zainab,cash
+11/07/2023,INV-1541,Rice 1kg,Personal Care,4,1030,Rs 4120,Walk-in,udhaar
+15/08/2023,INV-1542,Shampoo,Personal Care,3,184,552,Ayesha,cash
+26/06/2023,INV-1543,Milk 1L,Personal Care,2,605,Rs 1210,Ali,jazzcash
+09/04/2023,INV-1544,Sugar 1kg,beverages,2,969,1938,Ayesha,cash
+05/02/2023,INV-1545,Atta 10kg,dairy,2,88,176,Ali,udhaar
+06/04/2023,INV-1546,Shampoo,dairy,4,1371,5484,Ahmed,udhaar
+01/06/2023,INV-1547,Sugar 1kg,dairy,2,74,148,Ayesha,jazzcash
+31/05/2023,INV-1548,Tea 200g,Grocery,3,625,1875,Ahmed,jazzcash
+09/07/2023,INV-1549,Atta 10kg,beverages,1,1299,1299,Ayesha,easypaisa
+12/08/2023,INV-1550,Rice 1kg,beverages,2,137,274,Ahmed,jazzcash
+06/02/2023,INV-1551,Milk 1L,grocery,1,188,Rs 188,Walk-in,cash
+25/09/2023,INV-1552,Shampoo,Dairy,1,1115,1115,Ahmed,jazzcash
+02/07/2023,INV-1553,Cooking Oil 1L,grocery,2,882,1764,Ahmed,cash
+13/01/2023,INV-1554,Shampoo,beverages,1,1483,1483,Fatima,easypaisa
+06/10/2023,INV-1555,Shampoo,Dairy,3,747,2241,Zainab,udhaar
+05/08/2023,INV-1556,Sugar 1kg,beverages,1,534,534,Walk-in,easypaisa
+21/12/2023,INV-1557,Sugar 1kg,dairy,4,1277,5108,Ali,udhaar
+27/12/2023,INV-1558,Soap,beverages,1,1470,1470,Ali,cash
+13/10/2023,INV-1559,Rice 1kg,dairy,2,704,1408,Fatima,jazzcash
+30/09/2023,INV-1560,Soap,Grocery,4,759,3036,Usman,cash
+03/03/2023,INV-1561,Soap,beverages,1,545,545,Walk-in,jazzcash
+25/03/2023,INV-1562,Shampoo,beverages,2,238,Rs 476,Ahmed,cash
+05/08/2023,INV-1563,Milk 1L,grocery,4,406,1624,Zainab,cash
+08/12/2023,INV-1564,Rice 1kg,Personal Care,4,333,Rs 1332,Ahmed,cash
+06/07/2023,INV-1565,Soap,Grocery,2,1438,2876,Ayesha,udhaar
+19/01/2023,INV-1566,Tea 200g,Dairy,1,120,120,Ahmed,jazzcash
+26/06/2023,INV-1567,Atta 10kg,Personal Care,3,727,2181,Fatima,easypaisa
+10/04/2023,INV-1568,Milk 1L,dairy,2,53,Rs 106,Ali,jazzcash
+21/08/2023,INV-1569,Milk 1L,beverages,2,1493,2986,Ahmed,jazzcash
+17/03/2023,INV-1570,Cooking Oil 1L,Personal Care,2,1136,2272,Zainab,cash
+22/09/2023,INV-1571,Atta 10kg,dairy,3,478,1434,Zainab,cash
+11/10/2023,INV-1572,Sugar 1kg,Dairy,2,1240,2480,Fatima,udhaar
+25/07/2023,INV-1573,Cooking Oil 1L,Personal Care,2,1243,2486,Ayesha,jazzcash
+11/08/2023,INV-1574,Rice 1kg,Grocery,4,482,1928,Ali,udhaar
+21/02/2023,INV-1575,Shampoo,Dairy,3,431,1293,Fatima,easypaisa
+05/12/2023,INV-1576,Soap,beverages,4,738,2952,Walk-in,jazzcash
+24/05/2023,INV-1577,Milk 1L,Dairy,4,1009,4036,Ayesha,cash
+10/03/2023,INV-1578,Rice 1kg,dairy,2,1066,Rs 2132,Walk-in,cash
+09/04/2023,INV-1579,Shampoo,beverages,4,1117,4468,Zainab,jazzcash
+25/01/2023,INV-1580,Soap,Grocery,4,577,2308,Usman,cash
+22/02/2023,INV-1581,Cooking Oil 1L,dairy,2,94,188,Zainab,udhaar
+31/05/2023,INV-1582,Cooking Oil 1L,dairy,1,1373,1373,Fatima,easypaisa
+24/05/2023,INV-1583,Sugar 1kg,beverages,1,104,Rs 104,Walk-in,cash
+26/02/2023,INV-1584,Sugar 1kg,beverages,2,1431,2862,Ali,udhaar
+08/02/2023,INV-1585,Atta 10kg,grocery,3,1151,3453,Ali,cash
+19/04/2023,INV-1586,Sugar 1kg,Dairy,1,528,528,Walk-in,jazzcash
+30/06/2023,INV-1587,Milk 1L,grocery,2,1065,Rs 2130,Zainab,easypaisa
+11/02/2023,INV-1588,Milk 1L,Grocery,2,144,Rs 288,Fatima,cash
+05/07/2023,INV-1589,Milk 1L,dairy,3,129,Rs 387,Ayesha,easypaisa
+11/08/2023,INV-1590,Atta 10kg,grocery,4,681,2724,Usman,jazzcash
+02/05/2023,INV-1591,Shampoo,Dairy,1,1266,1266,Ali,udhaar
+13/05/2023,INV-1592,Cooking Oil 1L,dairy,1,688,688,Zainab,udhaar
+12/06/2023,INV-1593,Tea 200g,Dairy,2,1257,Rs 2514,Usman,cash
+03/08/2023,INV-1594,Atta 10kg,Dairy,3,250,750,Walk-in,easypaisa
+09/08/2023,INV-1595,Soap,Dairy,2,91,Rs 182,Walk-in,easypaisa
+23/08/2023,INV-1596,Soap,Grocery,2,661,1322,Usman,easypaisa
+27/11/2023,INV-1597,Cooking Oil 1L,dairy,3,1154,Rs 3462,Ayesha,cash
+26/05/2023,INV-1598,Tea 200g,dairy,2,253,Rs 506,Fatima,udhaar
+27/08/2023,INV-1599,Rice 1kg,Grocery,1,1219,1219,Ali,easypaisa
+17/03/2023,INV-1600,Shampoo,dairy,3,1352,4056,Ali,jazzcash
+09/01/2023,INV-1601,Milk 1L,dairy,4,468,1872,Zainab,cash
+15/03/2023,INV-1602,Tea 200g,Dairy,1,158,158,Ayesha,jazzcash
+10/09/2023,INV-1603,Milk 1L,dairy,2,1219,Rs 2438,Ahmed,jazzcash
+18/08/2023,INV-1604,Soap,Personal Care,1,1038,1038,Ahmed,jazzcash
+07/01/2023,INV-1605,Milk 1L,grocery,2,1111,2222,Ayesha,udhaar
+23/06/2023,INV-1606,Soap,Personal Care,3,596,1788,Zainab,jazzcash
+21/05/2023,INV-1607,Milk 1L,Personal Care,4,458,Rs 1832,Ayesha,jazzcash
+17/06/2023,INV-1608,Soap,grocery,4,453,1812,Ali,jazzcash
+19/06/2023,INV-1609,Atta 10kg,Grocery,3,189,Rs 567,Ayesha,udhaar
+10/10/2023,INV-1610,Milk 1L,dairy,3,707,2121,Ahmed,cash
+02/05/2023,INV-1611,Milk 1L,Dairy,3,367,1101,Walk-in,jazzcash
+13/07/2023,INV-1612,Soap,Dairy,2,759,,Ayesha,easypaisa
+05/01/2023,INV-1613,Milk 1L,Dairy,3,1151,Rs 3453,Fatima,easypaisa
+29/01/2023,INV-1614,Rice 1kg,beverages,2,558,1116,Ahmed,udhaar
+14/06/2023,INV-1615,Sugar 1kg,beverages,3,649,1947,Ahmed,cash
+05/12/2023,INV-1616,Cooking Oil 1L,Dairy,1,772,772,Fatima,jazzcash
+16/05/2023,INV-1617,Milk 1L,dairy,1,918,918,Ali,udhaar
+31/12/2023,INV-1618,Tea 200g,grocery,4,863,Rs 3452,Zainab,udhaar
+17/11/2023,INV-1619,Atta 10kg,dairy,3,819,2457,Zainab,jazzcash
+08/12/2023,INV-1620,Cooking Oil 1L,Dairy,2,583,1166,Zainab,easypaisa
+25/05/2023,INV-1621,Milk 1L,grocery,4,133,Rs 532,Usman,cash
+23/11/2023,INV-1622,Milk 1L,Personal Care,1,1193,1193,Usman,jazzcash
+05/08/2023,INV-1623,Cooking Oil 1L,beverages,4,566,2264,Ahmed,easypaisa
+28/10/2023,INV-1624,Milk 1L,Grocery,2,592,1184,Ayesha,cash
+12/05/2023,INV-1625,Soap,grocery,4,581,2324,Zainab,jazzcash
+19/10/2023,INV-1626,Soap,Personal Care,1,444,444,Ayesha,easypaisa
+11/03/2023,INV-1627,Sugar 1kg,grocery,4,263,1052,Usman,udhaar
+09/09/2023,INV-1628,Tea 200g,beverages,1,1125,1125,Walk-in,easypaisa
+02/10/2023,INV-1629,Rice 1kg,Grocery,2,422,Rs 844,Walk-in,easypaisa
+30/12/2023,INV-1630,Cooking Oil 1L,Personal Care,4,1373,5492,Ayesha,jazzcash
+01/07/2023,INV-1631,Sugar 1kg,Dairy,4,563,2252,Usman,jazzcash
+16/06/2023,INV-1632,Milk 1L,Dairy,1,792,Rs 792,Ayesha,easypaisa
+01/04/2023,INV-1633,Tea 200g,Dairy,3,177,531,Ayesha,cash
+21/07/2023,INV-1634,Soap,Dairy,4,787,Rs 3148,Ali,udhaar
+12/12/2023,INV-1635,Tea 200g,Personal Care,2,686,1372,Fatima,udhaar
+19/01/2023,INV-1636,Shampoo,Dairy,1,421,,Fatima,cash
+08/02/2023,INV-1637,Tea 200g,dairy,3,784,2352,Fatima,jazzcash
+06/05/2023,INV-1638,Sugar 1kg,grocery,3,496,1488,Ali,jazzcash
+22/06/2023,INV-1639,Rice 1kg,dairy,4,752,3008,Usman,udhaar
+21/05/2023,INV-1640,Sugar 1kg,beverages,1,826,826,Walk-in,easypaisa
+30/08/2023,INV-1641,Sugar 1kg,Personal Care,4,725,2900,Ali,jazzcash
+08/08/2023,INV-1642,Sugar 1kg,Grocery,1,1055,Rs 1055,Ayesha,jazzcash
+06/05/2023,INV-1643,Milk 1L,grocery,2,1334,2668,Usman,jazzcash
+27/02/2023,INV-1644,Milk 1L,Dairy,3,912,,Usman,easypaisa
+28/05/2023,INV-1645,Rice 1kg,Personal Care,3,1163,3489,Ali,jazzcash
+13/11/2023,INV-1646,Shampoo,Dairy,4,678,2712,Ayesha,jazzcash
+27/12/2023,INV-1647,Tea 200g,Grocery,4,297,1188,Ali,cash
+01/01/2023,INV-1648,Shampoo,Personal Care,1,1344,1344,Zainab,udhaar
+14/12/2023,INV-1649,Tea 200g,beverages,2,598,1196,Ayesha,udhaar
+09/07/2023,INV-1650,Shampoo,grocery,2,208,Rs 416,Ali,jazzcash
+10/07/2023,INV-1651,Cooking Oil 1L,beverages,4,1037,4148,Ahmed,jazzcash
+08/11/2023,INV-1652,Sugar 1kg,grocery,4,922,3688,Ali,cash
+27/04/2023,INV-1653,Cooking Oil 1L,beverages,1,891,891,Fatima,easypaisa
+14/05/2023,INV-1654,Tea 200g,Grocery,2,1399,2798,Walk-in,easypaisa
+27/02/2023,INV-1655,Milk 1L,dairy,2,854,,Ali,cash
+13/02/2023,INV-1656,Atta 10kg,Dairy,3,166,498,Ayesha,jazzcash
+22/06/2023,INV-1657,Cooking Oil 1L,beverages,4,1031,4124,Ali,udhaar
+09/06/2023,INV-1658,Soap,Dairy,2,589,1178,Ali,jazzcash
+22/06/2023,INV-1659,Rice 1kg,grocery,3,961,2883,Walk-in,easypaisa
+13/11/2023,INV-1660,Cooking Oil 1L,Dairy,4,1372,Rs 5488,Ahmed,easypaisa
+30/10/2023,INV-1661,Soap,Dairy,1,1051,1051,Zainab,jazzcash
+29/05/2023,INV-1662,Atta 10kg,grocery,2,210,420,Walk-in,jazzcash
+21/03/2023,INV-1663,Shampoo,dairy,4,325,1300,Usman,cash
+01/08/2023,INV-1664,Milk 1L,grocery,4,596,2384,Walk-in,cash
+22/07/2023,INV-1665,Shampoo,Personal Care,2,644,1288,Fatima,cash
+09/09/2023,INV-1666,Milk 1L,dairy,1,230,230,Usman,easypaisa
+17/08/2023,INV-1667,Sugar 1kg,dairy,4,963,3852,Walk-in,jazzcash
+13/06/2023,INV-1668,Soap,dairy,1,871,871,Walk-in,jazzcash
+15/08/2023,INV-1669,Atta 10kg,Personal Care,3,610,1830,Ayesha,jazzcash
+27/05/2023,INV-1670,Atta 10kg,Grocery,3,920,2760,Fatima,cash
+20/01/2023,INV-1671,Cooking Oil 1L,beverages,3,1302,Rs 3906,Walk-in,easypaisa
+16/02/2023,INV-1672,Soap,Grocery,4,1462,5848,Fatima,cash
+21/08/2023,INV-1673,Tea 200g,dairy,1,411,411,Ahmed,cash
+01/11/2023,INV-1674,Rice 1kg,Personal Care,1,1102,1102,Ahmed,cash
+14/01/2023,INV-1675,Soap,dairy,1,309,309,Walk-in,udhaar
+23/05/2023,INV-1676,Cooking Oil 1L,beverages,2,675,1350,Ahmed,easypaisa
+01/01/2023,INV-1677,Sugar 1kg,beverages,3,619,1857,Zainab,jazzcash
+23/02/2023,INV-1678,Rice 1kg,Grocery,1,1165,1165,Zainab,cash
+16/09/2023,INV-1679,Rice 1kg,grocery,1,976,976,Ayesha,jazzcash
+24/05/2023,INV-1680,Rice 1kg,beverages,2,253,506,Ayesha,cash
+12/01/2023,INV-1681,Sugar 1kg,Dairy,2,111,222,Usman,jazzcash
+26/11/2023,INV-1682,Milk 1L,Personal Care,3,360,1080,Ali,udhaar
+12/08/2023,INV-1683,Shampoo,Personal Care,3,96,Rs 288,Usman,easypaisa
+29/09/2023,INV-1684,Sugar 1kg,grocery,4,1403,5612,Ahmed,cash
+24/12/2023,INV-1685,Rice 1kg,Grocery,3,935,,Ali,easypaisa
+05/06/2023,INV-1686,Shampoo,Grocery,1,1271,1271,Zainab,cash
+08/01/2023,INV-1687,Milk 1L,beverages,2,572,1144,Zainab,udhaar
+02/05/2023,INV-1688,Milk 1L,Grocery,2,605,Rs 1210,Fatima,jazzcash
+14/12/2023,INV-1689,Tea 200g,grocery,4,591,2364,Fatima,udhaar
+13/06/2023,INV-1690,Shampoo,Dairy,1,1348,1348,Walk-in,jazzcash
+31/03/2023,INV-1691,Shampoo,Grocery,4,75,300,Ahmed,cash
+16/05/2023,INV-1692,Soap,grocery,4,218,872,Walk-in,udhaar
+05/07/2023,INV-1693,Soap,beverages,3,573,1719,Usman,cash
+12/11/2023,INV-1694,Sugar 1kg,Dairy,1,583,583,Walk-in,cash
+27/06/2023,INV-1695,Cooking Oil 1L,grocery,2,166,332,Ahmed,udhaar
+28/01/2023,INV-1696,Atta 10kg,Grocery,1,471,471,Ayesha,easypaisa
+08/08/2023,INV-1697,Shampoo,Personal Care,2,1498,2996,Usman,easypaisa
+23/12/2023,INV-1698,Rice 1kg,dairy,2,199,398,Fatima,easypaisa
+10/02/2023,INV-1699,Rice 1kg,beverages,3,993,2979,Usman,cash
+16/08/2023,INV-1700,Sugar 1kg,grocery,1,300,300,Usman,easypaisa
+11/07/2023,INV-1701,Cooking Oil 1L,Grocery,2,1107,2214,Fatima,easypaisa
+25/05/2023,INV-1702,Soap,grocery,4,753,3012,Zainab,udhaar
+20/07/2023,INV-1703,Tea 200g,grocery,3,700,2100,Fatima,udhaar
+31/07/2023,INV-1704,Soap,beverages,1,771,771,Usman,udhaar
+08/08/2023,INV-1705,Shampoo,Grocery,4,1172,,Ayesha,cash
+28/08/2023,INV-1706,Cooking Oil 1L,grocery,4,1063,4252,Fatima,udhaar
+15/02/2023,INV-1707,Sugar 1kg,Grocery,1,1265,1265,Ayesha,jazzcash
+04/02/2023,INV-1708,Cooking Oil 1L,grocery,4,1268,5072,Usman,jazzcash
+10/09/2023,INV-1709,Rice 1kg,grocery,2,1466,2932,Usman,jazzcash
+23/03/2023,INV-1710,Sugar 1kg,dairy,3,247,741,Usman,cash
+13/09/2023,INV-1711,Soap,dairy,3,729,2187,Ahmed,udhaar
+16/07/2023,INV-1712,Rice 1kg,Dairy,2,264,Rs 528,Usman,jazzcash
+30/10/2023,INV-1713,Cooking Oil 1L,Personal Care,1,1011,1011,Ayesha,cash
+10/01/2023,INV-1714,Cooking Oil 1L,grocery,4,80,320,Fatima,jazzcash
+08/11/2023,INV-1715,Sugar 1kg,beverages,3,150,Rs 450,Usman,cash
+13/10/2023,INV-1716,Milk 1L,Grocery,3,1390,4170,Ali,udhaar
+30/08/2023,INV-1717,Sugar 1kg,beverages,2,1396,2792,Fatima,udhaar
+08/09/2023,INV-1718,Shampoo,beverages,1,874,Rs 874,Ahmed,easypaisa
+31/12/2023,INV-1719,Soap,beverages,1,746,Rs 746,Zainab,jazzcash
+05/01/2023,INV-1720,Tea 200g,Grocery,4,1177,4708,Zainab,udhaar
+29/04/2023,INV-1721,Shampoo,grocery,2,933,1866,Ayesha,udhaar
+16/10/2023,INV-1722,Shampoo,Grocery,2,777,1554,Walk-in,udhaar
+06/03/2023,INV-1723,Sugar 1kg,dairy,1,749,749,Ali,jazzcash
+26/05/2023,INV-1724,Tea 200g,grocery,2,1281,2562,Ahmed,jazzcash
+12/08/2023,INV-1725,Milk 1L,Grocery,2,502,1004,Ahmed,cash
+27/08/2023,INV-1726,Soap,beverages,1,831,831,Ali,jazzcash
+26/06/2023,INV-1727,Atta 10kg,Dairy,3,235,705,Usman,jazzcash
+24/09/2023,INV-1728,Shampoo,Grocery,1,515,515,Ali,cash
+07/12/2023,INV-1729,Shampoo,beverages,1,66,Rs 66,Ahmed,udhaar
+09/10/2023,INV-1730,Atta 10kg,Dairy,4,891,3564,Ahmed,cash
+04/03/2023,INV-1731,Tea 200g,Dairy,2,1456,2912,Ahmed,udhaar
+05/08/2023,INV-1732,Shampoo,Dairy,2,573,1146,Zainab,udhaar
+08/12/2023,INV-1733,Atta 10kg,grocery,4,858,3432,Ahmed,cash
+11/11/2023,INV-1734,Milk 1L,grocery,1,878,878,Walk-in,cash
+10/10/2023,INV-1735,Tea 200g,Grocery,2,862,1724,Ali,easypaisa
+26/06/2023,INV-1736,Sugar 1kg,Dairy,2,863,Rs 1726,Walk-in,cash
+08/04/2023,INV-1737,Sugar 1kg,Grocery,4,322,1288,Usman,jazzcash
+15/04/2023,INV-1738,Rice 1kg,Personal Care,3,74,222,Ahmed,cash
+09/04/2023,INV-1739,Sugar 1kg,Personal Care,1,557,557,Ahmed,easypaisa
+07/11/2023,INV-1740,Cooking Oil 1L,Dairy,2,102,204,Walk-in,cash
+06/01/2023,INV-1741,Shampoo,Dairy,3,149,447,Usman,cash
+16/07/2023,INV-1742,Soap,dairy,1,1437,1437,Ayesha,easypaisa
+17/12/2023,INV-1743,Rice 1kg,Grocery,3,108,Rs 324,Fatima,udhaar
+13/05/2023,INV-1744,Tea 200g,Personal Care,3,1302,3906,Ayesha,easypaisa
+24/12/2023,INV-1745,Cooking Oil 1L,beverages,1,444,444,Walk-in,easypaisa
+16/09/2023,INV-1746,Shampoo,Dairy,4,124,496,Walk-in,jazzcash
+23/01/2023,INV-1747,Shampoo,Grocery,2,1222,2444,Walk-in,cash
+22/02/2023,INV-1748,Tea 200g,Dairy,4,895,3580,Usman,cash
+14/06/2023,INV-1749,Sugar 1kg,Dairy,2,1017,2034,Walk-in,easypaisa
+21/07/2023,INV-1750,Rice 1kg,beverages,2,767,1534,Ahmed,easypaisa
+24/03/2023,INV-1751,Soap,dairy,3,974,2922,Ayesha,udhaar
+25/05/2023,INV-1752,Rice 1kg,Personal Care,1,1489,1489,Fatima,easypaisa
+26/03/2023,INV-1753,Shampoo,Dairy,1,329,,Ayesha,easypaisa
+19/03/2023,INV-1754,Shampoo,dairy,1,323,Rs 323,Zainab,jazzcash
+01/01/2023,INV-1755,Soap,dairy,1,795,795,Fatima,easypaisa
+20/02/2023,INV-1756,Rice 1kg,beverages,2,329,658,Zainab,jazzcash
+22/06/2023,INV-1757,Milk 1L,Grocery,1,1042,Rs 1042,Ali,cash
+24/07/2023,INV-1758,Sugar 1kg,dairy,3,688,2064,Walk-in,easypaisa
+17/09/2023,INV-1759,Tea 200g,grocery,2,535,Rs 1070,Walk-in,easypaisa
+15/10/2023,INV-1760,Milk 1L,Grocery,1,884,884,Zainab,jazzcash
+03/02/2023,INV-1761,Shampoo,beverages,4,921,Rs 3684,Walk-in,easypaisa
+14/12/2023,INV-1762,Sugar 1kg,Grocery,2,452,904,Ali,udhaar
+05/04/2023,INV-1763,Tea 200g,Dairy,2,842,1684,Walk-in,jazzcash
+13/03/2023,INV-1764,Soap,dairy,4,1147,4588,Usman,jazzcash
+08/02/2023,INV-1765,Soap,Personal Care,2,978,Rs 1956,Fatima,cash
+03/06/2023,INV-1766,Atta 10kg,Dairy,2,819,1638,Zainab,cash
+07/09/2023,INV-1767,Cooking Oil 1L,grocery,2,1331,Rs 2662,Ahmed,easypaisa
+11/06/2023,INV-1768,Milk 1L,Personal Care,3,761,2283,Zainab,jazzcash
+28/04/2023,INV-1769,Shampoo,Personal Care,1,204,204,Usman,cash
+16/09/2023,INV-1770,Rice 1kg,Dairy,4,347,1388,Ahmed,jazzcash
+02/11/2023,INV-1771,Soap,dairy,1,1383,Rs 1383,Ayesha,jazzcash
+25/09/2023,INV-1772,Rice 1kg,Dairy,4,1375,5500,Fatima,cash
+23/02/2023,INV-1773,Rice 1kg,Grocery,2,1209,2418,Walk-in,udhaar
+24/08/2023,INV-1774,Soap,beverages,1,1234,1234,Ali,cash
+10/08/2023,INV-1775,Milk 1L,Grocery,1,1278,1278,Ayesha,udhaar
+08/09/2023,INV-1776,Cooking Oil 1L,Grocery,1,114,114,Ali,cash
+09/11/2023,INV-1777,Atta 10kg,grocery,3,956,2868,Ali,jazzcash
+22/04/2023,INV-1778,Rice 1kg,grocery,2,213,426,Ayesha,udhaar
+12/09/2023,INV-1779,Tea 200g,Personal Care,2,829,1658,Fatima,jazzcash
+30/10/2023,INV-1780,Milk 1L,grocery,4,1153,Rs 4612,Ahmed,cash
+26/07/2023,INV-1781,Shampoo,Grocery,3,1176,3528,Ayesha,udhaar
+17/08/2023,INV-1782,Sugar 1kg,dairy,4,506,2024,Ali,udhaar
+07/12/2023,INV-1783,Milk 1L,dairy,1,179,179,Zainab,jazzcash
+07/03/2023,INV-1784,Soap,dairy,3,793,2379,Usman,cash
+16/03/2023,INV-1785,Soap,beverages,4,1343,5372,Usman,jazzcash
+13/04/2023,INV-1786,Tea 200g,Dairy,4,412,1648,Ali,jazzcash
+11/07/2023,INV-1787,Cooking Oil 1L,beverages,3,888,2664,Walk-in,cash
+09/09/2023,INV-1788,Soap,Dairy,2,647,1294,Ali,easypaisa
+14/08/2023,INV-1789,Atta 10kg,dairy,2,1277,2554,Ahmed,cash
+21/10/2023,INV-1790,Atta 10kg,grocery,4,684,2736,Fatima,udhaar
+02/11/2023,INV-1791,Shampoo,dairy,4,215,860,Ahmed,jazzcash
+08/04/2023,INV-1792,Milk 1L,Grocery,4,1405,5620,Zainab,udhaar
+04/12/2023,INV-1793,Atta 10kg,dairy,3,451,1353,Fatima,udhaar
+13/10/2023,INV-1794,Cooking Oil 1L,beverages,2,279,558,Ahmed,udhaar
+01/12/2023,INV-1795,Shampoo,Dairy,1,145,145,Ahmed,udhaar
+13/12/2023,INV-1796,Atta 10kg,grocery,4,653,2612,Ahmed,jazzcash
+04/11/2023,INV-1797,Tea 200g,dairy,4,1119,4476,Fatima,easypaisa
+06/09/2023,INV-1798,Soap,grocery,1,739,Rs 739,Walk-in,jazzcash
+15/06/2023,INV-1799,Rice 1kg,Personal Care,4,1107,4428,Ayesha,jazzcash
+01/12/2023,INV-1800,Rice 1kg,Personal Care,4,1191,4764,Zainab,easypaisa
+30/01/2023,INV-1801,Atta 10kg,Grocery,4,177,708,Fatima,udhaar
+04/09/2023,INV-1802,Shampoo,Dairy,2,94,188,Ali,udhaar
+16/04/2023,INV-1803,Soap,Personal Care,3,316,,Walk-in,easypaisa
+20/02/2023,INV-1804,Milk 1L,Dairy,1,921,921,Fatima,easypaisa
+22/03/2023,INV-1805,Tea 200g,Grocery,3,1393,4179,Zainab,udhaar
+13/05/2023,INV-1806,Cooking Oil 1L,Personal Care,3,738,2214,Walk-in,cash
+12/10/2023,INV-1807,Atta 10kg,grocery,4,838,3352,Walk-in,jazzcash
+18/05/2023,INV-1808,Sugar 1kg,Grocery,1,654,654,Fatima,cash
+03/07/2023,INV-1809,Milk 1L,beverages,3,496,1488,Walk-in,jazzcash
+26/11/2023,INV-1810,Sugar 1kg,Dairy,1,393,393,Walk-in,cash
+30/09/2023,INV-1811,Shampoo,grocery,2,958,1916,Fatima,easypaisa
+06/12/2023,INV-1812,Soap,beverages,4,78,312,Usman,cash
+10/03/2023,INV-1813,Tea 200g,Grocery,4,1016,4064,Ali,easypaisa
+03/02/2023,INV-1814,Cooking Oil 1L,Dairy,4,622,2488,Ayesha,jazzcash
+19/09/2023,INV-1815,Tea 200g,Personal Care,3,408,1224,Ali,cash
+22/02/2023,INV-1816,Tea 200g,grocery,1,847,847,Fatima,easypaisa
+24/07/2023,INV-1817,Sugar 1kg,beverages,2,141,282,Zainab,cash
+06/05/2023,INV-1818,Milk 1L,grocery,3,515,1545,Walk-in,easypaisa
+23/08/2023,INV-1819,Tea 200g,beverages,4,1046,Rs 4184,Ali,easypaisa
+12/02/2023,INV-1820,Soap,beverages,2,1079,2158,Walk-in,cash
+28/08/2023,INV-1821,Sugar 1kg,grocery,3,517,1551,Usman,easypaisa
+21/04/2023,INV-1822,Shampoo,Dairy,2,681,1362,Ali,jazzcash
+06/09/2023,INV-1823,Atta 10kg,Personal Care,2,1152,Rs 2304,Ayesha,cash
+31/05/2023,INV-1824,Cooking Oil 1L,grocery,1,1362,1362,Ayesha,udhaar
+02/07/2023,INV-1825,Cooking Oil 1L,Personal Care,3,676,Rs 2028,Zainab,udhaar
+02/12/2023,INV-1826,Milk 1L,grocery,1,988,988,Walk-in,udhaar
+05/04/2023,INV-1827,Shampoo,Personal Care,3,787,2361,Zainab,udhaar
+08/01/2023,INV-1828,Milk 1L,beverages,3,936,Rs 2808,Usman,easypaisa
+26/12/2023,INV-1829,Atta 10kg,beverages,2,483,966,Walk-in,easypaisa
+03/07/2023,INV-1830,Shampoo,Dairy,3,225,675,Ahmed,cash
+08/10/2023,INV-1831,Milk 1L,dairy,2,597,1194,Ahmed,easypaisa
+14/07/2023,INV-1832,Soap,Grocery,3,1365,4095,Ali,easypaisa
+18/12/2023,INV-1833,Shampoo,grocery,4,762,Rs 3048,Ahmed,udhaar
+14/07/2023,INV-1834,Sugar 1kg,Dairy,2,320,640,Walk-in,jazzcash
+04/06/2023,INV-1835,Soap,grocery,1,677,677,Ahmed,easypaisa
+03/04/2023,INV-1836,Soap,dairy,3,643,1929,Ahmed,jazzcash
+09/06/2023,INV-1837,Sugar 1kg,Grocery,3,655,1965,Ali,jazzcash
+02/03/2023,INV-1838,Sugar 1kg,dairy,1,1221,1221,Walk-in,udhaar
+02/05/2023,INV-1839,Rice 1kg,Personal Care,4,1155,4620,Zainab,cash
+20/02/2023,INV-1840,Cooking Oil 1L,beverages,4,1005,4020,Ayesha,easypaisa
+04/10/2023,INV-1841,Sugar 1kg,Dairy,4,471,1884,Fatima,jazzcash
+05/01/2023,INV-1842,Tea 200g,dairy,1,898,898,Usman,jazzcash
+02/04/2023,INV-1843,Cooking Oil 1L,Grocery,4,1211,4844,Ayesha,udhaar
+19/06/2023,INV-1844,Shampoo,beverages,2,1489,2978,Ahmed,easypaisa
+13/11/2023,INV-1845,Sugar 1kg,Dairy,1,719,719,Ali,easypaisa
+22/01/2023,INV-1846,Sugar 1kg,dairy,2,634,1268,Usman,udhaar
+22/11/2023,INV-1847,Atta 10kg,grocery,1,199,199,Ayesha,jazzcash
+01/01/2023,INV-1848,Shampoo,grocery,2,288,576,Fatima,cash
+13/05/2023,INV-1849,Soap,Personal Care,3,214,642,Ayesha,udhaar
+21/08/2023,INV-1850,Tea 200g,dairy,1,722,Rs 722,Ahmed,jazzcash
+12/01/2023,INV-1851,Atta 10kg,beverages,2,969,1938,Ali,cash
+12/12/2023,INV-1852,Sugar 1kg,grocery,1,755,755,Zainab,jazzcash
+15/02/2023,INV-1853,Atta 10kg,dairy,3,443,Rs 1329,Walk-in,jazzcash
+03/02/2023,INV-1854,Cooking Oil 1L,dairy,1,967,967,Ali,jazzcash
+19/03/2023,INV-1855,Atta 10kg,grocery,2,1235,Rs 2470,Ali,jazzcash
+06/08/2023,INV-1856,Milk 1L,Grocery,2,1360,Rs 2720,Ayesha,udhaar
+28/10/2023,INV-1857,Milk 1L,dairy,1,1101,Rs 1101,Fatima,udhaar
+14/03/2023,INV-1858,Rice 1kg,Grocery,2,1174,,Walk-in,easypaisa
+09/10/2023,INV-1859,Atta 10kg,beverages,3,326,978,Zainab,easypaisa
+06/09/2023,INV-1860,Soap,Grocery,1,595,Rs 595,Walk-in,cash
+16/02/2023,INV-1861,Sugar 1kg,grocery,2,1138,2276,Zainab,jazzcash
+01/05/2023,INV-1862,Soap,beverages,4,670,2680,Ayesha,jazzcash
+02/08/2023,INV-1863,Milk 1L,grocery,2,1041,2082,Walk-in,cash
+27/08/2023,INV-1864,Sugar 1kg,Personal Care,4,966,3864,Ayesha,jazzcash
+25/02/2023,INV-1865,Atta 10kg,grocery,3,1093,Rs 3279,Zainab,udhaar
+16/12/2023,INV-1866,Rice 1kg,dairy,2,842,1684,Ahmed,easypaisa
+17/04/2023,INV-1867,Cooking Oil 1L,Personal Care,2,911,1822,Ahmed,udhaar
+15/11/2023,INV-1868,Sugar 1kg,beverages,4,50,200,Walk-in,cash
+17/02/2023,INV-1869,Milk 1L,Personal Care,4,1403,Rs 5612,Fatima,jazzcash
+02/03/2023,INV-1870,Tea 200g,Grocery,3,1349,4047,Ahmed,easypaisa
+03/12/2023,INV-1871,Sugar 1kg,dairy,2,1274,2548,Usman,cash
+26/01/2023,INV-1872,Rice 1kg,grocery,2,757,1514,Fatima,cash
+19/10/2023,INV-1873,Cooking Oil 1L,Dairy,1,526,526,Walk-in,easypaisa
+14/09/2023,INV-1874,Shampoo,grocery,2,1418,Rs 2836,Zainab,jazzcash
+08/01/2023,INV-1875,Soap,dairy,1,778,778,Usman,jazzcash
+23/04/2023,INV-1876,Atta 10kg,Dairy,1,848,848,Ali,udhaar
+21/12/2023,INV-1877,Sugar 1kg,beverages,2,1169,2338,Ali,cash
+10/09/2023,INV-1878,Atta 10kg,Dairy,2,488,976,Ayesha,easypaisa
+29/06/2023,INV-1879,Milk 1L,beverages,1,962,962,Ali,jazzcash
+26/07/2023,INV-1880,Tea 200g,Personal Care,2,69,138,Walk-in,easypaisa
+30/10/2023,INV-1881,Shampoo,beverages,2,235,470,Fatima,udhaar
+07/05/2023,INV-1882,Milk 1L,Personal Care,4,272,1088,Ali,udhaar
+25/02/2023,INV-1883,Atta 10kg,dairy,2,548,1096,Usman,udhaar
+02/08/2023,INV-1884,Cooking Oil 1L,dairy,4,340,1360,Zainab,jazzcash
+14/01/2023,INV-1885,Milk 1L,Dairy,4,919,3676,Usman,udhaar
+28/01/2023,INV-1886,Milk 1L,dairy,4,885,3540,Zainab,cash
+19/03/2023,INV-1887,Tea 200g,dairy,4,817,Rs 3268,Ahmed,jazzcash
+04/08/2023,INV-1888,Shampoo,beverages,3,930,2790,Ahmed,easypaisa
+31/12/2023,INV-1889,Rice 1kg,beverages,2,766,Rs 1532,Zainab,jazzcash
+03/06/2023,INV-1890,Shampoo,Personal Care,1,962,Rs 962,Fatima,jazzcash
+14/01/2023,INV-1891,Shampoo,dairy,4,499,1996,Fatima,cash
+06/07/2023,INV-1892,Milk 1L,grocery,4,1089,4356,Walk-in,easypaisa
+08/11/2023,INV-1893,Cooking Oil 1L,dairy,1,1380,,Walk-in,easypaisa
+07/01/2023,INV-1894,Soap,dairy,4,655,2620,Ahmed,easypaisa
+03/01/2023,INV-1895,Shampoo,Dairy,2,991,1982,Usman,jazzcash
+21/04/2023,INV-1896,Rice 1kg,dairy,1,1161,1161,Ali,udhaar
+26/08/2023,INV-1897,Atta 10kg,beverages,2,122,Rs 244,Ali,udhaar
+29/12/2023,INV-1898,Shampoo,grocery,2,1249,Rs 2498,Ayesha,jazzcash
+27/08/2023,INV-1899,Rice 1kg,Dairy,2,1365,2730,Ahmed,cash
+01/10/2023,INV-1900,Soap,grocery,3,1394,4182,Usman,jazzcash
+21/10/2023,INV-1901,Cooking Oil 1L,beverages,1,425,425,Walk-in,udhaar
+15/08/2023,INV-1902,Rice 1kg,Grocery,4,378,Rs 1512,Walk-in,jazzcash
+15/01/2023,INV-1903,Cooking Oil 1L,Dairy,1,1473,1473,Zainab,cash
+11/07/2023,INV-1904,Rice 1kg,beverages,4,1475,Rs 5900,Walk-in,jazzcash
+29/04/2023,INV-1905,Milk 1L,grocery,2,245,490,Ahmed,udhaar
+28/01/2023,INV-1906,Milk 1L,Personal Care,2,1050,2100,Ahmed,easypaisa
+21/07/2023,INV-1907,Milk 1L,beverages,4,278,Rs 1112,Ali,jazzcash
+08/02/2023,INV-1908,Shampoo,Dairy,1,175,Rs 175,Zainab,udhaar
+30/09/2023,INV-1909,Atta 10kg,beverages,2,1330,2660,Usman,cash
+19/08/2023,INV-1910,Cooking Oil 1L,grocery,3,1352,4056,Ahmed,easypaisa
+27/03/2023,INV-1911,Rice 1kg,Grocery,1,1419,Rs 1419,Walk-in,udhaar
+06/05/2023,INV-1912,Shampoo,Dairy,2,1294,2588,Ahmed,easypaisa
+27/10/2023,INV-1913,Cooking Oil 1L,dairy,2,404,808,Ayesha,jazzcash
+25/01/2023,INV-1914,Tea 200g,grocery,2,142,284,Ali,easypaisa
+25/05/2023,INV-1915,Atta 10kg,beverages,3,1288,3864,Zainab,easypaisa
+13/01/2023,INV-1916,Milk 1L,Personal Care,3,713,2139,Walk-in,easypaisa
+31/07/2023,INV-1917,Atta 10kg,grocery,3,1005,3015,Ali,jazzcash
+25/01/2023,INV-1918,Milk 1L,Personal Care,2,1302,Rs 2604,Walk-in,cash
+09/03/2023,INV-1919,Rice 1kg,Grocery,4,253,,Ayesha,udhaar
+08/03/2023,INV-1920,Soap,beverages,3,1208,3624,Walk-in,udhaar
+21/08/2023,INV-1921,Rice 1kg,beverages,1,680,680,Zainab,cash
+19/04/2023,INV-1922,Shampoo,beverages,4,885,3540,Zainab,jazzcash
+26/05/2023,INV-1923,Soap,Dairy,1,366,366,Ahmed,easypaisa
+21/04/2023,INV-1924,Rice 1kg,Dairy,1,327,327,Ahmed,jazzcash
+16/08/2023,INV-1925,Sugar 1kg,Personal Care,2,887,1774,Ahmed,jazzcash
+21/04/2023,INV-1926,Atta 10kg,grocery,1,954,954,Usman,udhaar
+03/02/2023,INV-1927,Soap,Personal Care,4,1236,4944,Usman,cash
+21/04/2023,INV-1928,Atta 10kg,Personal Care,4,1156,,Ahmed,udhaar
+21/09/2023,INV-1929,Soap,dairy,2,708,1416,Ali,cash
+24/08/2023,INV-1930,Milk 1L,Dairy,2,983,1966,Ali,udhaar
+24/03/2023,INV-1931,Cooking Oil 1L,Dairy,1,909,909,Zainab,jazzcash
+11/02/2023,INV-1932,Cooking Oil 1L,dairy,1,171,171,Ayesha,udhaar
+11/04/2023,INV-1933,Sugar 1kg,dairy,4,405,1620,Usman,cash
+06/01/2023,INV-1934,Cooking Oil 1L,Grocery,1,757,757,Ali,cash
+29/06/2023,INV-1935,Atta 10kg,Grocery,2,843,Rs 1686,Ayesha,cash
+09/10/2023,INV-1936,Tea 200g,beverages,4,920,Rs 3680,Fatima,jazzcash
+16/11/2023,INV-1937,Shampoo,Grocery,2,1187,2374,Ayesha,easypaisa
+14/08/2023,INV-1938,Atta 10kg,Dairy,1,1412,1412,Walk-in,udhaar
+11/11/2023,INV-1939,Sugar 1kg,Personal Care,3,1096,3288,Ali,udhaar
+31/12/2023,INV-1940,Cooking Oil 1L,Dairy,3,374,1122,Walk-in,cash
+17/08/2023,INV-1941,Soap,Personal Care,2,1086,2172,Zainab,udhaar
+16/10/2023,INV-1942,Tea 200g,grocery,1,1119,1119,Usman,jazzcash
+30/05/2023,INV-1943,Milk 1L,grocery,2,1402,Rs 2804,Fatima,easypaisa
+04/10/2023,INV-1944,Soap,Personal Care,2,491,,Walk-in,udhaar
+17/07/2023,INV-1945,Sugar 1kg,Grocery,4,1238,4952,Ali,udhaar
+11/03/2023,INV-1946,Milk 1L,Grocery,1,796,796,Fatima,easypaisa
+22/04/2023,INV-1947,Atta 10kg,grocery,4,672,Rs 2688,Fatima,jazzcash
+04/01/2023,INV-1948,Rice 1kg,Personal Care,1,679,679,Usman,jazzcash
+16/12/2023,INV-1949,Cooking Oil 1L,Grocery,2,1023,2046,Zainab,udhaar
+27/11/2023,INV-1950,Sugar 1kg,grocery,4,1016,4064,Ayesha,cash
+14/11/2023,INV-1951,Milk 1L,grocery,1,306,Rs 306,Ahmed,cash
+16/12/2023,INV-1952,Cooking Oil 1L,grocery,4,1490,5960,Ali,udhaar
+05/04/2023,INV-1953,Shampoo,Personal Care,1,105,Rs 105,Ali,cash
+01/06/2023,INV-1954,Atta 10kg,Dairy,1,721,721,Zainab,jazzcash
+07/11/2023,INV-1955,Tea 200g,Personal Care,2,1075,Rs 2150,Zainab,cash
+17/05/2023,INV-1956,Atta 10kg,Dairy,1,893,893,Ali,easypaisa
+04/09/2023,INV-1957,Milk 1L,grocery,1,1251,1251,Fatima,jazzcash
+31/08/2023,INV-1958,Milk 1L,Personal Care,2,841,Rs 1682,Ahmed,cash
+31/01/2023,INV-1959,Shampoo,grocery,4,762,3048,Zainab,cash
+09/02/2023,INV-1960,Soap,Dairy,2,588,1176,Zainab,easypaisa
+17/08/2023,INV-1961,Soap,beverages,4,1233,Rs 4932,Usman,easypaisa
+05/02/2023,INV-1962,Tea 200g,grocery,2,1153,2306,Walk-in,jazzcash
+11/08/2023,INV-1963,Shampoo,grocery,4,1365,Rs 5460,Usman,jazzcash
+06/01/2023,INV-1964,Rice 1kg,Dairy,3,1479,4437,Usman,easypaisa
+18/11/2023,INV-1965,Atta 10kg,grocery,3,693,,Zainab,jazzcash
+08/08/2023,INV-1966,Sugar 1kg,dairy,1,734,734,Ali,udhaar
+16/03/2023,INV-1967,Milk 1L,beverages,3,1494,4482,Usman,cash
+04/01/2023,INV-1968,Tea 200g,Grocery,3,1262,3786,Zainab,udhaar
+01/12/2023,INV-1969,Cooking Oil 1L,Dairy,2,1243,2486,Ayesha,udhaar
+14/05/2023,INV-1970,Tea 200g,Personal Care,3,56,168,Ahmed,cash
+28/04/2023,INV-1971,Soap,Personal Care,2,1251,2502,Fatima,cash
+04/04/2023,INV-1972,Rice 1kg,Personal Care,4,440,1760,Ayesha,jazzcash
+03/03/2023,INV-1973,Rice 1kg,Grocery,4,668,Rs 2672,Ayesha,jazzcash
+13/07/2023,INV-1974,Atta 10kg,Personal Care,1,898,898,Ayesha,cash
+01/12/2023,INV-1975,Cooking Oil 1L,grocery,4,1132,,Ali,jazzcash
+22/07/2023,INV-1976,Sugar 1kg,Dairy,4,360,1440,Usman,udhaar
+26/01/2023,INV-1977,Sugar 1kg,Grocery,3,1140,3420,Walk-in,cash
+22/06/2023,INV-1978,Milk 1L,dairy,2,77,154,Walk-in,cash
+27/10/2023,INV-1979,Milk 1L,Grocery,3,635,1905,Ali,jazzcash
+13/05/2023,INV-1980,Shampoo,Dairy,1,235,235,Fatima,cash
+22/11/2023,INV-1981,Cooking Oil 1L,Grocery,1,650,650,Ahmed,udhaar
+28/04/2023,INV-1982,Atta 10kg,beverages,2,466,932,Ali,jazzcash
+20/11/2023,INV-1983,Milk 1L,grocery,1,1302,1302,Ahmed,jazzcash
+02/10/2023,INV-1984,Rice 1kg,dairy,4,1340,,Fatima,cash
+31/07/2023,INV-1985,Milk 1L,grocery,1,1220,Rs 1220,Ali,jazzcash
+13/08/2023,INV-1986,Rice 1kg,dairy,4,193,772,Walk-in,jazzcash
+20/01/2023,INV-1987,Rice 1kg,grocery,3,1490,4470,Ayesha,cash
+23/04/2023,INV-1988,Tea 200g,Dairy,4,521,2084,Fatima,easypaisa
+20/05/2023,INV-1989,Milk 1L,beverages,2,1485,2970,Ali,easypaisa
+16/02/2023,INV-1990,Atta 10kg,Personal Care,4,1193,4772,Usman,cash
+01/01/2023,INV-1991,Soap,grocery,2,361,722,Zainab,cash
+31/03/2023,INV-1992,Shampoo,beverages,3,181,Rs 543,Ayesha,easypaisa
+22/05/2023,INV-1993,Sugar 1kg,Grocery,2,946,1892,Ali,cash
+16/11/2023,INV-1994,Shampoo,Grocery,4,577,Rs 2308,Walk-in,easypaisa
+07/02/2023,INV-1995,Rice 1kg,Dairy,3,1115,3345,Zainab,jazzcash
+20/10/2023,INV-1996,Sugar 1kg,Personal Care,1,155,155,Usman,jazzcash
+19/05/2023,INV-1997,Sugar 1kg,beverages,1,457,Rs 457,Fatima,cash
+22/12/2023,INV-1998,Soap,beverages,2,252,504,Walk-in,udhaar
+29/11/2023,INV-1999,Milk 1L,grocery,4,859,Rs 3436,Ahmed,jazzcash
+16/09/2023,INV-2000,Rice 1kg,grocery,4,539,Rs 2156,Ayesha,udhaar
+10/06/2023,INV-2001,Rice 1kg,dairy,4,436,1744,Ali,jazzcash
+27/06/2023,INV-2002,Tea 200g,Personal Care,1,682,682,Ahmed,udhaar
+10/01/2023,INV-2003,Shampoo,beverages,2,1110,2220,Zainab,jazzcash
+18/09/2023,INV-2004,Shampoo,dairy,4,215,860,Zainab,udhaar
+18/05/2023,INV-2005,Rice 1kg,dairy,1,1083,1083,Fatima,udhaar
+21/06/2023,INV-2006,Tea 200g,beverages,3,1132,3396,Ayesha,cash
+13/01/2023,INV-2007,Atta 10kg,Grocery,1,322,322,Usman,jazzcash
+17/06/2023,INV-2008,Atta 10kg,Dairy,1,253,253,Ahmed,cash
+10/05/2023,INV-2009,Sugar 1kg,Grocery,1,388,Rs 388,Ali,easypaisa
+25/03/2023,INV-2010,Tea 200g,grocery,3,729,2187,Walk-in,easypaisa
+17/11/2023,INV-2011,Tea 200g,Personal Care,1,1304,1304,Ali,jazzcash
+15/11/2023,INV-2012,Rice 1kg,Personal Care,3,486,1458,Ayesha,jazzcash
+11/04/2023,INV-2013,Shampoo,Dairy,4,590,2360,Ali,cash
+25/11/2023,INV-2014,Shampoo,grocery,4,317,1268,Ayesha,easypaisa
+30/09/2023,INV-2015,Shampoo,Dairy,4,442,1768,Zainab,cash
+22/09/2023,INV-2016,Atta 10kg,Dairy,4,275,Rs 1100,Walk-in,jazzcash
+07/02/2023,INV-2017,Rice 1kg,Grocery,2,286,572,Ali,cash
+04/04/2023,INV-2018,Shampoo,grocery,1,744,744,Walk-in,easypaisa
+05/04/2023,INV-2019,Milk 1L,Grocery,1,1274,1274,Usman,jazzcash
+01/11/2023,INV-2020,Rice 1kg,beverages,3,1132,Rs 3396,Usman,jazzcash
+10/03/2023,INV-2021,Tea 200g,beverages,1,303,303,Usman,cash
+14/11/2023,INV-2022,Rice 1kg,Grocery,1,1335,1335,Ahmed,udhaar
+24/08/2023,INV-2023,Tea 200g,Personal Care,3,382,1146,Fatima,easypaisa
+30/11/2023,INV-2024,Shampoo,beverages,4,203,Rs 812,Usman,cash
+17/05/2023,INV-2025,Soap,Dairy,4,1204,4816,Usman,easypaisa
+17/03/2023,INV-2026,Soap,grocery,2,1404,2808,Usman,easypaisa
+04/02/2023,INV-2027,Milk 1L,grocery,1,1040,1040,Ali,jazzcash
+01/01/2023,INV-2028,Cooking Oil 1L,beverages,1,139,Rs 139,Ali,cash
+23/10/2023,INV-2029,Tea 200g,Dairy,2,831,1662,Walk-in,easypaisa
+16/11/2023,INV-2030,Milk 1L,Personal Care,2,656,Rs 1312,Walk-in,udhaar
+01/03/2023,INV-2031,Rice 1kg,Personal Care,2,673,1346,Ahmed,easypaisa
+16/11/2023,INV-2032,Tea 200g,Personal Care,1,1379,1379,Usman,easypaisa
+15/12/2023,INV-2033,Shampoo,Dairy,2,1121,2242,Fatima,udhaar
+24/11/2023,INV-2034,Shampoo,Personal Care,2,1210,Rs 2420,Usman,cash
+24/09/2023,INV-2035,Sugar 1kg,dairy,3,452,1356,Usman,udhaar
+27/12/2023,INV-2036,Sugar 1kg,grocery,3,228,684,Zainab,udhaar
+17/08/2023,INV-2037,Tea 200g,grocery,2,859,1718,Zainab,cash
+27/09/2023,INV-2038,Soap,grocery,4,1490,5960,Usman,easypaisa
+12/11/2023,INV-2039,Rice 1kg,beverages,2,677,1354,Walk-in,jazzcash
+13/10/2023,INV-2040,Milk 1L,Dairy,1,760,760,Ali,cash
+18/10/2023,INV-2041,Soap,beverages,3,879,2637,Usman,easypaisa
+01/08/2023,INV-2042,Cooking Oil 1L,beverages,3,516,1548,Usman,easypaisa
+14/06/2023,INV-2043,Sugar 1kg,Personal Care,2,277,Rs 554,Walk-in,jazzcash
+05/01/2023,INV-2044,Rice 1kg,Dairy,2,1470,2940,Usman,udhaar
+05/12/2023,INV-2045,Atta 10kg,Dairy,4,1307,5228,Zainab,easypaisa
+19/03/2023,INV-2046,Rice 1kg,beverages,3,1437,4311,Ali,easypaisa
+03/03/2023,INV-2047,Tea 200g,Personal Care,3,374,1122,Ahmed,udhaar
+12/05/2023,INV-2048,Cooking Oil 1L,dairy,3,971,2913,Ahmed,cash
+30/03/2023,INV-2049,Atta 10kg,grocery,4,80,320,Walk-in,cash
+25/08/2023,INV-2050,Cooking Oil 1L,Grocery,3,1264,3792,Ayesha,cash
+11/02/2023,INV-2051,Cooking Oil 1L,grocery,2,125,Rs 250,Zainab,cash
+30/03/2023,INV-2052,Shampoo,Personal Care,4,645,2580,Usman,jazzcash
+23/10/2023,INV-2053,Soap,Personal Care,1,790,Rs 790,Ayesha,cash
+24/11/2023,INV-2054,Rice 1kg,beverages,3,1323,3969,Fatima,easypaisa
+22/10/2023,INV-2055,Shampoo,Grocery,2,440,Rs 880,Ali,jazzcash
+14/04/2023,INV-2056,Soap,Grocery,4,1369,5476,Walk-in,cash
+14/01/2023,INV-2057,Shampoo,Grocery,1,540,540,Usman,udhaar
+15/10/2023,INV-2058,Milk 1L,Grocery,1,695,695,Ahmed,udhaar
+28/06/2023,INV-2059,Soap,grocery,1,184,184,Fatima,cash
+05/05/2023,INV-2060,Sugar 1kg,Personal Care,3,1183,3549,Zainab,cash
+19/12/2023,INV-2061,Milk 1L,dairy,2,215,430,Fatima,jazzcash
+23/01/2023,INV-2062,Tea 200g,beverages,2,980,1960,Ayesha,udhaar
+04/03/2023,INV-2063,Atta 10kg,Dairy,1,808,808,Zainab,jazzcash
+23/05/2023,INV-2064,Tea 200g,Dairy,2,954,1908,Ahmed,cash
+02/06/2023,INV-2065,Cooking Oil 1L,grocery,3,104,312,Fatima,cash
+25/05/2023,INV-2066,Shampoo,Dairy,4,1482,Rs 5928,Ayesha,jazzcash
+13/08/2023,INV-2067,Cooking Oil 1L,beverages,3,696,2088,Ahmed,jazzcash
+05/11/2023,INV-2068,Tea 200g,dairy,3,398,1194,Walk-in,udhaar
+14/04/2023,INV-2069,Rice 1kg,Grocery,4,1124,4496,Fatima,cash
+14/04/2023,INV-2070,Soap,beverages,4,517,Rs 2068,Zainab,udhaar
+08/02/2023,INV-2071,Soap,beverages,2,722,1444,Usman,easypaisa
+17/07/2023,INV-2072,Soap,grocery,4,1353,5412,Ali,cash
+14/05/2023,INV-2073,Atta 10kg,Dairy,1,734,734,Usman,easypaisa
+08/03/2023,INV-2074,Milk 1L,Personal Care,3,952,2856,Fatima,easypaisa
+28/06/2023,INV-2075,Soap,Dairy,4,499,,Ahmed,easypaisa
+11/02/2023,INV-2076,Soap,dairy,4,805,Rs 3220,Usman,jazzcash
+15/01/2023,INV-2077,Tea 200g,beverages,2,719,1438,Fatima,easypaisa
+21/04/2023,INV-2078,Cooking Oil 1L,beverages,1,308,Rs 308,Ali,cash
+06/06/2023,INV-2079,Atta 10kg,beverages,1,346,346,Usman,jazzcash
+16/10/2023,INV-2080,Cooking Oil 1L,beverages,3,57,171,Walk-in,cash
+19/08/2023,INV-2081,Cooking Oil 1L,Personal Care,1,1337,Rs 1337,Usman,udhaar
+06/06/2023,INV-2082,Cooking Oil 1L,dairy,2,243,486,Walk-in,cash
+07/02/2023,INV-2083,Sugar 1kg,beverages,4,714,2856,Ali,easypaisa
+07/04/2023,INV-2084,Shampoo,beverages,1,328,328,Ahmed,udhaar
+16/10/2023,INV-2085,Soap,beverages,3,691,Rs 2073,Zainab,jazzcash
+11/09/2023,INV-2086,Milk 1L,Personal Care,2,177,354,Ahmed,udhaar
+15/07/2023,INV-2087,Tea 200g,Grocery,2,763,1526,Usman,cash
+27/03/2023,INV-2088,Milk 1L,Personal Care,3,211,Rs 633,Fatima,udhaar
+18/11/2023,INV-2089,Milk 1L,beverages,2,292,584,Ayesha,jazzcash
+10/01/2023,INV-2090,Sugar 1kg,grocery,4,928,Rs 3712,Ali,udhaar
+05/01/2023,INV-2091,Sugar 1kg,Personal Care,2,75,150,Usman,jazzcash
+03/05/2023,INV-2092,Soap,grocery,3,940,2820,Walk-in,udhaar
+26/11/2023,INV-2093,Soap,beverages,1,50,50,Ali,easypaisa
+19/12/2023,INV-2094,Milk 1L,Dairy,3,1397,4191,Usman,cash
+28/04/2023,INV-2095,Shampoo,grocery,1,627,627,Zainab,easypaisa
+21/10/2023,INV-2096,Soap,beverages,2,1148,2296,Walk-in,jazzcash
+08/06/2023,INV-2097,Atta 10kg,Grocery,2,747,1494,Usman,cash
+30/10/2023,INV-2098,Soap,grocery,3,578,1734,Zainab,udhaar
+16/08/2023,INV-2099,Cooking Oil 1L,Personal Care,1,1168,Rs 1168,Ayesha,cash
+31/12/2023,INV-2100,Shampoo,beverages,4,1294,Rs 5176,Fatima,udhaar
+04/08/2023,INV-2101,Sugar 1kg,Grocery,1,303,303,Ahmed,udhaar
+03/07/2023,INV-2102,Rice 1kg,Dairy,1,796,Rs 796,Ali,easypaisa
+15/01/2023,INV-2103,Milk 1L,Personal Care,2,907,1814,Fatima,easypaisa
+06/06/2023,INV-2104,Atta 10kg,grocery,2,327,654,Zainab,jazzcash
+16/05/2023,INV-2105,Shampoo,beverages,2,458,,Fatima,jazzcash
+18/09/2023,INV-2106,Atta 10kg,grocery,4,1041,4164,Usman,udhaar
+06/06/2023,INV-2107,Cooking Oil 1L,Personal Care,2,442,884,Usman,udhaar
+16/02/2023,INV-2108,Shampoo,beverages,2,182,364,Ayesha,jazzcash
+20/11/2023,INV-2109,Sugar 1kg,Grocery,4,1051,4204,Ayesha,easypaisa
+28/11/2023,INV-2110,Atta 10kg,Dairy,1,1451,1451,Walk-in,jazzcash
+22/06/2023,INV-2111,Atta 10kg,Dairy,3,868,2604,Fatima,udhaar
+10/05/2023,INV-2112,Cooking Oil 1L,Dairy,2,1107,2214,Usman,jazzcash
+05/04/2023,INV-2113,Sugar 1kg,Personal Care,1,1168,1168,Walk-in,easypaisa
+25/04/2023,INV-2114,Soap,grocery,3,1476,,Zainab,udhaar
+31/08/2023,INV-2115,Sugar 1kg,grocery,2,409,818,Ayesha,cash
+19/10/2023,INV-2116,Shampoo,grocery,1,612,612,Fatima,jazzcash
+09/10/2023,INV-2117,Tea 200g,grocery,1,1467,1467,Usman,cash
+26/10/2023,INV-2118,Sugar 1kg,Grocery,4,59,236,Usman,easypaisa
+10/10/2023,INV-2119,Rice 1kg,beverages,2,802,1604,Usman,udhaar
+10/03/2023,INV-2120,Shampoo,Grocery,4,529,2116,Usman,cash
+28/05/2023,INV-2121,Sugar 1kg,grocery,1,1419,1419,Ahmed,jazzcash
+11/01/2023,INV-2122,Sugar 1kg,beverages,4,773,Rs 3092,Zainab,udhaar
+11/09/2023,INV-2123,Atta 10kg,dairy,4,773,3092,Usman,easypaisa
+26/11/2023,INV-2124,Tea 200g,Dairy,2,558,1116,Walk-in,cash
+26/12/2023,INV-2125,Sugar 1kg,Personal Care,3,586,1758,Fatima,easypaisa
+07/02/2023,INV-2126,Milk 1L,beverages,3,905,2715,Ayesha,udhaar
+14/05/2023,INV-2127,Shampoo,Personal Care,1,108,Rs 108,Ahmed,jazzcash
+19/07/2023,INV-2128,Atta 10kg,Personal Care,2,1257,2514,Walk-in,cash
+23/01/2023,INV-2129,Cooking Oil 1L,dairy,1,342,342,Walk-in,udhaar
+30/10/2023,INV-2130,Milk 1L,Grocery,4,939,3756,Ali,udhaar
+12/12/2023,INV-2131,Soap,Dairy,1,569,569,Ahmed,udhaar
+29/10/2023,INV-2132,Shampoo,dairy,3,669,2007,Zainab,cash
+29/12/2023,INV-2133,Shampoo,Dairy,1,1400,1400,Walk-in,cash
+06/08/2023,INV-2134,Sugar 1kg,grocery,1,890,890,Ali,cash
+21/05/2023,INV-2135,Atta 10kg,Dairy,2,990,1980,Walk-in,easypaisa
+14/04/2023,INV-2136,Sugar 1kg,Grocery,3,188,564,Usman,udhaar
+29/07/2023,INV-2137,Soap,beverages,1,725,725,Zainab,udhaar
+21/04/2023,INV-2138,Sugar 1kg,beverages,3,729,2187,Walk-in,easypaisa
+14/04/2023,INV-2139,Atta 10kg,dairy,2,391,782,Ayesha,easypaisa
+12/11/2023,INV-2140,Cooking Oil 1L,Dairy,3,464,1392,Ahmed,easypaisa
+20/06/2023,INV-2141,Tea 200g,Dairy,2,195,Rs 390,Walk-in,cash
+22/12/2023,INV-2142,Cooking Oil 1L,Personal Care,2,624,1248,Ali,easypaisa
+20/11/2023,INV-2143,Tea 200g,dairy,2,1446,Rs 2892,Usman,udhaar
+13/05/2023,INV-2144,Shampoo,beverages,3,623,1869,Usman,easypaisa
+20/10/2023,INV-2145,Sugar 1kg,grocery,1,560,560,Ahmed,cash
+24/11/2023,INV-2146,Atta 10kg,Grocery,2,668,1336,Usman,cash
+07/05/2023,INV-2147,Soap,Grocery,4,608,2432,Zainab,cash
+16/04/2023,INV-2148,Rice 1kg,grocery,4,732,Rs 2928,Zainab,udhaar
+02/04/2023,INV-2149,Rice 1kg,Dairy,3,284,Rs 852,Ali,cash
+14/10/2023,INV-2150,Shampoo,beverages,4,1473,5892,Zainab,easypaisa
+20/02/2023,INV-2151,Milk 1L,Personal Care,2,986,1972,Fatima,cash
+29/01/2023,INV-2152,Tea 200g,Dairy,4,1040,4160,Ahmed,easypaisa
+23/10/2023,INV-2153,Sugar 1kg,Dairy,2,700,1400,Ahmed,cash
+24/10/2023,INV-2154,Tea 200g,dairy,4,420,1680,Ayesha,udhaar
+02/08/2023,INV-2155,Milk 1L,beverages,4,1150,4600,Ayesha,udhaar
+24/09/2023,INV-2156,Cooking Oil 1L,dairy,3,789,2367,Ayesha,udhaar
+14/09/2023,INV-2157,Cooking Oil 1L,Personal Care,1,969,Rs 969,Ahmed,jazzcash
+29/10/2023,INV-2158,Tea 200g,Personal Care,1,1035,1035,Walk-in,cash
+11/04/2023,INV-2159,Tea 200g,Dairy,2,541,1082,Zainab,jazzcash
+12/12/2023,INV-2160,Cooking Oil 1L,dairy,3,780,2340,Fatima,udhaar
+20/04/2023,INV-2161,Atta 10kg,Grocery,3,657,Rs 1971,Zainab,udhaar
+01/07/2023,INV-2162,Cooking Oil 1L,beverages,3,54,162,Walk-in,easypaisa
+09/11/2023,INV-2163,Cooking Oil 1L,dairy,1,57,57,Ayesha,cash
+01/01/2023,INV-2164,Cooking Oil 1L,Personal Care,4,689,2756,Fatima,cash
+15/11/2023,INV-2165,Tea 200g,Personal Care,1,397,397,Ali,easypaisa
+24/02/2023,INV-2166,Rice 1kg,grocery,4,225,900,Walk-in,jazzcash
+29/05/2023,INV-2167,Soap,Dairy,1,489,489,Ali,udhaar
+05/11/2023,INV-2168,Shampoo,Personal Care,1,264,264,Walk-in,easypaisa
+17/05/2023,INV-2169,Cooking Oil 1L,Dairy,1,358,358,Ayesha,jazzcash
+21/07/2023,INV-2170,Atta 10kg,Dairy,4,1091,4364,Usman,easypaisa
+09/11/2023,INV-2171,Sugar 1kg,beverages,2,1426,2852,Ayesha,cash
+27/04/2023,INV-2172,Tea 200g,dairy,4,73,Rs 292,Usman,jazzcash
+03/06/2023,INV-2173,Shampoo,dairy,1,538,538,Usman,udhaar
+18/10/2023,INV-2174,Atta 10kg,dairy,4,806,Rs 3224,Ahmed,udhaar
+04/03/2023,INV-2175,Shampoo,dairy,1,722,722,Fatima,jazzcash
+01/09/2023,INV-2176,Soap,Personal Care,2,1019,2038,Usman,cash
+25/01/2023,INV-2177,Tea 200g,Dairy,4,1479,Rs 5916,Ahmed,jazzcash
+31/03/2023,INV-2178,Shampoo,beverages,3,1243,3729,Ali,cash
+16/03/2023,INV-2179,Sugar 1kg,dairy,3,965,2895,Ayesha,jazzcash
+21/10/2023,INV-2180,Tea 200g,grocery,1,695,695,Fatima,udhaar
+29/07/2023,INV-2181,Tea 200g,beverages,3,198,594,Fatima,cash
+13/12/2023,INV-2182,Cooking Oil 1L,beverages,1,342,342,Ayesha,udhaar
+17/01/2023,INV-2183,Tea 200g,beverages,4,595,Rs 2380,Ayesha,easypaisa
+08/05/2023,INV-2184,Shampoo,dairy,3,1305,3915,Walk-in,easypaisa
+30/12/2023,INV-2185,Soap,beverages,4,1294,5176,Fatima,easypaisa
+08/09/2023,INV-2186,Atta 10kg,Grocery,1,320,320,Walk-in,udhaar
+28/06/2023,INV-2187,Cooking Oil 1L,grocery,3,142,426,Usman,cash
+01/07/2023,INV-2188,Shampoo,dairy,4,924,3696,Usman,cash
+01/06/2023,INV-2189,Cooking Oil 1L,dairy,3,781,2343,Walk-in,easypaisa
+25/01/2023,INV-2190,Rice 1kg,Grocery,3,291,873,Zainab,cash
+29/06/2023,INV-2191,Atta 10kg,grocery,4,717,2868,Zainab,udhaar
+17/07/2023,INV-2192,Soap,grocery,1,112,112,Usman,jazzcash
+10/12/2023,INV-2193,Soap,beverages,3,772,2316,Fatima,cash
+10/06/2023,INV-2194,Cooking Oil 1L,grocery,3,214,642,Fatima,jazzcash
+26/06/2023,INV-2195,Sugar 1kg,dairy,1,1488,1488,Ali,udhaar
+12/10/2023,INV-2196,Rice 1kg,grocery,3,154,462,Walk-in,jazzcash
+04/03/2023,INV-2197,Tea 200g,Personal Care,1,690,690,Ayesha,udhaar
+30/05/2023,INV-2198,Sugar 1kg,grocery,3,1102,3306,Zainab,jazzcash
+03/06/2023,INV-2199,Milk 1L,Grocery,1,820,Rs 820,Usman,cash
+05/06/2023,INV-2200,Milk 1L,Grocery,2,280,560,Ayesha,cash
+18/02/2023,INV-2201,Atta 10kg,Dairy,2,1201,Rs 2402,Fatima,easypaisa
+03/12/2023,INV-2202,Cooking Oil 1L,beverages,3,444,1332,Usman,udhaar
+25/03/2023,INV-2203,Tea 200g,grocery,1,147,147,Zainab,easypaisa
+27/12/2023,INV-2204,Milk 1L,dairy,1,1468,,Ayesha,easypaisa
+26/06/2023,INV-2205,Sugar 1kg,Grocery,1,302,302,Ahmed,cash
+28/05/2023,INV-2206,Sugar 1kg,Personal Care,3,324,972,Ahmed,jazzcash
+28/04/2023,INV-2207,Rice 1kg,Dairy,1,832,832,Zainab,easypaisa
+08/12/2023,INV-2208,Sugar 1kg,Grocery,3,1384,4152,Fatima,udhaar
+04/03/2023,INV-2209,Atta 10kg,beverages,4,196,784,Fatima,jazzcash
+08/07/2023,INV-2210,Shampoo,dairy,3,450,1350,Ayesha,easypaisa
+26/12/2023,INV-2211,Soap,grocery,1,600,600,Zainab,easypaisa
+18/02/2023,INV-2212,Cooking Oil 1L,dairy,4,1147,4588,Zainab,udhaar
+23/11/2023,INV-2213,Cooking Oil 1L,Personal Care,1,1421,1421,Ali,cash
+14/09/2023,INV-2214,Rice 1kg,Personal Care,4,1238,Rs 4952,Ayesha,jazzcash
+12/08/2023,INV-2215,Shampoo,beverages,1,413,413,Fatima,easypaisa
+21/05/2023,INV-2216,Cooking Oil 1L,beverages,4,1048,4192,Ali,udhaar
+03/08/2023,INV-2217,Atta 10kg,Personal Care,4,966,3864,Zainab,udhaar
+30/07/2023,INV-2218,Milk 1L,Grocery,3,170,510,Zainab,jazzcash
+14/11/2023,INV-2219,Tea 200g,dairy,3,249,Rs 747,Ali,jazzcash
+01/02/2023,INV-2220,Rice 1kg,beverages,4,1203,4812,Walk-in,udhaar
+07/06/2023,INV-2221,Cooking Oil 1L,Dairy,3,351,1053,Zainab,udhaar
+12/10/2023,INV-2222,Atta 10kg,Dairy,4,981,3924,Ahmed,udhaar
+01/11/2023,INV-2223,Tea 200g,Personal Care,4,551,2204,Ahmed,jazzcash
+13/10/2023,INV-2224,Milk 1L,Personal Care,2,681,1362,Usman,easypaisa
+24/05/2023,INV-2225,Milk 1L,beverages,3,938,2814,Ali,cash
+19/01/2023,INV-2226,Tea 200g,Dairy,1,607,607,Ayesha,easypaisa
+18/01/2023,INV-2227,Milk 1L,grocery,4,1079,,Ayesha,udhaar
+14/09/2023,INV-2228,Rice 1kg,beverages,4,923,Rs 3692,Usman,cash
+19/03/2023,INV-2229,Cooking Oil 1L,beverages,3,1465,4395,Fatima,udhaar
+24/06/2023,INV-2230,Sugar 1kg,dairy,1,1346,1346,Zainab,udhaar
+13/07/2023,INV-2231,Shampoo,Dairy,2,1283,2566,Zainab,udhaar
+23/04/2023,INV-2232,Rice 1kg,dairy,4,664,Rs 2656,Ayesha,easypaisa
+24/04/2023,INV-2233,Tea 200g,Dairy,1,1107,1107,Ayesha,easypaisa
+10/08/2023,INV-2234,Milk 1L,Dairy,1,1062,1062,Walk-in,cash
+15/06/2023,INV-2235,Shampoo,Personal Care,2,119,238,Ayesha,easypaisa
+15/11/2023,INV-2236,Shampoo,grocery,3,1361,4083,Usman,udhaar
+12/05/2023,INV-2237,Cooking Oil 1L,beverages,4,745,2980,Walk-in,udhaar
+21/09/2023,INV-2238,Soap,grocery,1,422,422,Zainab,cash
+24/02/2023,INV-2239,Sugar 1kg,dairy,4,527,2108,Ahmed,cash
+25/12/2023,INV-2240,Cooking Oil 1L,Grocery,2,835,Rs 1670,Usman,cash
+11/05/2023,INV-2241,Rice 1kg,Personal Care,1,1256,1256,Ayesha,udhaar
+15/10/2023,INV-2242,Soap,Grocery,1,794,794,Ayesha,easypaisa
+23/09/2023,INV-2243,Milk 1L,dairy,2,575,Rs 1150,Usman,cash
+11/06/2023,INV-2244,Soap,beverages,2,560,1120,Walk-in,jazzcash
+28/03/2023,INV-2245,Sugar 1kg,beverages,3,764,2292,Ayesha,cash
+24/02/2023,INV-2246,Tea 200g,dairy,2,850,Rs 1700,Ahmed,udhaar
+15/10/2023,INV-2247,Rice 1kg,dairy,2,669,1338,Ayesha,easypaisa
+27/06/2023,INV-2248,Cooking Oil 1L,grocery,3,617,1851,Walk-in,cash
+15/12/2023,INV-2249,Shampoo,grocery,2,722,1444,Ahmed,cash
+08/01/2023,INV-2250,Rice 1kg,beverages,3,420,1260,Zainab,cash
+17/11/2023,INV-2251,Rice 1kg,Personal Care,2,1331,2662,Ahmed,udhaar
+09/11/2023,INV-2252,Shampoo,dairy,2,144,,Ali,cash
+04/09/2023,INV-2253,Cooking Oil 1L,grocery,4,650,2600,Ayesha,jazzcash
+19/11/2023,INV-2254,Atta 10kg,Personal Care,2,1160,2320,Zainab,jazzcash
+12/09/2023,INV-2255,Milk 1L,Grocery,1,1176,1176,Ayesha,udhaar
+24/11/2023,INV-2256,Shampoo,dairy,4,569,2276,Zainab,cash
+23/02/2023,INV-2257,Cooking Oil 1L,Dairy,2,1095,Rs 2190,Ayesha,cash
+06/09/2023,INV-2258,Soap,beverages,1,555,555,Walk-in,udhaar
+27/08/2023,INV-2259,Sugar 1kg,Grocery,3,1239,3717,Ayesha,cash
+17/08/2023,INV-2260,Shampoo,Dairy,2,1051,Rs 2102,Ali,jazzcash
+08/03/2023,INV-2261,Sugar 1kg,grocery,1,1482,1482,Walk-in,udhaar
+20/02/2023,INV-2262,Rice 1kg,grocery,2,924,1848,Ayesha,easypaisa
+07/04/2023,INV-2263,Tea 200g,Personal Care,4,1362,5448,Usman,jazzcash
+02/04/2023,INV-2264,Shampoo,Grocery,4,222,888,Fatima,jazzcash
+21/09/2023,INV-2265,Shampoo,Grocery,4,941,3764,Usman,cash
+18/10/2023,INV-2266,Cooking Oil 1L,dairy,1,740,740,Walk-in,udhaar
+06/04/2023,INV-2267,Tea 200g,Grocery,1,670,Rs 670,Usman,easypaisa
+29/03/2023,INV-2268,Soap,Personal Care,4,110,440,Ali,udhaar
+19/03/2023,INV-2269,Atta 10kg,Personal Care,1,1018,1018,Ayesha,cash
+15/10/2023,INV-2270,Atta 10kg,Personal Care,3,1042,Rs 3126,Fatima,easypaisa
+30/04/2023,INV-2271,Atta 10kg,Dairy,2,159,318,Fatima,udhaar
+29/10/2023,INV-2272,Soap,Grocery,4,645,2580,Zainab,udhaar
+14/06/2023,INV-2273,Rice 1kg,dairy,2,1336,2672,Ahmed,easypaisa
+01/07/2023,INV-2274,Rice 1kg,Personal Care,3,1390,4170,Ali,easypaisa
+11/08/2023,INV-2275,Tea 200g,beverages,4,571,Rs 2284,Ayesha,easypaisa
+07/11/2023,INV-2276,Sugar 1kg,beverages,4,221,884,Ayesha,udhaar
+07/01/2023,INV-2277,Milk 1L,Dairy,2,83,Rs 166,Ahmed,easypaisa
+26/11/2023,INV-2278,Rice 1kg,Personal Care,4,704,Rs 2816,Walk-in,easypaisa
+20/09/2023,INV-2279,Rice 1kg,dairy,3,856,Rs 2568,Walk-in,easypaisa
+10/06/2023,INV-2280,Sugar 1kg,Grocery,2,1214,Rs 2428,Ali,jazzcash
+31/05/2023,INV-2281,Tea 200g,dairy,1,1444,1444,Walk-in,jazzcash
+26/03/2023,INV-2282,Soap,beverages,1,1450,1450,Ahmed,jazzcash
+27/05/2023,INV-2283,Atta 10kg,Personal Care,3,875,2625,Usman,udhaar
+22/04/2023,INV-2284,Shampoo,Grocery,3,689,2067,Walk-in,cash
+05/02/2023,INV-2285,Atta 10kg,dairy,4,1130,4520,Ahmed,udhaar
+12/10/2023,INV-2286,Rice 1kg,Personal Care,4,1424,5696,Ahmed,udhaar
+07/07/2023,INV-2287,Atta 10kg,Grocery,1,1399,1399,Usman,udhaar
+23/03/2023,INV-2288,Soap,Personal Care,3,1012,3036,Zainab,jazzcash
+02/01/2023,INV-2289,Cooking Oil 1L,grocery,4,1376,Rs 5504,Walk-in,cash
+30/10/2023,INV-2290,Shampoo,Dairy,1,1239,Rs 1239,Ahmed,udhaar
+16/07/2023,INV-2291,Soap,Personal Care,4,770,3080,Zainab,easypaisa
+11/01/2023,INV-2292,Rice 1kg,beverages,4,146,584,Fatima,easypaisa
+22/08/2023,INV-2293,Shampoo,Grocery,4,251,,Usman,udhaar
+14/07/2023,INV-2294,Rice 1kg,Grocery,3,656,1968,Ahmed,jazzcash
+29/04/2023,INV-2295,Atta 10kg,dairy,2,285,570,Usman,udhaar
+20/01/2023,INV-2296,Cooking Oil 1L,beverages,1,608,608,Ahmed,cash
+18/09/2023,INV-2297,Rice 1kg,Dairy,2,324,648,Usman,easypaisa
+20/10/2023,INV-2298,Atta 10kg,dairy,3,1180,3540,Walk-in,easypaisa
+13/09/2023,INV-2299,Tea 200g,dairy,4,589,2356,Fatima,cash
+10/08/2023,INV-2300,Sugar 1kg,Dairy,3,356,Rs 1068,Ali,cash
+14/08/2023,INV-2301,Soap,grocery,1,1191,1191,Ayesha,udhaar
+22/02/2023,INV-2302,Cooking Oil 1L,dairy,1,818,Rs 818,Walk-in,udhaar
+21/12/2023,INV-2303,Sugar 1kg,dairy,4,1450,Rs 5800,Ayesha,udhaar
+08/12/2023,INV-2304,Shampoo,dairy,3,735,2205,Ayesha,udhaar
+30/12/2023,INV-2305,Shampoo,Dairy,2,692,1384,Ayesha,easypaisa
+07/10/2023,INV-2306,Cooking Oil 1L,beverages,3,999,Rs 2997,Fatima,jazzcash
+22/03/2023,INV-2307,Shampoo,Personal Care,3,1047,3141,Usman,udhaar
+21/07/2023,INV-2308,Rice 1kg,dairy,2,404,808,Ayesha,jazzcash
+07/06/2023,INV-2309,Cooking Oil 1L,Dairy,3,829,2487,Ali,cash
+30/04/2023,INV-2310,Sugar 1kg,Dairy,3,1076,3228,Ahmed,udhaar
+28/02/2023,INV-2311,Cooking Oil 1L,Dairy,4,183,732,Usman,udhaar
+03/08/2023,INV-2312,Shampoo,dairy,2,62,Rs 124,Usman,easypaisa
+08/05/2023,INV-2313,Sugar 1kg,Personal Care,3,1005,3015,Ali,jazzcash
+12/08/2023,INV-2314,Shampoo,Personal Care,4,328,1312,Fatima,easypaisa
+28/07/2023,INV-2315,Milk 1L,Dairy,2,409,818,Fatima,easypaisa
+25/04/2023,INV-2316,Soap,beverages,4,1025,4100,Usman,udhaar
+28/07/2023,INV-2317,Sugar 1kg,Personal Care,2,1123,2246,Usman,udhaar
+14/01/2023,INV-2318,Atta 10kg,beverages,4,1321,,Zainab,easypaisa
+09/01/2023,INV-2319,Tea 200g,dairy,4,1391,5564,Usman,easypaisa
+09/02/2023,INV-2320,Milk 1L,beverages,4,617,2468,Usman,easypaisa
+25/08/2023,INV-2321,Soap,beverages,2,1350,2700,Usman,easypaisa
+08/10/2023,INV-2322,Rice 1kg,grocery,3,353,1059,Walk-in,cash
+25/12/2023,INV-2323,Cooking Oil 1L,Grocery,3,633,1899,Ahmed,udhaar
+20/07/2023,INV-2324,Rice 1kg,Personal Care,1,312,312,Fatima,cash
+03/09/2023,INV-2325,Atta 10kg,grocery,2,1253,2506,Fatima,cash
+05/10/2023,INV-2326,Cooking Oil 1L,Grocery,4,1164,Rs 4656,Fatima,jazzcash
+23/08/2023,INV-2327,Rice 1kg,Personal Care,1,1025,1025,Ayesha,udhaar
+04/01/2023,INV-2328,Soap,beverages,3,352,1056,Ali,cash
+03/06/2023,INV-2329,Tea 200g,Dairy,1,1190,1190,Zainab,udhaar
+29/01/2023,INV-2330,Tea 200g,Dairy,3,650,1950,Fatima,udhaar
+19/04/2023,INV-2331,Shampoo,Dairy,1,106,106,Ahmed,udhaar
+08/04/2023,INV-2332,Soap,grocery,3,1330,3990,Zainab,jazzcash
+03/08/2023,INV-2333,Milk 1L,Dairy,2,825,1650,Ali,easypaisa
+20/10/2023,INV-2334,Tea 200g,Grocery,4,813,3252,Ayesha,cash
+16/03/2023,INV-2335,Shampoo,Grocery,2,145,290,Walk-in,udhaar
+22/11/2023,INV-2336,Tea 200g,Dairy,4,569,2276,Ayesha,jazzcash
+26/05/2023,INV-2337,Sugar 1kg,grocery,1,880,880,Walk-in,easypaisa
+08/05/2023,INV-2338,Soap,beverages,4,1409,5636,Usman,easypaisa
+07/12/2023,INV-2339,Tea 200g,grocery,3,746,2238,Ayesha,jazzcash
+11/02/2023,INV-2340,Rice 1kg,Dairy,1,1161,1161,Fatima,jazzcash
+22/12/2023,INV-2341,Milk 1L,Personal Care,3,130,390,Ayesha,cash
+10/02/2023,INV-2342,Tea 200g,Personal Care,4,1382,5528,Ali,udhaar
+03/02/2023,INV-2343,Atta 10kg,beverages,1,1051,1051,Fatima,easypaisa
+17/01/2023,INV-2344,Shampoo,Grocery,2,1431,Rs 2862,Walk-in,udhaar
+14/06/2023,INV-2345,Atta 10kg,beverages,1,463,,Zainab,udhaar
+02/06/2023,INV-2346,Sugar 1kg,grocery,4,438,Rs 1752,Ali,jazzcash
+17/03/2023,INV-2347,Rice 1kg,dairy,1,417,417,Ayesha,easypaisa
+28/03/2023,INV-2348,Shampoo,Personal Care,4,927,3708,Zainab,cash
+27/04/2023,INV-2349,Soap,dairy,4,209,836,Ali,udhaar
+28/12/2023,INV-2350,Shampoo,dairy,4,1287,5148,Usman,udhaar
+08/12/2023,INV-2351,Sugar 1kg,Grocery,1,80,Rs 80,Ahmed,easypaisa
+27/01/2023,INV-2352,Tea 200g,grocery,4,1010,4040,Ali,easypaisa
+09/11/2023,INV-2353,Cooking Oil 1L,Personal Care,1,53,53,Usman,udhaar
+14/10/2023,INV-2354,Shampoo,Dairy,2,1005,Rs 2010,Ali,cash
+14/05/2023,INV-2355,Sugar 1kg,Grocery,1,427,427,Ali,cash
+07/08/2023,INV-2356,Shampoo,dairy,3,487,1461,Usman,udhaar
+17/06/2023,INV-2357,Milk 1L,dairy,3,1033,3099,Fatima,easypaisa
+08/04/2023,INV-2358,Tea 200g,Personal Care,1,856,856,Usman,udhaar
+25/09/2023,INV-2359,Tea 200g,grocery,3,643,,Usman,easypaisa
+25/08/2023,INV-2360,Rice 1kg,beverages,3,127,381,Zainab,jazzcash
+05/11/2023,INV-2361,Cooking Oil 1L,grocery,1,1121,1121,Usman,jazzcash
+22/06/2023,INV-2362,Milk 1L,Personal Care,2,1102,2204,Zainab,easypaisa
+09/07/2023,INV-2363,Tea 200g,beverages,4,608,Rs 2432,Ahmed,udhaar
+02/05/2023,INV-2364,Tea 200g,grocery,4,605,,Ahmed,jazzcash
+15/02/2023,INV-2365,Sugar 1kg,grocery,2,1253,2506,Fatima,jazzcash
+05/03/2023,INV-2366,Atta 10kg,Dairy,2,826,1652,Zainab,udhaar
+10/05/2023,INV-2367,Soap,beverages,3,1293,3879,Walk-in,jazzcash
+06/11/2023,INV-2368,Rice 1kg,Dairy,2,893,Rs 1786,Fatima,easypaisa
+29/12/2023,INV-2369,Sugar 1kg,Grocery,2,1455,2910,Zainab,easypaisa
+12/07/2023,INV-2370,Sugar 1kg,grocery,1,1414,Rs 1414,Walk-in,udhaar
+03/11/2023,INV-2371,Tea 200g,dairy,2,797,1594,Ali,jazzcash
+30/06/2023,INV-2372,Soap,dairy,2,946,1892,Ayesha,easypaisa
+19/10/2023,INV-2373,Sugar 1kg,Grocery,2,992,1984,Ayesha,cash
+09/10/2023,INV-2374,Shampoo,Grocery,2,884,1768,Ahmed,easypaisa
+29/01/2023,INV-2375,Milk 1L,beverages,4,76,304,Ahmed,easypaisa
+29/05/2023,INV-2376,Shampoo,Personal Care,2,1441,2882,Ayesha,easypaisa
+24/09/2023,INV-2377,Tea 200g,grocery,2,955,1910,Zainab,jazzcash
+23/10/2023,INV-2378,Shampoo,Grocery,1,1363,1363,Zainab,jazzcash
+11/01/2023,INV-2379,Milk 1L,beverages,2,728,1456,Zainab,jazzcash
+13/06/2023,INV-2380,Cooking Oil 1L,Personal Care,3,1266,Rs 3798,Ayesha,easypaisa
+23/04/2023,INV-2381,Atta 10kg,Dairy,4,600,2400,Ali,cash
+06/07/2023,INV-2382,Tea 200g,Personal Care,3,1489,4467,Ali,jazzcash
+22/10/2023,INV-2383,Milk 1L,Grocery,1,1049,1049,Fatima,cash
+20/08/2023,INV-2384,Soap,Dairy,2,502,Rs 1004,Ahmed,jazzcash
+15/08/2023,INV-2385,Shampoo,Personal Care,4,1090,4360,Ahmed,cash
+06/11/2023,INV-2386,Soap,beverages,4,84,336,Usman,jazzcash
+08/04/2023,INV-2387,Atta 10kg,beverages,4,125,500,Ahmed,jazzcash
+24/02/2023,INV-2388,Sugar 1kg,Personal Care,1,813,Rs 813,Usman,cash
+21/04/2023,INV-2389,Sugar 1kg,Grocery,4,1306,5224,Usman,udhaar
+01/06/2023,INV-2390,Cooking Oil 1L,Dairy,1,654,654,Usman,jazzcash
+03/09/2023,INV-2391,Sugar 1kg,dairy,2,70,140,Ayesha,jazzcash
+10/03/2023,INV-2392,Soap,dairy,4,1470,5880,Zainab,cash
+08/11/2023,INV-2393,Cooking Oil 1L,grocery,2,1027,2054,Ahmed,udhaar
+16/10/2023,INV-2394,Atta 10kg,Personal Care,3,63,189,Usman,easypaisa
+07/09/2023,INV-2395,Cooking Oil 1L,beverages,3,796,2388,Zainab,udhaar
+05/02/2023,INV-2396,Shampoo,dairy,3,1070,,Ali,easypaisa
+27/08/2023,INV-2397,Sugar 1kg,grocery,4,622,2488,Ayesha,udhaar
+28/05/2023,INV-2398,Shampoo,Dairy,2,958,1916,Zainab,jazzcash
+15/08/2023,INV-2399,Milk 1L,Grocery,1,444,444,Ahmed,udhaar
+01/09/2023,INV-2400,Tea 200g,Grocery,4,427,1708,Ayesha,udhaar
+03/12/2023,INV-2401,Milk 1L,Personal Care,4,1148,4592,Usman,easypaisa
+31/12/2023,INV-2402,Cooking Oil 1L,Dairy,2,264,528,Ayesha,jazzcash
+20/07/2023,INV-2403,Shampoo,beverages,2,1397,2794,Walk-in,easypaisa
+03/06/2023,INV-2404,Shampoo,dairy,2,383,766,Usman,easypaisa
+14/03/2023,INV-2405,Milk 1L,Personal Care,2,1300,2600,Zainab,jazzcash
+20/07/2023,INV-2406,Sugar 1kg,beverages,2,306,612,Ali,jazzcash
+23/10/2023,INV-2407,Soap,Dairy,1,1192,Rs 1192,Walk-in,udhaar
+17/01/2023,INV-2408,Rice 1kg,grocery,1,965,965,Fatima,easypaisa
+09/05/2023,INV-2409,Atta 10kg,Grocery,1,1068,1068,Ayesha,jazzcash
+05/08/2023,INV-2410,Milk 1L,Grocery,1,917,917,Zainab,cash
+02/03/2023,INV-2411,Atta 10kg,Dairy,4,99,396,Ali,cash
+14/04/2023,INV-2412,Atta 10kg,beverages,1,1413,1413,Ali,easypaisa
+11/02/2023,INV-2413,Milk 1L,Dairy,2,365,Rs 730,Zainab,cash
+25/01/2023,INV-2414,Rice 1kg,grocery,1,271,Rs 271,Zainab,cash
+08/02/2023,INV-2415,Sugar 1kg,Grocery,3,1064,3192,Fatima,cash
+18/10/2023,INV-2416,Milk 1L,Grocery,4,1215,4860,Usman,jazzcash
+11/05/2023,INV-2417,Soap,beverages,4,139,556,Ahmed,cash
+17/08/2023,INV-2418,Rice 1kg,Dairy,2,321,,Ahmed,easypaisa
+18/04/2023,INV-2419,Milk 1L,dairy,1,1089,1089,Ali,cash
+21/06/2023,INV-2420,Sugar 1kg,grocery,2,661,1322,Ayesha,udhaar
+12/04/2023,INV-2421,Shampoo,Grocery,4,100,400,Usman,jazzcash
+20/12/2023,INV-2422,Milk 1L,Dairy,4,1446,Rs 5784,Ali,easypaisa
+12/01/2023,INV-2423,Milk 1L,Personal Care,3,1018,Rs 3054,Walk-in,jazzcash
+02/10/2023,INV-2424,Rice 1kg,Personal Care,1,959,959,Usman,cash
+11/04/2023,INV-2425,Atta 10kg,Personal Care,1,1073,Rs 1073,Walk-in,cash
+13/02/2023,INV-2426,Tea 200g,Grocery,2,1406,2812,Ahmed,cash
+01/11/2023,INV-2427,Cooking Oil 1L,grocery,2,337,674,Zainab,easypaisa
+17/01/2023,INV-2428,Cooking Oil 1L,Grocery,1,393,393,Ayesha,jazzcash
+26/11/2023,INV-2429,Rice 1kg,dairy,1,740,740,Walk-in,jazzcash
+26/02/2023,INV-2430,Shampoo,Grocery,3,353,1059,Fatima,udhaar
+07/11/2023,INV-2431,Sugar 1kg,Grocery,4,833,Rs 3332,Zainab,cash
+30/10/2023,INV-2432,Tea 200g,dairy,1,1237,1237,Usman,easypaisa
+12/01/2023,INV-2433,Atta 10kg,dairy,4,1047,Rs 4188,Ayesha,udhaar
+14/11/2023,INV-2434,Shampoo,Dairy,4,840,Rs 3360,Ayesha,cash
+21/03/2023,INV-2435,Sugar 1kg,Dairy,2,127,254,Walk-in,easypaisa
+04/08/2023,INV-2436,Shampoo,beverages,4,254,Rs 1016,Ali,easypaisa
+05/12/2023,INV-2437,Cooking Oil 1L,grocery,3,577,,Walk-in,udhaar
+21/09/2023,INV-2438,Milk 1L,dairy,1,210,Rs 210,Walk-in,jazzcash
+29/05/2023,INV-2439,Soap,beverages,2,1103,2206,Ayesha,cash
+22/03/2023,INV-2440,Milk 1L,beverages,1,1353,1353,Zainab,easypaisa
+03/08/2023,INV-2441,Sugar 1kg,Dairy,4,435,1740,Walk-in,easypaisa
+17/07/2023,INV-2442,Milk 1L,beverages,2,425,850,Walk-in,cash
+19/07/2023,INV-2443,Atta 10kg,Grocery,4,542,2168,Ahmed,udhaar
+25/01/2023,INV-2444,Rice 1kg,Dairy,4,1011,4044,Ahmed,jazzcash
+30/03/2023,INV-2445,Cooking Oil 1L,dairy,2,64,128,Ahmed,jazzcash
+25/09/2023,INV-2446,Sugar 1kg,dairy,1,1031,Rs 1031,Zainab,jazzcash
+23/05/2023,INV-2447,Milk 1L,Dairy,2,984,Rs 1968,Walk-in,easypaisa
+28/02/2023,INV-2448,Soap,Personal Care,4,1009,Rs 4036,Ali,easypaisa
+31/12/2023,INV-2449,Soap,grocery,1,1015,1015,Ahmed,cash
+26/01/2023,INV-2450,Tea 200g,Grocery,1,921,921,Usman,udhaar
+16/02/2023,INV-2451,Rice 1kg,Personal Care,3,684,Rs 2052,Ali,jazzcash
+15/10/2023,INV-2452,Milk 1L,Dairy,4,1095,4380,Ahmed,jazzcash
+23/09/2023,INV-2453,Soap,beverages,3,1193,3579,Ayesha,easypaisa
+16/01/2023,INV-2454,Sugar 1kg,Grocery,2,1036,2072,Fatima,jazzcash
+18/07/2023,INV-2455,Shampoo,grocery,1,765,765,Usman,cash
+09/10/2023,INV-2456,Cooking Oil 1L,grocery,4,843,3372,Zainab,easypaisa
+27/03/2023,INV-2457,Tea 200g,Dairy,4,855,Rs 3420,Ayesha,easypaisa
+07/09/2023,INV-2458,Soap,Dairy,4,604,2416,Walk-in,udhaar
+27/09/2023,INV-2459,Cooking Oil 1L,beverages,4,1150,4600,Zainab,udhaar
+01/12/2023,INV-2460,Milk 1L,Grocery,2,1451,2902,Fatima,cash
+27/04/2023,INV-2461,Tea 200g,beverages,1,232,232,Usman,udhaar
+07/01/2023,INV-2462,Rice 1kg,Dairy,4,318,1272,Usman,cash
+17/05/2023,INV-2463,Sugar 1kg,dairy,2,567,,Ahmed,jazzcash
+25/06/2023,INV-2464,Soap,dairy,3,1298,Rs 3894,Walk-in,udhaar
+24/11/2023,INV-2465,Soap,grocery,3,191,573,Ahmed,udhaar
+11/11/2023,INV-2466,Cooking Oil 1L,dairy,2,514,1028,Zainab,cash
+03/08/2023,INV-2467,Cooking Oil 1L,grocery,2,229,458,Ali,cash
+23/03/2023,INV-2468,Milk 1L,beverages,1,771,Rs 771,Walk-in,cash
+11/08/2023,INV-2469,Rice 1kg,grocery,2,1221,2442,Fatima,jazzcash
+13/04/2023,INV-2470,Sugar 1kg,Dairy,1,607,607,Ali,easypaisa
+30/09/2023,INV-2471,Sugar 1kg,beverages,3,1314,3942,Zainab,jazzcash
+14/01/2023,INV-2472,Sugar 1kg,beverages,1,513,Rs 513,Ayesha,udhaar
+08/06/2023,INV-2473,Sugar 1kg,Grocery,2,105,210,Ali,jazzcash
+01/06/2023,INV-2474,Milk 1L,dairy,1,1053,1053,Ayesha,udhaar
+18/04/2023,INV-2475,Soap,beverages,4,1035,4140,Zainab,cash
+07/07/2023,INV-2476,Tea 200g,grocery,4,639,Rs 2556,Zainab,udhaar
+28/10/2023,INV-2477,Tea 200g,dairy,2,344,688,Zainab,cash
+08/04/2023,INV-2478,Shampoo,grocery,4,935,3740,Fatima,udhaar
+11/05/2023,INV-2479,Tea 200g,grocery,3,609,1827,Zainab,jazzcash
+20/10/2023,INV-2480,Atta 10kg,Dairy,2,1081,2162,Ali,cash
+20/06/2023,INV-2481,Tea 200g,Grocery,2,1167,2334,Walk-in,easypaisa
+02/07/2023,INV-2482,Cooking Oil 1L,grocery,4,676,2704,Walk-in,easypaisa
+30/12/2023,INV-2483,Shampoo,grocery,3,868,2604,Ali,cash
+08/02/2023,INV-2484,Sugar 1kg,dairy,1,417,417,Usman,jazzcash
+15/01/2023,INV-2485,Milk 1L,Grocery,1,646,646,Fatima,jazzcash
+04/01/2023,INV-2486,Cooking Oil 1L,dairy,4,1445,Rs 5780,Ali,udhaar
+15/12/2023,INV-2487,Cooking Oil 1L,dairy,4,280,1120,Walk-in,cash
+29/07/2023,INV-2488,Rice 1kg,Personal Care,3,121,Rs 363,Walk-in,cash
+10/06/2023,INV-2489,Rice 1kg,Grocery,1,790,790,Fatima,cash
+16/01/2023,INV-2490,Shampoo,grocery,1,825,825,Ali,jazzcash
+18/04/2023,INV-2491,Sugar 1kg,Dairy,1,1181,1181,Walk-in,jazzcash
+07/11/2023,INV-2492,Cooking Oil 1L,Grocery,2,493,986,Ali,cash
+15/08/2023,INV-2493,Cooking Oil 1L,Dairy,3,477,1431,Zainab,jazzcash
+19/06/2023,INV-2494,Rice 1kg,Dairy,1,1232,1232,Usman,cash
+03/02/2023,INV-2495,Shampoo,Grocery,2,1042,Rs 2084,Zainab,cash
+08/09/2023,INV-2496,Sugar 1kg,Dairy,3,1385,Rs 4155,Ali,udhaar
+04/09/2023,INV-2497,Tea 200g,Personal Care,3,65,195,Zainab,jazzcash
+26/09/2023,INV-2498,Milk 1L,Personal Care,3,662,1986,Ayesha,udhaar
+21/05/2023,INV-2499,Cooking Oil 1L,Dairy,2,900,Rs 1800,Zainab,easypaisa
+01/10/2023,INV-2500,Cooking Oil 1L,dairy,4,1378,Rs 5512,Ahmed,easypaisa
+06/04/2023,INV-2501,Soap,grocery,3,1410,4230,Ali,udhaar
+15/08/2023,INV-2502,Tea 200g,Dairy,2,1096,Rs 2192,Walk-in,easypaisa
+08/02/2023,INV-2503,Cooking Oil 1L,Dairy,1,1072,1072,Walk-in,udhaar
+29/10/2023,INV-2504,Atta 10kg,Dairy,4,269,1076,Walk-in,jazzcash
+29/01/2023,INV-2505,Rice 1kg,Dairy,2,883,1766,Zainab,jazzcash
+14/11/2023,INV-2506,Soap,beverages,1,541,Rs 541,Ali,cash
+02/09/2023,INV-2507,Shampoo,grocery,4,841,3364,Walk-in,cash
+24/08/2023,INV-2508,Rice 1kg,Personal Care,1,98,98,Ahmed,udhaar
+04/07/2023,INV-2509,Soap,dairy,2,395,Rs 790,Usman,easypaisa
+29/09/2023,INV-2510,Rice 1kg,Dairy,4,939,3756,Walk-in,udhaar
+24/08/2023,INV-2511,Soap,Personal Care,1,99,Rs 99,Ayesha,easypaisa
+27/08/2023,INV-2512,Sugar 1kg,grocery,2,346,692,Ahmed,udhaar
+23/09/2023,INV-2513,Shampoo,dairy,2,1419,2838,Ali,jazzcash
+25/12/2023,INV-2514,Milk 1L,Dairy,3,1023,Rs 3069,Usman,easypaisa
+06/12/2023,INV-2515,Rice 1kg,Dairy,2,471,942,Walk-in,jazzcash
+06/03/2023,INV-2516,Shampoo,Personal Care,1,127,127,Zainab,easypaisa
+26/06/2023,INV-2517,Shampoo,grocery,4,966,3864,Walk-in,jazzcash
+03/01/2023,INV-2518,Milk 1L,beverages,3,860,2580,Zainab,easypaisa
+22/05/2023,INV-2519,Cooking Oil 1L,Personal Care,4,819,3276,Ali,jazzcash
+07/06/2023,INV-2520,Tea 200g,beverages,3,1492,Rs 4476,Zainab,udhaar
+20/11/2023,INV-2521,Shampoo,beverages,3,54,162,Zainab,udhaar
+26/05/2023,INV-2522,Sugar 1kg,grocery,2,218,436,Ayesha,udhaar
+20/10/2023,INV-2523,Atta 10kg,dairy,4,1314,Rs 5256,Ayesha,jazzcash
+02/06/2023,INV-2524,Sugar 1kg,beverages,4,352,Rs 1408,Usman,cash
+12/07/2023,INV-2525,Milk 1L,dairy,4,329,1316,Ahmed,jazzcash
+14/03/2023,INV-2526,Soap,Dairy,4,140,560,Zainab,easypaisa
+01/11/2023,INV-2527,Rice 1kg,Grocery,1,1111,1111,Zainab,cash
+10/12/2023,INV-2528,Milk 1L,Dairy,4,172,688,Usman,easypaisa
+20/05/2023,INV-2529,Rice 1kg,Dairy,2,1449,2898,Zainab,jazzcash
+06/07/2023,INV-2530,Tea 200g,Grocery,4,683,2732,Ayesha,jazzcash
+20/10/2023,INV-2531,Soap,grocery,3,522,1566,Ayesha,easypaisa
+02/03/2023,INV-2532,Milk 1L,Grocery,3,158,Rs 474,Ahmed,easypaisa
+17/07/2023,INV-2533,Tea 200g,beverages,2,1486,2972,Usman,easypaisa
+22/10/2023,INV-2534,Tea 200g,grocery,1,889,Rs 889,Walk-in,jazzcash
+15/11/2023,INV-2535,Sugar 1kg,grocery,2,611,1222,Fatima,easypaisa
+29/10/2023,INV-2536,Cooking Oil 1L,Dairy,2,1419,2838,Zainab,cash
+10/12/2023,INV-2537,Cooking Oil 1L,beverages,1,484,484,Ayesha,cash
+11/01/2023,INV-2538,Cooking Oil 1L,beverages,4,235,Rs 940,Ahmed,easypaisa
+03/03/2023,INV-2539,Sugar 1kg,Dairy,3,549,1647,Ayesha,jazzcash
+29/11/2023,INV-2540,Soap,Dairy,2,305,610,Ayesha,cash
+14/08/2023,INV-2541,Milk 1L,beverages,3,1480,4440,Ali,easypaisa
+02/06/2023,INV-2542,Soap,grocery,1,769,769,Ahmed,cash
+18/07/2023,INV-2543,Soap,beverages,1,1146,1146,Ali,udhaar
+21/02/2023,INV-2544,Rice 1kg,Personal Care,4,734,2936,Fatima,easypaisa
+17/09/2023,INV-2545,Milk 1L,Dairy,3,134,402,Ayesha,udhaar
+28/02/2023,INV-2546,Cooking Oil 1L,Personal Care,1,1103,1103,Walk-in,easypaisa
+13/03/2023,INV-2547,Milk 1L,grocery,1,1185,1185,Fatima,easypaisa
+28/05/2023,INV-2548,Atta 10kg,dairy,3,470,Rs 1410,Ali,udhaar
+15/12/2023,INV-2549,Atta 10kg,grocery,1,363,,Ayesha,jazzcash
+04/03/2023,INV-2550,Tea 200g,Dairy,3,415,1245,Fatima,jazzcash
+06/11/2023,INV-2551,Milk 1L,Grocery,4,76,304,Zainab,udhaar
+31/08/2023,INV-2552,Cooking Oil 1L,grocery,3,1259,Rs 3777,Ali,udhaar
+26/11/2023,INV-2553,Atta 10kg,Grocery,3,128,384,Ahmed,easypaisa
+17/04/2023,INV-2554,Cooking Oil 1L,Personal Care,2,659,1318,Fatima,udhaar
+14/08/2023,INV-2555,Milk 1L,grocery,2,1309,2618,Zainab,jazzcash
+09/11/2023,INV-2556,Shampoo,Grocery,1,947,947,Zainab,cash
+06/08/2023,INV-2557,Tea 200g,Personal Care,2,916,Rs 1832,Zainab,jazzcash
+29/08/2023,INV-2558,Tea 200g,Dairy,3,747,2241,Ayesha,udhaar
+16/09/2023,INV-2559,Rice 1kg,Grocery,4,1331,5324,Ahmed,cash
+19/09/2023,INV-2560,Rice 1kg,Dairy,1,1406,1406,Usman,jazzcash
+05/01/2023,INV-2561,Rice 1kg,Dairy,2,608,1216,Fatima,cash
+18/09/2023,INV-2562,Tea 200g,dairy,1,141,141,Zainab,udhaar
+23/02/2023,INV-2563,Sugar 1kg,dairy,1,1492,1492,Walk-in,jazzcash
+16/02/2023,INV-2564,Sugar 1kg,dairy,1,561,561,Ahmed,udhaar
+03/08/2023,INV-2565,Rice 1kg,Grocery,3,817,2451,Zainab,udhaar
+26/06/2023,INV-2566,Atta 10kg,Dairy,1,743,743,Ali,easypaisa
+09/01/2023,INV-2567,Tea 200g,Personal Care,1,193,193,Ali,udhaar
+09/04/2023,INV-2568,Cooking Oil 1L,Grocery,1,886,886,Walk-in,cash
+20/01/2023,INV-2569,Soap,Grocery,4,1430,5720,Ahmed,cash
+29/08/2023,INV-2570,Sugar 1kg,Personal Care,2,1419,2838,Ahmed,udhaar
+02/03/2023,INV-2571,Tea 200g,grocery,3,1275,3825,Fatima,udhaar
+27/06/2023,INV-2572,Tea 200g,Dairy,1,248,248,Walk-in,udhaar
+04/12/2023,INV-2573,Milk 1L,Dairy,3,345,1035,Usman,jazzcash
+03/03/2023,INV-2574,Shampoo,Personal Care,2,802,1604,Ali,cash
+25/05/2023,INV-2575,Sugar 1kg,Grocery,4,305,Rs 1220,Ahmed,jazzcash
+04/08/2023,INV-2576,Rice 1kg,dairy,4,664,Rs 2656,Walk-in,udhaar
+03/01/2023,INV-2577,Rice 1kg,grocery,1,565,565,Ali,jazzcash
+09/06/2023,INV-2578,Rice 1kg,Grocery,4,1135,4540,Fatima,cash
+15/08/2023,INV-2579,Shampoo,Grocery,4,480,1920,Ahmed,cash
+26/09/2023,INV-2580,Sugar 1kg,Grocery,4,1343,5372,Ayesha,easypaisa
+30/04/2023,INV-2581,Atta 10kg,Grocery,2,1262,Rs 2524,Usman,udhaar
+30/03/2023,INV-2582,Cooking Oil 1L,grocery,4,242,968,Usman,easypaisa
+25/11/2023,INV-2583,Milk 1L,Dairy,3,1443,4329,Zainab,jazzcash
+09/03/2023,INV-2584,Atta 10kg,Grocery,1,62,62,Usman,udhaar
+23/12/2023,INV-2585,Cooking Oil 1L,beverages,2,349,Rs 698,Ali,udhaar
+08/04/2023,INV-2586,Rice 1kg,grocery,2,251,502,Ali,easypaisa
+24/09/2023,INV-2587,Sugar 1kg,beverages,1,580,580,Usman,cash
+15/04/2023,INV-2588,Shampoo,grocery,4,1453,5812,Ayesha,easypaisa
+19/11/2023,INV-2589,Sugar 1kg,dairy,3,289,867,Fatima,easypaisa
+03/05/2023,INV-2590,Shampoo,dairy,2,192,Rs 384,Ahmed,easypaisa
+29/01/2023,INV-2591,Soap,Dairy,2,113,226,Ali,easypaisa
+17/05/2023,INV-2592,Sugar 1kg,Personal Care,2,1146,2292,Usman,jazzcash
+14/07/2023,INV-2593,Atta 10kg,beverages,1,625,Rs 625,Ahmed,cash
+14/08/2023,INV-2594,Sugar 1kg,grocery,2,1255,2510,Ayesha,easypaisa
+28/11/2023,INV-2595,Tea 200g,Grocery,2,1233,2466,Walk-in,udhaar
+19/06/2023,INV-2596,Cooking Oil 1L,beverages,4,1409,5636,Fatima,easypaisa
+09/01/2023,INV-2597,Atta 10kg,Dairy,3,724,Rs 2172,Fatima,jazzcash
+09/02/2023,INV-2598,Tea 200g,dairy,1,1017,1017,Ahmed,jazzcash
+25/01/2023,INV-2599,Milk 1L,grocery,4,171,Rs 684,Zainab,cash
+18/09/2023,INV-2600,Cooking Oil 1L,beverages,1,602,,Walk-in,jazzcash
+14/08/2023,INV-2601,Tea 200g,Personal Care,1,547,,Ayesha,cash
+04/05/2023,INV-2602,Soap,Grocery,4,889,Rs 3556,Ali,jazzcash
+07/02/2023,INV-2603,Tea 200g,Grocery,2,263,Rs 526,Ahmed,easypaisa
+24/11/2023,INV-2604,Soap,beverages,2,1360,2720,Fatima,udhaar
+08/09/2023,INV-2605,Tea 200g,dairy,4,974,3896,Walk-in,jazzcash
+25/06/2023,INV-2606,Shampoo,grocery,2,723,1446,Ahmed,udhaar
+31/03/2023,INV-2607,Soap,Personal Care,1,259,259,Ahmed,easypaisa
+06/02/2023,INV-2608,Sugar 1kg,beverages,4,1208,4832,Fatima,jazzcash
+12/11/2023,INV-2609,Tea 200g,Grocery,4,1015,Rs 4060,Usman,jazzcash
+25/06/2023,INV-2610,Milk 1L,Dairy,2,1221,2442,Zainab,cash
+11/10/2023,INV-2611,Sugar 1kg,Grocery,1,495,495,Ayesha,jazzcash
+22/03/2023,INV-2612,Rice 1kg,Grocery,4,993,3972,Ahmed,jazzcash
+24/04/2023,INV-2613,Soap,dairy,1,128,128,Zainab,easypaisa
+09/02/2023,INV-2614,Milk 1L,beverages,1,346,346,Usman,jazzcash
+28/10/2023,INV-2615,Soap,Grocery,3,1261,3783,Fatima,udhaar
+12/08/2023,INV-2616,Milk 1L,Personal Care,2,571,1142,Walk-in,udhaar
+14/11/2023,INV-2617,Sugar 1kg,beverages,2,1103,2206,Zainab,cash
+15/12/2023,INV-2618,Sugar 1kg,Dairy,3,584,1752,Zainab,cash
+25/04/2023,INV-2619,Milk 1L,beverages,3,1268,3804,Walk-in,easypaisa
+05/07/2023,INV-2620,Tea 200g,beverages,2,1293,Rs 2586,Ahmed,cash
+19/11/2023,INV-2621,Rice 1kg,Dairy,1,648,648,Fatima,easypaisa
+25/02/2023,INV-2622,Cooking Oil 1L,dairy,3,1195,,Ayesha,udhaar
+09/02/2023,INV-2623,Shampoo,dairy,1,1285,1285,Ali,jazzcash
+20/12/2023,INV-2624,Tea 200g,Grocery,2,603,1206,Usman,jazzcash
+09/02/2023,INV-2625,Tea 200g,Grocery,4,688,Rs 2752,Ahmed,easypaisa
+13/12/2023,INV-2626,Rice 1kg,Personal Care,3,589,1767,Fatima,jazzcash
+25/08/2023,INV-2627,Atta 10kg,Personal Care,4,469,1876,Fatima,udhaar
+16/10/2023,INV-2628,Milk 1L,grocery,4,383,1532,Usman,udhaar
+19/09/2023,INV-2629,Milk 1L,dairy,1,299,299,Walk-in,jazzcash
+04/08/2023,INV-2630,Sugar 1kg,Dairy,1,1482,1482,Ali,jazzcash
+27/05/2023,INV-2631,Milk 1L,beverages,1,824,824,Fatima,jazzcash
+02/12/2023,INV-2632,Rice 1kg,Dairy,3,260,Rs 780,Walk-in,jazzcash
+17/06/2023,INV-2633,Soap,Personal Care,3,384,1152,Fatima,easypaisa
+02/04/2023,INV-2634,Atta 10kg,Grocery,3,747,,Usman,jazzcash
+19/12/2023,INV-2635,Rice 1kg,Grocery,4,590,Rs 2360,Walk-in,jazzcash
+28/02/2023,INV-2636,Milk 1L,Grocery,4,1186,4744,Zainab,cash
+28/02/2023,INV-2637,Soap,grocery,1,146,Rs 146,Walk-in,jazzcash
+31/10/2023,INV-2638,Tea 200g,Personal Care,2,733,1466,Ayesha,easypaisa
+18/06/2023,INV-2639,Shampoo,beverages,4,1239,4956,Ali,easypaisa
+26/09/2023,INV-2640,Soap,grocery,1,938,938,Ahmed,cash
+29/12/2023,INV-2641,Tea 200g,Personal Care,4,1283,5132,Zainab,cash
+14/02/2023,INV-2642,Soap,grocery,4,54,216,Zainab,easypaisa
+11/12/2023,INV-2643,Tea 200g,grocery,2,1344,2688,Usman,cash
+30/06/2023,INV-2644,Soap,dairy,2,268,536,Fatima,easypaisa
+19/06/2023,INV-2645,Sugar 1kg,grocery,2,576,1152,Walk-in,easypaisa
+22/12/2023,INV-2646,Tea 200g,Personal Care,3,1008,Rs 3024,Ali,cash
+10/07/2023,INV-2647,Soap,Dairy,2,1109,2218,Zainab,jazzcash
+04/06/2023,INV-2648,Shampoo,Personal Care,1,1054,1054,Ayesha,jazzcash
+07/07/2023,INV-2649,Cooking Oil 1L,beverages,3,356,Rs 1068,Ayesha,jazzcash
+07/01/2023,INV-2650,Soap,grocery,4,961,Rs 3844,Walk-in,easypaisa
+13/05/2023,INV-2651,Cooking Oil 1L,Grocery,3,718,2154,Ahmed,cash
+23/08/2023,INV-2652,Shampoo,beverages,4,940,3760,Zainab,cash
+14/02/2023,INV-2653,Milk 1L,beverages,1,713,Rs 713,Usman,udhaar
+10/11/2023,INV-2654,Milk 1L,Dairy,1,356,356,Ayesha,cash
+06/09/2023,INV-2655,Rice 1kg,Personal Care,1,1149,1149,Ahmed,udhaar
+31/01/2023,INV-2656,Cooking Oil 1L,dairy,3,475,1425,Usman,easypaisa
+23/01/2023,INV-2657,Sugar 1kg,Grocery,3,139,,Ayesha,jazzcash
+09/06/2023,INV-2658,Milk 1L,grocery,1,79,79,Ahmed,cash
+29/12/2023,INV-2659,Milk 1L,dairy,3,71,213,Fatima,udhaar
+07/06/2023,INV-2660,Soap,Grocery,2,256,512,Usman,udhaar
+08/02/2023,INV-2661,Atta 10kg,Dairy,4,1249,4996,Ahmed,udhaar
+23/03/2023,INV-2662,Rice 1kg,Grocery,2,898,1796,Walk-in,cash
+22/12/2023,INV-2663,Shampoo,Grocery,3,552,1656,Zainab,cash
+15/09/2023,INV-2664,Soap,grocery,3,942,2826,Zainab,cash
+25/07/2023,INV-2665,Soap,Personal Care,2,1081,2162,Ahmed,easypaisa
+18/03/2023,INV-2666,Soap,beverages,1,495,495,Ali,udhaar
+12/01/2023,INV-2667,Rice 1kg,Grocery,3,806,2418,Zainab,udhaar
+22/10/2023,INV-2668,Tea 200g,beverages,1,335,,Walk-in,easypaisa
+12/08/2023,INV-2669,Cooking Oil 1L,Personal Care,4,1034,4136,Usman,udhaar
+13/01/2023,INV-2670,Milk 1L,beverages,2,723,1446,Fatima,cash
+15/02/2023,INV-2671,Atta 10kg,Dairy,4,1222,4888,Ali,cash
+04/06/2023,INV-2672,Sugar 1kg,Personal Care,2,651,1302,Ahmed,cash
+23/04/2023,INV-2673,Shampoo,Grocery,3,663,1989,Fatima,cash
+21/08/2023,INV-2674,Atta 10kg,Dairy,3,350,1050,Ayesha,easypaisa
+17/01/2023,INV-2675,Shampoo,dairy,3,1335,4005,Fatima,udhaar
+26/12/2023,INV-2676,Cooking Oil 1L,Dairy,1,302,,Ayesha,easypaisa
+11/08/2023,INV-2677,Rice 1kg,grocery,2,354,,Walk-in,jazzcash
+20/12/2023,INV-2678,Soap,grocery,2,1478,2956,Usman,easypaisa
+07/07/2023,INV-2679,Cooking Oil 1L,dairy,4,324,1296,Walk-in,udhaar
+10/12/2023,INV-2680,Cooking Oil 1L,dairy,1,88,88,Walk-in,udhaar
+31/12/2023,INV-2681,Soap,dairy,3,972,2916,Fatima,jazzcash
+12/06/2023,INV-2682,Rice 1kg,Personal Care,2,1187,,Usman,udhaar
+22/11/2023,INV-2683,Shampoo,dairy,2,472,944,Ayesha,jazzcash
+15/03/2023,INV-2684,Rice 1kg,Grocery,1,262,262,Walk-in,cash
+21/08/2023,INV-2685,Shampoo,grocery,3,1210,3630,Ahmed,udhaar
+12/08/2023,INV-2686,Rice 1kg,Personal Care,4,917,3668,Zainab,cash
+15/11/2023,INV-2687,Sugar 1kg,beverages,1,1037,1037,Ahmed,jazzcash
+01/03/2023,INV-2688,Shampoo,beverages,1,1108,1108,Fatima,cash
+01/12/2023,INV-2689,Shampoo,beverages,2,1442,2884,Ali,cash
+10/08/2023,INV-2690,Sugar 1kg,Personal Care,2,1316,2632,Ayesha,easypaisa
+06/02/2023,INV-2691,Rice 1kg,beverages,3,946,2838,Ali,cash
+05/10/2023,INV-2692,Milk 1L,Grocery,2,67,Rs 134,Ahmed,udhaar
+15/07/2023,INV-2693,Milk 1L,grocery,2,577,Rs 1154,Fatima,jazzcash
+18/12/2023,INV-2694,Milk 1L,grocery,2,1082,2164,Ahmed,cash
+30/08/2023,INV-2695,Milk 1L,dairy,4,640,2560,Walk-in,jazzcash
+20/11/2023,INV-2696,Cooking Oil 1L,Grocery,3,152,456,Ahmed,udhaar
+07/08/2023,INV-2697,Soap,Personal Care,3,839,2517,Ali,easypaisa
+11/07/2023,INV-2698,Shampoo,Personal Care,1,1190,1190,Ahmed,easypaisa
+17/01/2023,INV-2699,Tea 200g,Personal Care,2,781,Rs 1562,Fatima,cash
+12/01/2023,INV-2700,Milk 1L,grocery,4,131,524,Ahmed,easypaisa
+12/07/2023,INV-2701,Rice 1kg,dairy,3,107,321,Ali,udhaar
+22/01/2023,INV-2702,Rice 1kg,dairy,3,1360,4080,Ahmed,jazzcash
+30/04/2023,INV-2703,Tea 200g,Grocery,1,1071,1071,Fatima,jazzcash
+29/07/2023,INV-2704,Milk 1L,Grocery,1,1182,,Ali,easypaisa
+02/11/2023,INV-2705,Cooking Oil 1L,Personal Care,4,1216,4864,Ali,jazzcash
+27/09/2023,INV-2706,Atta 10kg,Personal Care,4,59,236,Ali,cash
+11/07/2023,INV-2707,Atta 10kg,Dairy,1,841,841,Ahmed,udhaar
+24/06/2023,INV-2708,Tea 200g,Dairy,3,1408,4224,Zainab,easypaisa
+12/10/2023,INV-2709,Sugar 1kg,Dairy,1,680,680,Zainab,cash
+23/07/2023,INV-2710,Tea 200g,grocery,2,1370,Rs 2740,Ali,easypaisa
+13/06/2023,INV-2711,Shampoo,beverages,3,368,Rs 1104,Fatima,easypaisa
+08/09/2023,INV-2712,Cooking Oil 1L,Dairy,1,1107,Rs 1107,Usman,jazzcash
+15/08/2023,INV-2713,Atta 10kg,grocery,4,1152,Rs 4608,Usman,udhaar
+07/01/2023,INV-2714,Shampoo,Grocery,2,241,482,Usman,jazzcash
+29/01/2023,INV-2715,Atta 10kg,grocery,4,1240,4960,Zainab,easypaisa
+02/02/2023,INV-2716,Soap,Personal Care,1,166,166,Fatima,easypaisa
+14/05/2023,INV-2717,Milk 1L,beverages,3,1293,Rs 3879,Ahmed,udhaar
+20/03/2023,INV-2718,Shampoo,dairy,1,1026,1026,Ali,jazzcash
+27/02/2023,INV-2719,Milk 1L,dairy,4,64,256,Fatima,easypaisa
+26/01/2023,INV-2720,Milk 1L,beverages,3,271,813,Usman,jazzcash
+14/08/2023,INV-2721,Atta 10kg,Personal Care,2,161,322,Usman,jazzcash
+12/10/2023,INV-2722,Atta 10kg,Dairy,2,327,Rs 654,Zainab,udhaar
+04/01/2023,INV-2723,Soap,Personal Care,4,352,1408,Ayesha,cash
+09/04/2023,INV-2724,Sugar 1kg,Personal Care,1,328,328,Walk-in,jazzcash
+08/02/2023,INV-2725,Tea 200g,dairy,4,1183,4732,Usman,jazzcash
+28/09/2023,INV-2726,Tea 200g,Grocery,1,1067,1067,Ahmed,cash
+12/10/2023,INV-2727,Sugar 1kg,grocery,2,495,990,Ali,udhaar
+06/06/2023,INV-2728,Sugar 1kg,Dairy,4,631,Rs 2524,Ayesha,easypaisa
+16/03/2023,INV-2729,Milk 1L,Grocery,4,803,3212,Ali,udhaar
+15/10/2023,INV-2730,Soap,Grocery,2,235,470,Ali,udhaar
+10/05/2023,INV-2731,Tea 200g,grocery,3,1269,,Usman,udhaar
+24/06/2023,INV-2732,Rice 1kg,beverages,4,616,2464,Zainab,udhaar
+25/03/2023,INV-2733,Shampoo,Grocery,3,1222,3666,Walk-in,easypaisa
+22/01/2023,INV-2734,Rice 1kg,dairy,4,348,1392,Walk-in,jazzcash
+27/01/2023,INV-2735,Soap,Dairy,1,1131,1131,Walk-in,udhaar
+14/07/2023,INV-2736,Cooking Oil 1L,dairy,2,811,1622,Ayesha,easypaisa
+03/12/2023,INV-2737,Cooking Oil 1L,Dairy,4,1163,Rs 4652,Ahmed,jazzcash
+24/08/2023,INV-2738,Soap,beverages,4,703,2812,Usman,cash
+02/04/2023,INV-2739,Rice 1kg,dairy,4,1344,5376,Fatima,easypaisa
+21/01/2023,INV-2740,Sugar 1kg,grocery,1,79,79,Fatima,jazzcash
+30/10/2023,INV-2741,Sugar 1kg,Dairy,3,318,Rs 954,Ayesha,jazzcash
+23/12/2023,INV-2742,Cooking Oil 1L,Grocery,2,1222,Rs 2444,Usman,easypaisa
+25/03/2023,INV-2743,Atta 10kg,Personal Care,4,916,3664,Ayesha,jazzcash
+19/09/2023,INV-2744,Sugar 1kg,grocery,4,464,1856,Zainab,udhaar
+27/05/2023,INV-2745,Soap,grocery,2,1022,2044,Zainab,udhaar
+14/09/2023,INV-2746,Shampoo,Dairy,4,1091,4364,Ayesha,cash
+27/02/2023,INV-2747,Rice 1kg,beverages,1,558,558,Ahmed,cash
+15/01/2023,INV-2748,Atta 10kg,Personal Care,4,167,668,Ahmed,jazzcash
+11/06/2023,INV-2749,Soap,Dairy,3,635,1905,Ali,easypaisa
+12/06/2023,INV-2750,Cooking Oil 1L,dairy,2,1246,2492,Usman,easypaisa
+16/11/2023,INV-2751,Tea 200g,dairy,3,642,Rs 1926,Zainab,jazzcash
+08/10/2023,INV-2752,Tea 200g,dairy,4,812,Rs 3248,Ahmed,easypaisa
+07/10/2023,INV-2753,Cooking Oil 1L,Personal Care,4,101,Rs 404,Ali,cash
+12/01/2023,INV-2754,Atta 10kg,Grocery,3,306,Rs 918,Ayesha,easypaisa
+01/10/2023,INV-2755,Soap,beverages,3,1410,4230,Ahmed,easypaisa
+28/09/2023,INV-2756,Sugar 1kg,Dairy,3,58,174,Ali,easypaisa
+27/07/2023,INV-2757,Sugar 1kg,Grocery,4,1098,4392,Ali,cash
+27/01/2023,INV-2758,Shampoo,beverages,1,381,Rs 381,Walk-in,jazzcash
+13/03/2023,INV-2759,Milk 1L,Dairy,3,540,Rs 1620,Ali,jazzcash
+01/03/2023,INV-2760,Rice 1kg,beverages,2,1328,2656,Zainab,udhaar
+25/05/2023,INV-2761,Sugar 1kg,Dairy,4,1480,5920,Ali,udhaar
+03/04/2023,INV-2762,Rice 1kg,grocery,2,673,1346,Walk-in,easypaisa
+05/11/2023,INV-2763,Sugar 1kg,dairy,1,1262,1262,Ahmed,cash
+08/01/2023,INV-2764,Soap,grocery,1,1062,Rs 1062,Ayesha,jazzcash
+20/03/2023,INV-2765,Sugar 1kg,Dairy,3,230,690,Zainab,cash
+27/01/2023,INV-2766,Sugar 1kg,Dairy,4,1486,Rs 5944,Zainab,jazzcash
+23/06/2023,INV-2767,Atta 10kg,grocery,1,983,Rs 983,Usman,easypaisa
+19/02/2023,INV-2768,Soap,dairy,2,1048,2096,Zainab,cash
+18/07/2023,INV-2769,Shampoo,grocery,4,806,3224,Ahmed,easypaisa
+15/12/2023,INV-2770,Soap,Personal Care,3,1207,Rs 3621,Fatima,cash
+30/06/2023,INV-2771,Cooking Oil 1L,grocery,3,1401,4203,Ahmed,udhaar
+24/01/2023,INV-2772,Cooking Oil 1L,Grocery,3,557,1671,Ayesha,easypaisa
+12/11/2023,INV-2773,Shampoo,dairy,3,953,Rs 2859,Usman,easypaisa
+15/02/2023,INV-2774,Rice 1kg,dairy,4,1096,4384,Zainab,udhaar
+15/01/2023,INV-2775,Atta 10kg,Personal Care,1,1181,Rs 1181,Zainab,cash
+02/06/2023,INV-2776,Tea 200g,Dairy,1,706,706,Fatima,cash
+10/08/2023,INV-2777,Milk 1L,grocery,4,155,,Ali,udhaar
+25/07/2023,INV-2778,Rice 1kg,Personal Care,4,520,2080,Walk-in,cash
+30/09/2023,INV-2779,Cooking Oil 1L,Personal Care,3,334,1002,Fatima,jazzcash
+24/08/2023,INV-2780,Soap,Grocery,2,304,608,Usman,udhaar
+06/12/2023,INV-2781,Atta 10kg,Dairy,1,149,149,Zainab,udhaar
+16/08/2023,INV-2782,Soap,Personal Care,3,646,Rs 1938,Walk-in,easypaisa
+09/01/2023,INV-2783,Soap,Grocery,3,107,321,Ayesha,easypaisa
+15/06/2023,INV-2784,Soap,Grocery,2,888,1776,Usman,cash
+15/11/2023,INV-2785,Shampoo,grocery,4,123,492,Walk-in,udhaar
+02/08/2023,INV-2786,Cooking Oil 1L,beverages,4,1088,Rs 4352,Ahmed,udhaar
+27/04/2023,INV-2787,Soap,Dairy,2,62,124,Ayesha,easypaisa
+10/12/2023,INV-2788,Shampoo,beverages,1,306,306,Ali,udhaar
+13/03/2023,INV-2789,Shampoo,beverages,4,1333,5332,Ayesha,easypaisa
+05/03/2023,INV-2790,Milk 1L,dairy,4,116,464,Ali,jazzcash
+24/07/2023,INV-2791,Milk 1L,Grocery,3,946,Rs 2838,Ali,udhaar
+28/07/2023,INV-2792,Sugar 1kg,Dairy,1,1333,1333,Ali,jazzcash
+13/03/2023,INV-2793,Atta 10kg,Grocery,1,389,389,Fatima,cash
+04/10/2023,INV-2794,Shampoo,beverages,3,753,2259,Zainab,cash
+01/10/2023,INV-2795,Cooking Oil 1L,Dairy,4,565,2260,Fatima,easypaisa
+16/11/2023,INV-2796,Tea 200g,dairy,1,1368,,Ayesha,jazzcash
+04/12/2023,INV-2797,Tea 200g,Dairy,4,1231,4924,Zainab,cash
+05/04/2023,INV-2798,Shampoo,beverages,2,619,1238,Walk-in,udhaar
+15/06/2023,INV-2799,Soap,grocery,2,303,Rs 606,Ayesha,udhaar
+01/02/2023,INV-2800,Rice 1kg,Grocery,2,446,Rs 892,Fatima,cash
+11/01/2023,INV-2801,Atta 10kg,Dairy,4,1065,4260,Usman,udhaar
+28/10/2023,INV-2802,Sugar 1kg,Personal Care,2,1438,2876,Zainab,udhaar
+05/08/2023,INV-2803,Cooking Oil 1L,grocery,1,686,Rs 686,Fatima,cash
+16/10/2023,INV-2804,Rice 1kg,Personal Care,4,519,Rs 2076,Fatima,cash
+12/04/2023,INV-2805,Sugar 1kg,beverages,3,117,351,Walk-in,easypaisa
+24/09/2023,INV-2806,Milk 1L,dairy,3,374,Rs 1122,Fatima,udhaar
+02/08/2023,INV-2807,Tea 200g,grocery,4,477,Rs 1908,Usman,easypaisa
+28/06/2023,INV-2808,Atta 10kg,dairy,1,675,675,Fatima,jazzcash
+29/03/2023,INV-2809,Atta 10kg,beverages,4,1011,4044,Usman,cash
+10/02/2023,INV-2810,Milk 1L,Personal Care,1,121,121,Usman,cash
+17/03/2023,INV-2811,Milk 1L,dairy,3,503,1509,Zainab,jazzcash
+15/02/2023,INV-2812,Tea 200g,Personal Care,3,1198,Rs 3594,Walk-in,udhaar
+09/06/2023,INV-2813,Rice 1kg,grocery,4,1393,5572,Zainab,easypaisa
+21/03/2023,INV-2814,Milk 1L,grocery,3,950,2850,Ali,jazzcash
+06/11/2023,INV-2815,Sugar 1kg,Dairy,2,1317,,Ali,easypaisa
+27/03/2023,INV-2816,Rice 1kg,Dairy,3,1227,Rs 3681,Ali,udhaar
+02/04/2023,INV-2817,Soap,Grocery,3,222,666,Walk-in,cash
+28/05/2023,INV-2818,Tea 200g,Grocery,4,1276,5104,Walk-in,jazzcash
+10/06/2023,INV-2819,Rice 1kg,grocery,3,675,2025,Zainab,jazzcash
+21/07/2023,INV-2820,Tea 200g,Dairy,3,535,1605,Ayesha,udhaar
+30/08/2023,INV-2821,Soap,Dairy,2,1363,2726,Fatima,easypaisa
+19/12/2023,INV-2822,Cooking Oil 1L,grocery,2,604,,Ahmed,cash
+02/01/2023,INV-2823,Soap,grocery,3,884,2652,Ayesha,jazzcash
+13/08/2023,INV-2824,Rice 1kg,Personal Care,3,493,1479,Ayesha,easypaisa
+16/10/2023,INV-2825,Rice 1kg,Dairy,1,468,468,Ali,easypaisa
+21/08/2023,INV-2826,Cooking Oil 1L,Personal Care,4,259,1036,Ahmed,cash
+18/03/2023,INV-2827,Soap,dairy,2,676,1352,Zainab,udhaar
+26/04/2023,INV-2828,Rice 1kg,Grocery,2,1433,2866,Ali,jazzcash
+03/06/2023,INV-2829,Atta 10kg,beverages,3,1455,4365,Zainab,jazzcash
+13/04/2023,INV-2830,Atta 10kg,grocery,1,166,166,Ayesha,easypaisa
+13/07/2023,INV-2831,Cooking Oil 1L,Dairy,1,283,Rs 283,Usman,cash
+15/06/2023,INV-2832,Cooking Oil 1L,Grocery,2,1109,2218,Zainab,easypaisa
+25/12/2023,INV-2833,Atta 10kg,Grocery,2,1209,2418,Zainab,easypaisa
+31/03/2023,INV-2834,Atta 10kg,Personal Care,3,390,,Walk-in,udhaar
+23/06/2023,INV-2835,Soap,Grocery,2,312,Rs 624,Fatima,easypaisa
+02/05/2023,INV-2836,Rice 1kg,beverages,2,1196,Rs 2392,Ayesha,cash
+23/05/2023,INV-2837,Cooking Oil 1L,Dairy,3,905,2715,Usman,jazzcash
+16/04/2023,INV-2838,Tea 200g,grocery,4,105,420,Ahmed,easypaisa
+01/11/2023,INV-2839,Shampoo,Grocery,1,1111,1111,Usman,cash
+26/12/2023,INV-2840,Sugar 1kg,Grocery,3,694,2082,Usman,cash
+13/11/2023,INV-2841,Atta 10kg,grocery,3,118,,Ali,udhaar
+03/05/2023,INV-2842,Rice 1kg,Dairy,1,1208,1208,Ali,udhaar
+09/01/2023,INV-2843,Soap,Grocery,2,1016,2032,Ayesha,easypaisa
+19/09/2023,INV-2844,Atta 10kg,dairy,3,180,540,Usman,udhaar
+14/03/2023,INV-2845,Shampoo,Grocery,2,182,364,Ayesha,jazzcash
+25/12/2023,INV-2846,Shampoo,beverages,3,1449,Rs 4347,Zainab,jazzcash
+11/08/2023,INV-2847,Sugar 1kg,dairy,3,616,1848,Usman,easypaisa
+10/02/2023,INV-2848,Rice 1kg,grocery,3,875,2625,Usman,jazzcash
+23/07/2023,INV-2849,Atta 10kg,grocery,3,741,2223,Ahmed,easypaisa
+21/09/2023,INV-2850,Atta 10kg,beverages,2,1314,Rs 2628,Walk-in,cash
+24/11/2023,INV-2851,Shampoo,beverages,1,1291,Rs 1291,Usman,cash
+27/06/2023,INV-2852,Milk 1L,Grocery,1,1154,1154,Walk-in,udhaar
+14/12/2023,INV-2853,Cooking Oil 1L,Dairy,4,674,2696,Fatima,jazzcash
+14/11/2023,INV-2854,Shampoo,Grocery,1,59,59,Ali,easypaisa
+25/03/2023,INV-2855,Atta 10kg,grocery,2,751,1502,Ayesha,udhaar
+14/11/2023,INV-2856,Cooking Oil 1L,grocery,1,1456,1456,Ali,easypaisa
+21/04/2023,INV-2857,Atta 10kg,Personal Care,4,1038,Rs 4152,Ali,cash
+08/09/2023,INV-2858,Cooking Oil 1L,grocery,4,373,1492,Ahmed,udhaar
+07/01/2023,INV-2859,Milk 1L,grocery,2,533,1066,Zainab,cash
+25/03/2023,INV-2860,Soap,Dairy,4,567,2268,Walk-in,cash
+27/07/2023,INV-2861,Cooking Oil 1L,grocery,1,882,882,Ayesha,easypaisa
+10/11/2023,INV-2862,Rice 1kg,dairy,2,565,1130,Ali,cash
+22/01/2023,INV-2863,Soap,dairy,2,1300,2600,Ali,cash
+03/01/2023,INV-2864,Sugar 1kg,Personal Care,2,1376,2752,Ahmed,easypaisa
+07/05/2023,INV-2865,Atta 10kg,Personal Care,1,144,144,Ali,jazzcash
+24/10/2023,INV-2866,Shampoo,Grocery,1,636,Rs 636,Walk-in,jazzcash
+07/07/2023,INV-2867,Milk 1L,Grocery,4,1037,4148,Ayesha,cash
+28/12/2023,INV-2868,Rice 1kg,beverages,2,148,Rs 296,Usman,udhaar
+14/01/2023,INV-2869,Sugar 1kg,Dairy,2,628,Rs 1256,Ahmed,jazzcash
+12/01/2023,INV-2870,Cooking Oil 1L,Dairy,4,502,Rs 2008,Ayesha,jazzcash
+28/03/2023,INV-2871,Milk 1L,beverages,2,1157,2314,Usman,easypaisa
+12/01/2023,INV-2872,Shampoo,Personal Care,2,155,Rs 310,Usman,udhaar
+25/01/2023,INV-2873,Soap,grocery,1,123,,Walk-in,cash
+28/10/2023,INV-2874,Sugar 1kg,Personal Care,2,889,1778,Fatima,udhaar
+31/08/2023,INV-2875,Soap,Personal Care,2,1416,2832,Zainab,cash
+02/05/2023,INV-2876,Soap,Grocery,3,397,Rs 1191,Walk-in,jazzcash
+27/05/2023,INV-2877,Soap,grocery,1,682,682,Ali,jazzcash
+24/02/2023,INV-2878,Cooking Oil 1L,beverages,2,553,1106,Ali,udhaar
+26/08/2023,INV-2879,Atta 10kg,grocery,2,1448,Rs 2896,Ahmed,easypaisa
+22/12/2023,INV-2880,Soap,Grocery,3,741,2223,Ali,udhaar
+22/06/2023,INV-2881,Shampoo,dairy,2,1295,2590,Walk-in,cash
+09/08/2023,INV-2882,Shampoo,grocery,4,1088,4352,Usman,jazzcash
+29/04/2023,INV-2883,Shampoo,dairy,3,1350,,Ali,udhaar
+05/11/2023,INV-2884,Shampoo,beverages,1,1263,Rs 1263,Walk-in,jazzcash
+02/07/2023,INV-2885,Sugar 1kg,grocery,2,170,340,Zainab,cash
+15/10/2023,INV-2886,Atta 10kg,Grocery,4,405,Rs 1620,Fatima,jazzcash
+03/11/2023,INV-2887,Atta 10kg,beverages,1,1147,Rs 1147,Zainab,jazzcash
+27/10/2023,INV-2888,Shampoo,beverages,1,502,502,Ali,jazzcash
+23/03/2023,INV-2889,Soap,dairy,1,364,,Fatima,jazzcash
+30/07/2023,INV-2890,Sugar 1kg,dairy,1,452,,Fatima,jazzcash
+30/05/2023,INV-2891,Milk 1L,Dairy,4,1199,Rs 4796,Fatima,easypaisa
+06/02/2023,INV-2892,Shampoo,beverages,1,98,98,Usman,cash
+18/12/2023,INV-2893,Atta 10kg,Grocery,4,270,1080,Usman,udhaar
+08/11/2023,INV-2894,Atta 10kg,Grocery,3,1067,Rs 3201,Usman,udhaar
+27/12/2023,INV-2895,Tea 200g,dairy,2,480,960,Ahmed,easypaisa
+28/02/2023,INV-2896,Rice 1kg,beverages,1,115,115,Ali,jazzcash
+11/05/2023,INV-2897,Shampoo,beverages,1,1035,1035,Walk-in,udhaar
+21/07/2023,INV-2898,Sugar 1kg,beverages,4,1109,4436,Ahmed,udhaar
+31/08/2023,INV-2899,Cooking Oil 1L,Grocery,4,725,2900,Ayesha,jazzcash
+04/02/2023,INV-2900,Tea 200g,Personal Care,3,1196,Rs 3588,Walk-in,easypaisa
+03/04/2023,INV-2901,Sugar 1kg,dairy,2,1074,2148,Walk-in,cash
+26/07/2023,INV-2902,Rice 1kg,Dairy,3,110,330,Ayesha,udhaar
+19/12/2023,INV-2903,Atta 10kg,Grocery,1,1196,1196,Walk-in,easypaisa
+28/11/2023,INV-2904,Sugar 1kg,Personal Care,4,179,716,Walk-in,easypaisa
+01/11/2023,INV-2905,Cooking Oil 1L,dairy,2,814,1628,Ayesha,easypaisa
+16/12/2023,INV-2906,Sugar 1kg,grocery,2,616,Rs 1232,Usman,easypaisa
+01/08/2023,INV-2907,Milk 1L,dairy,3,1053,3159,Usman,jazzcash
+08/06/2023,INV-2908,Sugar 1kg,Personal Care,2,1000,2000,Usman,easypaisa
+24/01/2023,INV-2909,Cooking Oil 1L,Dairy,2,1353,2706,Usman,jazzcash
+20/10/2023,INV-2910,Soap,beverages,3,127,381,Walk-in,jazzcash
+04/01/2023,INV-2911,Milk 1L,beverages,1,366,Rs 366,Zainab,jazzcash
+08/08/2023,INV-2912,Tea 200g,Personal Care,2,848,Rs 1696,Walk-in,cash
+30/12/2023,INV-2913,Milk 1L,beverages,1,734,734,Zainab,cash
+20/01/2023,INV-2914,Tea 200g,dairy,1,921,921,Usman,jazzcash
+01/06/2023,INV-2915,Cooking Oil 1L,Personal Care,1,1063,Rs 1063,Ahmed,cash
+19/02/2023,INV-2916,Tea 200g,dairy,1,1270,1270,Walk-in,udhaar
+26/06/2023,INV-2917,Milk 1L,Grocery,1,454,454,Ayesha,easypaisa
+06/04/2023,INV-2918,Cooking Oil 1L,Dairy,1,1050,1050,Ahmed,easypaisa
+15/04/2023,INV-2919,Tea 200g,dairy,3,882,Rs 2646,Ayesha,easypaisa
+07/09/2023,INV-2920,Rice 1kg,grocery,1,418,418,Fatima,cash
+27/04/2023,INV-2921,Shampoo,Dairy,4,964,3856,Usman,cash
+20/12/2023,INV-2922,Cooking Oil 1L,grocery,4,324,1296,Walk-in,udhaar
+16/08/2023,INV-2923,Shampoo,Personal Care,4,1255,5020,Fatima,udhaar
+07/03/2023,INV-2924,Tea 200g,Grocery,3,740,2220,Ahmed,easypaisa
+01/12/2023,INV-2925,Sugar 1kg,dairy,1,161,161,Ali,udhaar
+19/09/2023,INV-2926,Cooking Oil 1L,Grocery,4,1076,4304,Ali,udhaar
+22/10/2023,INV-2927,Cooking Oil 1L,Dairy,1,1215,1215,Ayesha,udhaar
+31/08/2023,INV-2928,Rice 1kg,beverages,1,1486,1486,Walk-in,udhaar
+05/07/2023,INV-2929,Atta 10kg,Dairy,4,1063,Rs 4252,Zainab,easypaisa
+03/09/2023,INV-2930,Milk 1L,beverages,2,1146,2292,Ayesha,jazzcash
+05/05/2023,INV-2931,Shampoo,Dairy,2,924,1848,Zainab,cash
+25/09/2023,INV-2932,Rice 1kg,beverages,2,272,Rs 544,Ali,cash
+11/05/2023,INV-2933,Sugar 1kg,Personal Care,2,819,1638,Ali,cash
+25/08/2023,INV-2934,Soap,Grocery,1,969,969,Zainab,cash
+18/01/2023,INV-2935,Soap,dairy,4,1234,Rs 4936,Fatima,cash
+09/02/2023,INV-2936,Tea 200g,Dairy,3,827,2481,Ayesha,jazzcash
+21/01/2023,INV-2937,Shampoo,Personal Care,1,785,785,Usman,jazzcash
+13/08/2023,INV-2938,Atta 10kg,Personal Care,1,1104,1104,Ali,cash
+21/12/2023,INV-2939,Milk 1L,beverages,2,573,1146,Usman,easypaisa
+09/10/2023,INV-2940,Rice 1kg,beverages,1,212,212,Ayesha,jazzcash
+08/01/2023,INV-2941,Atta 10kg,dairy,4,1105,4420,Zainab,jazzcash
+10/04/2023,INV-2942,Rice 1kg,Grocery,4,1051,4204,Zainab,cash
+28/08/2023,INV-2943,Soap,Dairy,2,862,Rs 1724,Fatima,cash
+28/03/2023,INV-2944,Shampoo,Dairy,3,185,555,Ayesha,jazzcash
+25/10/2023,INV-2945,Sugar 1kg,Personal Care,3,793,2379,Walk-in,easypaisa
+14/01/2023,INV-2946,Soap,grocery,2,256,512,Fatima,jazzcash
+30/11/2023,INV-2947,Tea 200g,grocery,1,945,945,Usman,udhaar
+02/01/2023,INV-2948,Milk 1L,Dairy,4,410,1640,Ahmed,easypaisa
+20/10/2023,INV-2949,Atta 10kg,Grocery,4,1395,5580,Ali,jazzcash
+21/11/2023,INV-2950,Sugar 1kg,beverages,4,1011,,Fatima,jazzcash
+10/02/2023,INV-2951,Shampoo,grocery,3,1079,3237,Ali,easypaisa
+14/11/2023,INV-2952,Sugar 1kg,dairy,2,1273,2546,Ali,jazzcash
+12/11/2023,INV-2953,Soap,beverages,1,672,Rs 672,Usman,udhaar
+21/04/2023,INV-2954,Atta 10kg,Grocery,1,357,357,Ali,cash
+14/01/2023,INV-2955,Milk 1L,dairy,3,214,642,Zainab,udhaar
+19/08/2023,INV-2956,Cooking Oil 1L,Grocery,4,1125,Rs 4500,Fatima,jazzcash
+25/03/2023,INV-2957,Atta 10kg,Dairy,3,1076,3228,Usman,easypaisa
+10/05/2023,INV-2958,Sugar 1kg,beverages,2,283,Rs 566,Ahmed,easypaisa
+19/08/2023,INV-2959,Soap,grocery,1,757,757,Fatima,jazzcash
+22/11/2023,INV-2960,Rice 1kg,beverages,3,644,1932,Ali,easypaisa
+25/05/2023,INV-2961,Tea 200g,grocery,2,824,,Usman,jazzcash
+11/12/2023,INV-2962,Cooking Oil 1L,grocery,3,1445,4335,Usman,easypaisa
+28/01/2023,INV-2963,Tea 200g,beverages,2,745,1490,Ayesha,jazzcash
+07/03/2023,INV-2964,Rice 1kg,dairy,3,1190,3570,Ali,cash
+12/06/2023,INV-2965,Tea 200g,dairy,3,341,,Ali,easypaisa
+17/08/2023,INV-2966,Cooking Oil 1L,dairy,2,273,546,Zainab,cash
+18/09/2023,INV-2967,Soap,Personal Care,4,1055,4220,Zainab,jazzcash
+13/06/2023,INV-2968,Sugar 1kg,dairy,3,670,2010,Zainab,jazzcash
+28/10/2023,INV-2969,Milk 1L,dairy,3,255,765,Ayesha,easypaisa
+30/10/2023,INV-2970,Atta 10kg,grocery,3,634,Rs 1902,Usman,cash
+14/10/2023,INV-2971,Soap,grocery,1,208,208,Fatima,jazzcash
+10/01/2023,INV-2972,Soap,Personal Care,4,162,648,Walk-in,jazzcash
+14/07/2023,INV-2973,Cooking Oil 1L,beverages,2,908,1816,Usman,cash
+28/04/2023,INV-2974,Sugar 1kg,beverages,3,524,1572,Usman,jazzcash
+27/09/2023,INV-2975,Tea 200g,grocery,3,80,240,Ali,cash
+21/03/2023,INV-2976,Atta 10kg,grocery,2,525,Rs 1050,Zainab,udhaar
+03/04/2023,INV-2977,Atta 10kg,Grocery,3,1107,3321,Ayesha,cash
+23/09/2023,INV-2978,Soap,Grocery,4,762,3048,Ali,jazzcash
+28/11/2023,INV-2979,Sugar 1kg,Grocery,4,1391,5564,Ahmed,jazzcash
+16/12/2023,INV-2980,Milk 1L,Grocery,2,673,1346,Ali,udhaar
+27/12/2023,INV-2981,Cooking Oil 1L,Personal Care,3,997,2991,Walk-in,easypaisa
+14/09/2023,INV-2982,Shampoo,Grocery,1,438,Rs 438,Ayesha,udhaar
+13/05/2023,INV-2983,Atta 10kg,grocery,4,125,500,Ayesha,easypaisa
+03/10/2023,INV-2984,Cooking Oil 1L,Personal Care,3,1133,3399,Walk-in,cash
+21/09/2023,INV-2985,Soap,Personal Care,1,551,551,Walk-in,udhaar
+20/06/2023,INV-2986,Milk 1L,dairy,2,708,1416,Ali,cash
+01/01/2023,INV-2987,Rice 1kg,dairy,4,1192,4768,Ayesha,udhaar
+09/11/2023,INV-2988,Cooking Oil 1L,Personal Care,1,487,487,Zainab,cash
+05/03/2023,INV-2989,Soap,grocery,4,970,3880,Fatima,cash
+11/10/2023,INV-2990,Sugar 1kg,dairy,4,1054,Rs 4216,Ayesha,easypaisa
+01/05/2023,INV-2991,Shampoo,Grocery,1,157,157,Walk-in,udhaar
+17/04/2023,INV-2992,Atta 10kg,beverages,2,456,,Usman,easypaisa
+24/06/2023,INV-2993,Milk 1L,Dairy,2,1075,2150,Ayesha,cash
+23/07/2023,INV-2994,Soap,Personal Care,3,226,678,Zainab,cash
+14/06/2023,INV-2995,Tea 200g,dairy,4,1463,5852,Fatima,cash
+01/11/2023,INV-2996,Rice 1kg,Dairy,3,979,2937,Ayesha,cash
+30/04/2023,INV-2997,Soap,dairy,2,1480,Rs 2960,Zainab,jazzcash
+13/02/2023,INV-2998,Sugar 1kg,grocery,2,908,Rs 1816,Zainab,cash
+08/11/2023,INV-2999,Sugar 1kg,grocery,3,1333,Rs 3999,Walk-in,udhaar
+05/06/2023,INV-3000,Sugar 1kg,Personal Care,3,1189,Rs 3567,Ahmed,easypaisa
+26/07/2023,INV-3001,Shampoo,beverages,3,795,Rs 2385,Fatima,udhaar
+18/04/2023,INV-3002,Rice 1kg,Dairy,1,1309,Rs 1309,Walk-in,udhaar
+08/09/2023,INV-3003,Rice 1kg,Grocery,3,453,Rs 1359,Ahmed,jazzcash
+30/11/2023,INV-3004,Soap,dairy,2,325,650,Ahmed,udhaar
+10/05/2023,INV-3005,Sugar 1kg,Personal Care,2,616,1232,Walk-in,cash
+20/10/2023,INV-3006,Atta 10kg,grocery,3,404,1212,Zainab,jazzcash
+20/01/2023,INV-3007,Cooking Oil 1L,beverages,4,314,Rs 1256,Zainab,jazzcash
+09/10/2023,INV-3008,Atta 10kg,Personal Care,3,1162,,Usman,easypaisa
+12/10/2023,INV-3009,Tea 200g,Grocery,3,537,Rs 1611,Fatima,udhaar
+01/01/2023,INV-3010,Milk 1L,grocery,3,1133,3399,Ayesha,udhaar
+29/04/2023,INV-3011,Sugar 1kg,Grocery,3,510,,Usman,easypaisa
+04/02/2023,INV-3012,Soap,beverages,3,1207,3621,Usman,cash
+17/07/2023,INV-3013,Shampoo,dairy,1,1314,1314,Usman,jazzcash
+02/09/2023,INV-3014,Soap,dairy,2,1075,2150,Walk-in,udhaar
+28/02/2023,INV-3015,Sugar 1kg,beverages,3,1419,4257,Fatima,easypaisa
+21/11/2023,INV-3016,Cooking Oil 1L,dairy,2,654,1308,Ayesha,easypaisa
+10/06/2023,INV-3017,Milk 1L,Grocery,1,1005,Rs 1005,Ali,cash
+28/06/2023,INV-3018,Shampoo,Grocery,4,585,2340,Ahmed,udhaar
+25/07/2023,INV-3019,Rice 1kg,grocery,1,256,256,Walk-in,easypaisa
+12/01/2023,INV-3020,Cooking Oil 1L,Personal Care,3,248,Rs 744,Usman,easypaisa
+03/10/2023,INV-3021,Cooking Oil 1L,dairy,2,1353,2706,Ali,easypaisa
+30/06/2023,INV-3022,Milk 1L,Grocery,2,729,1458,Fatima,easypaisa
+30/08/2023,INV-3023,Soap,Grocery,1,608,608,Walk-in,easypaisa
+04/08/2023,INV-3024,Shampoo,Grocery,3,189,567,Ayesha,easypaisa
+08/09/2023,INV-3025,Sugar 1kg,beverages,1,274,Rs 274,Fatima,udhaar
+26/10/2023,INV-3026,Cooking Oil 1L,Personal Care,1,889,Rs 889,Fatima,jazzcash
+06/05/2023,INV-3027,Milk 1L,grocery,2,561,1122,Walk-in,jazzcash
+05/08/2023,INV-3028,Milk 1L,Personal Care,4,918,3672,Ahmed,jazzcash
+02/11/2023,INV-3029,Sugar 1kg,grocery,2,297,594,Ayesha,udhaar
+12/10/2023,INV-3030,Shampoo,Grocery,3,875,2625,Ahmed,jazzcash
+04/07/2023,INV-3031,Sugar 1kg,Dairy,4,1179,4716,Usman,jazzcash
+08/02/2023,INV-3032,Tea 200g,beverages,4,106,424,Fatima,jazzcash
+11/08/2023,INV-3033,Soap,grocery,1,93,93,Ali,udhaar
+03/07/2023,INV-3034,Sugar 1kg,grocery,1,942,942,Fatima,udhaar
+27/06/2023,INV-3035,Rice 1kg,dairy,2,796,1592,Usman,easypaisa
+21/10/2023,INV-3036,Atta 10kg,Dairy,1,833,Rs 833,Fatima,cash
+06/12/2023,INV-3037,Atta 10kg,grocery,3,1454,4362,Walk-in,easypaisa
+31/05/2023,INV-3038,Soap,Personal Care,3,1348,4044,Usman,udhaar
+06/05/2023,INV-3039,Sugar 1kg,Grocery,3,1162,Rs 3486,Ayesha,easypaisa
+28/10/2023,INV-3040,Sugar 1kg,grocery,3,741,2223,Zainab,cash
+04/11/2023,INV-3041,Shampoo,Dairy,2,187,Rs 374,Ali,udhaar
+02/12/2023,INV-3042,Shampoo,Personal Care,3,603,1809,Usman,easypaisa
+22/08/2023,INV-3043,Sugar 1kg,grocery,2,591,1182,Ali,cash
+08/01/2023,INV-3044,Milk 1L,Dairy,2,637,Rs 1274,Ayesha,easypaisa
+07/12/2023,INV-3045,Rice 1kg,beverages,1,1433,1433,Ali,easypaisa
+09/05/2023,INV-3046,Cooking Oil 1L,Grocery,3,441,1323,Ayesha,easypaisa
+21/09/2023,INV-3047,Milk 1L,Personal Care,3,1001,3003,Fatima,jazzcash
+06/06/2023,INV-3048,Shampoo,Dairy,2,234,468,Fatima,jazzcash
+18/12/2023,INV-3049,Tea 200g,Grocery,2,701,Rs 1402,Ali,jazzcash
+24/12/2023,INV-3050,Shampoo,Grocery,3,971,Rs 2913,Zainab,udhaar
+05/01/2023,INV-3051,Tea 200g,grocery,2,846,1692,Ahmed,udhaar
+27/03/2023,INV-3052,Tea 200g,beverages,4,1151,Rs 4604,Walk-in,jazzcash
+24/06/2023,INV-3053,Atta 10kg,Grocery,2,1491,2982,Ayesha,easypaisa
+17/10/2023,INV-3054,Atta 10kg,Grocery,1,930,930,Usman,easypaisa
+12/07/2023,INV-3055,Atta 10kg,Personal Care,1,1385,1385,Ayesha,udhaar
+07/11/2023,INV-3056,Milk 1L,beverages,2,1294,Rs 2588,Zainab,udhaar
+29/04/2023,INV-3057,Tea 200g,Dairy,4,1158,4632,Ahmed,cash
+06/08/2023,INV-3058,Soap,Grocery,1,94,94,Ali,jazzcash
+24/04/2023,INV-3059,Atta 10kg,Personal Care,2,1070,2140,Fatima,jazzcash
+25/05/2023,INV-3060,Atta 10kg,beverages,3,1379,Rs 4137,Walk-in,jazzcash
+26/01/2023,INV-3061,Shampoo,beverages,2,1474,2948,Usman,cash
+16/05/2023,INV-3062,Sugar 1kg,grocery,2,1270,2540,Ali,udhaar
+30/10/2023,INV-3063,Milk 1L,grocery,2,1433,2866,Zainab,easypaisa
+20/08/2023,INV-3064,Rice 1kg,dairy,2,115,230,Ali,jazzcash
+17/03/2023,INV-3065,Soap,Dairy,1,815,,Ahmed,jazzcash
+24/11/2023,INV-3066,Sugar 1kg,beverages,1,589,Rs 589,Usman,udhaar
+11/12/2023,INV-3067,Rice 1kg,Grocery,2,1049,2098,Zainab,easypaisa
+29/10/2023,INV-3068,Soap,grocery,1,323,Rs 323,Ali,jazzcash
+16/10/2023,INV-3069,Sugar 1kg,Grocery,2,1422,Rs 2844,Ahmed,udhaar
+01/01/2023,INV-3070,Sugar 1kg,dairy,2,812,1624,Zainab,udhaar
+27/05/2023,INV-3071,Sugar 1kg,Personal Care,3,1318,3954,Ali,udhaar
+14/10/2023,INV-3072,Tea 200g,grocery,4,442,1768,Ahmed,udhaar
+22/05/2023,INV-3073,Soap,grocery,3,1088,3264,Ahmed,udhaar
+22/02/2023,INV-3074,Atta 10kg,grocery,2,1410,Rs 2820,Zainab,cash
+31/10/2023,INV-3075,Sugar 1kg,Personal Care,2,1237,2474,Usman,easypaisa
+10/03/2023,INV-3076,Atta 10kg,Dairy,1,300,Rs 300,Usman,jazzcash
+27/12/2023,INV-3077,Tea 200g,Grocery,4,1139,4556,Usman,easypaisa
+31/03/2023,INV-3078,Tea 200g,Grocery,4,947,3788,Ayesha,udhaar
+08/08/2023,INV-3079,Atta 10kg,Personal Care,3,638,1914,Ali,cash
+11/07/2023,INV-3080,Cooking Oil 1L,Grocery,4,1487,5948,Ahmed,cash
+04/03/2023,INV-3081,Cooking Oil 1L,beverages,1,1271,1271,Ahmed,easypaisa
+14/03/2023,INV-3082,Soap,dairy,2,1483,2966,Zainab,jazzcash
+10/06/2023,INV-3083,Cooking Oil 1L,Dairy,4,894,3576,Zainab,cash
+18/06/2023,INV-3084,Shampoo,Personal Care,4,804,3216,Usman,jazzcash
+30/03/2023,INV-3085,Shampoo,grocery,1,963,963,Ahmed,udhaar
+25/06/2023,INV-3086,Shampoo,Grocery,2,254,Rs 508,Ali,cash
+26/09/2023,INV-3087,Tea 200g,Dairy,1,1229,1229,Ayesha,udhaar
+14/03/2023,INV-3088,Soap,grocery,4,1028,4112,Zainab,easypaisa
+02/09/2023,INV-3089,Soap,grocery,3,863,2589,Walk-in,easypaisa
+18/03/2023,INV-3090,Tea 200g,dairy,2,1136,2272,Ali,cash
+08/06/2023,INV-3091,Milk 1L,grocery,2,960,1920,Fatima,udhaar
+20/11/2023,INV-3092,Shampoo,Dairy,2,671,Rs 1342,Zainab,easypaisa
+08/04/2023,INV-3093,Soap,beverages,4,85,Rs 340,Walk-in,easypaisa
+12/04/2023,INV-3094,Atta 10kg,dairy,3,147,,Zainab,jazzcash
+12/05/2023,INV-3095,Shampoo,dairy,3,663,Rs 1989,Fatima,easypaisa
+12/04/2023,INV-3096,Milk 1L,beverages,3,625,1875,Ali,udhaar
+19/01/2023,INV-3097,Atta 10kg,beverages,4,560,2240,Ali,easypaisa
+23/03/2023,INV-3098,Cooking Oil 1L,grocery,3,1350,Rs 4050,Ayesha,easypaisa
+06/10/2023,INV-3099,Shampoo,Dairy,2,1444,Rs 2888,Zainab,cash
+05/12/2023,INV-3100,Shampoo,beverages,3,946,Rs 2838,Ali,udhaar
+31/12/2023,INV-3101,Sugar 1kg,beverages,1,128,Rs 128,Zainab,cash
+27/11/2023,INV-3102,Cooking Oil 1L,beverages,4,1229,4916,Ayesha,easypaisa
+09/05/2023,INV-3103,Tea 200g,Grocery,2,413,826,Walk-in,udhaar
+10/12/2023,INV-3104,Shampoo,Dairy,4,1239,Rs 4956,Walk-in,jazzcash
+06/11/2023,INV-3105,Cooking Oil 1L,Dairy,3,705,2115,Fatima,easypaisa
+30/03/2023,INV-3106,Milk 1L,Grocery,2,741,1482,Zainab,easypaisa
+01/08/2023,INV-3107,Rice 1kg,Dairy,2,1394,2788,Fatima,jazzcash
+23/05/2023,INV-3108,Rice 1kg,grocery,4,884,3536,Ali,udhaar
+06/03/2023,INV-3109,Rice 1kg,Grocery,2,892,1784,Fatima,cash
+17/03/2023,INV-3110,Rice 1kg,Dairy,1,1049,1049,Walk-in,cash
+18/07/2023,INV-3111,Soap,Dairy,1,336,336,Ali,jazzcash
+23/05/2023,INV-3112,Shampoo,dairy,4,1118,,Zainab,cash
+12/11/2023,INV-3113,Milk 1L,dairy,1,1285,Rs 1285,Ayesha,jazzcash
+03/04/2023,INV-3114,Atta 10kg,Grocery,1,172,Rs 172,Walk-in,jazzcash
+01/11/2023,INV-3115,Shampoo,dairy,2,779,1558,Walk-in,udhaar
+12/08/2023,INV-3116,Rice 1kg,dairy,1,820,820,Zainab,cash
+18/10/2023,INV-3117,Soap,Dairy,4,1275,5100,Usman,cash
+12/04/2023,INV-3118,Soap,dairy,2,865,1730,Zainab,easypaisa
+24/09/2023,INV-3119,Sugar 1kg,dairy,4,1409,5636,Usman,easypaisa
+21/12/2023,INV-3120,Atta 10kg,beverages,1,1249,,Zainab,cash
+20/04/2023,INV-3121,Sugar 1kg,grocery,4,328,1312,Ayesha,cash
+26/11/2023,INV-3122,Milk 1L,Grocery,2,1307,2614,Ahmed,jazzcash
+22/09/2023,INV-3123,Atta 10kg,grocery,1,569,,Fatima,easypaisa
+03/01/2023,INV-3124,Atta 10kg,dairy,2,1245,2490,Usman,easypaisa
+26/03/2023,INV-3125,Atta 10kg,Grocery,3,715,2145,Fatima,jazzcash
+09/10/2023,INV-3126,Sugar 1kg,beverages,1,694,694,Walk-in,udhaar
+24/11/2023,INV-3127,Sugar 1kg,Personal Care,3,818,2454,Ayesha,easypaisa
+31/10/2023,INV-3128,Sugar 1kg,dairy,3,431,1293,Fatima,cash
+27/04/2023,INV-3129,Milk 1L,Grocery,1,956,956,Walk-in,jazzcash
+09/08/2023,INV-3130,Soap,Dairy,2,634,1268,Ayesha,jazzcash
+03/06/2023,INV-3131,Milk 1L,Dairy,2,670,1340,Fatima,udhaar
+02/06/2023,INV-3132,Sugar 1kg,beverages,3,1027,3081,Usman,easypaisa
+12/01/2023,INV-3133,Milk 1L,Personal Care,4,774,,Ayesha,easypaisa
+13/05/2023,INV-3134,Rice 1kg,Personal Care,1,137,Rs 137,Fatima,cash
+31/10/2023,INV-3135,Rice 1kg,Personal Care,2,350,700,Ahmed,jazzcash
+20/10/2023,INV-3136,Sugar 1kg,Grocery,3,366,1098,Ayesha,udhaar
+27/10/2023,INV-3137,Milk 1L,Grocery,4,446,1784,Ahmed,udhaar
+16/08/2023,INV-3138,Sugar 1kg,Grocery,3,1303,3909,Ayesha,udhaar
+28/09/2023,INV-3139,Atta 10kg,grocery,3,1473,4419,Walk-in,cash
+12/02/2023,INV-3140,Atta 10kg,beverages,2,394,788,Ayesha,cash
+09/12/2023,INV-3141,Milk 1L,Dairy,3,574,1722,Zainab,cash
+22/11/2023,INV-3142,Cooking Oil 1L,grocery,3,1090,3270,Ahmed,jazzcash
+29/10/2023,INV-3143,Cooking Oil 1L,Personal Care,2,283,566,Walk-in,cash
+30/12/2023,INV-3144,Atta 10kg,Dairy,3,1162,3486,Ali,easypaisa
+21/01/2023,INV-3145,Soap,dairy,4,517,Rs 2068,Usman,easypaisa
+17/04/2023,INV-3146,Milk 1L,Dairy,4,1447,Rs 5788,Usman,cash
+02/12/2023,INV-3147,Shampoo,Grocery,2,304,608,Walk-in,easypaisa
+30/10/2023,INV-3148,Tea 200g,Dairy,1,1441,1441,Ahmed,udhaar
+27/04/2023,INV-3149,Cooking Oil 1L,dairy,2,666,1332,Zainab,easypaisa
+04/05/2023,INV-3150,Cooking Oil 1L,grocery,1,1091,1091,Zainab,cash
+08/10/2023,INV-3151,Shampoo,dairy,4,710,2840,Fatima,easypaisa
+19/10/2023,INV-3152,Cooking Oil 1L,grocery,2,461,922,Walk-in,udhaar
+22/07/2023,INV-3153,Atta 10kg,Dairy,1,1119,1119,Ali,udhaar
+20/02/2023,INV-3154,Cooking Oil 1L,grocery,4,1194,,Ahmed,udhaar
+28/09/2023,INV-3155,Soap,beverages,3,1144,3432,Fatima,cash
+20/11/2023,INV-3156,Soap,beverages,3,214,,Walk-in,jazzcash
+04/10/2023,INV-3157,Atta 10kg,Personal Care,1,965,965,Zainab,jazzcash
+21/05/2023,INV-3158,Cooking Oil 1L,beverages,3,1294,3882,Usman,cash
+02/10/2023,INV-3159,Sugar 1kg,beverages,2,1201,2402,Ali,easypaisa
+17/10/2023,INV-3160,Rice 1kg,Dairy,3,1436,4308,Ahmed,jazzcash
+30/11/2023,INV-3161,Shampoo,Personal Care,4,1287,5148,Zainab,jazzcash
+21/02/2023,INV-3162,Soap,grocery,4,54,216,Ayesha,cash
+27/01/2023,INV-3163,Sugar 1kg,Personal Care,4,1151,4604,Fatima,cash
+06/06/2023,INV-3164,Shampoo,Dairy,4,1427,5708,Ahmed,udhaar
+27/08/2023,INV-3165,Sugar 1kg,beverages,3,477,1431,Usman,udhaar
+05/06/2023,INV-3166,Sugar 1kg,Grocery,4,884,Rs 3536,Fatima,cash
+18/10/2023,INV-3167,Rice 1kg,grocery,3,999,2997,Fatima,cash
+16/05/2023,INV-3168,Tea 200g,beverages,2,1461,2922,Walk-in,udhaar
+24/05/2023,INV-3169,Rice 1kg,Grocery,3,467,1401,Ayesha,udhaar
+16/04/2023,INV-3170,Tea 200g,Personal Care,4,592,2368,Ayesha,easypaisa
+07/06/2023,INV-3171,Soap,Grocery,4,1098,,Fatima,udhaar
+26/05/2023,INV-3172,Cooking Oil 1L,beverages,4,1162,4648,Fatima,cash
+02/01/2023,INV-3173,Cooking Oil 1L,Grocery,2,1468,2936,Ayesha,cash
+18/03/2023,INV-3174,Shampoo,Dairy,3,1017,3051,Walk-in,jazzcash
+12/05/2023,INV-3175,Cooking Oil 1L,grocery,4,594,,Ayesha,cash
+31/03/2023,INV-3176,Cooking Oil 1L,Dairy,1,346,346,Ali,udhaar
+11/12/2023,INV-3177,Atta 10kg,Grocery,2,665,1330,Zainab,jazzcash
+16/12/2023,INV-3178,Cooking Oil 1L,Dairy,2,1164,2328,Fatima,easypaisa
+20/09/2023,INV-3179,Sugar 1kg,Grocery,3,1013,3039,Ayesha,jazzcash
+17/12/2023,INV-3180,Atta 10kg,Dairy,1,1436,1436,Usman,udhaar
+18/04/2023,INV-3181,Shampoo,Personal Care,4,1034,4136,Ali,cash
+15/03/2023,INV-3182,Tea 200g,beverages,3,653,1959,Walk-in,jazzcash
+08/02/2023,INV-3183,Shampoo,Personal Care,4,1418,5672,Ahmed,jazzcash
+08/06/2023,INV-3184,Cooking Oil 1L,Personal Care,3,611,1833,Walk-in,easypaisa
+12/03/2023,INV-3185,Soap,beverages,3,126,,Usman,jazzcash
+08/11/2023,INV-3186,Sugar 1kg,grocery,1,814,814,Walk-in,easypaisa
+29/08/2023,INV-3187,Cooking Oil 1L,Personal Care,3,720,Rs 2160,Ayesha,cash
+25/10/2023,INV-3188,Tea 200g,Personal Care,1,622,622,Fatima,udhaar
+05/02/2023,INV-3189,Atta 10kg,Personal Care,2,948,1896,Ahmed,cash
+25/03/2023,INV-3190,Shampoo,Personal Care,1,407,407,Ahmed,easypaisa
+20/09/2023,INV-3191,Tea 200g,Dairy,1,987,987,Ali,easypaisa
+06/11/2023,INV-3192,Cooking Oil 1L,beverages,3,565,1695,Ayesha,jazzcash
+21/06/2023,INV-3193,Shampoo,Personal Care,1,1374,1374,Usman,easypaisa
+22/06/2023,INV-3194,Soap,Personal Care,1,175,175,Ahmed,easypaisa
+28/12/2023,INV-3195,Milk 1L,Dairy,1,516,516,Ahmed,udhaar
+16/02/2023,INV-3196,Cooking Oil 1L,dairy,1,498,498,Walk-in,easypaisa
+21/05/2023,INV-3197,Soap,grocery,1,867,Rs 867,Fatima,udhaar
+28/04/2023,INV-3198,Cooking Oil 1L,Dairy,2,1103,2206,Ayesha,easypaisa
+04/10/2023,INV-3199,Sugar 1kg,grocery,4,791,3164,Ayesha,cash
+02/08/2023,INV-3200,Tea 200g,dairy,4,561,2244,Ayesha,jazzcash
+08/08/2023,INV-3201,Cooking Oil 1L,dairy,4,1470,Rs 5880,Ahmed,easypaisa
+26/01/2023,INV-3202,Tea 200g,Dairy,4,307,1228,Zainab,easypaisa
+09/01/2023,INV-3203,Soap,Personal Care,1,803,803,Usman,udhaar
+28/09/2023,INV-3204,Cooking Oil 1L,grocery,4,1222,4888,Ayesha,jazzcash
+10/01/2023,INV-3205,Tea 200g,Grocery,2,891,,Ali,jazzcash
+01/05/2023,INV-3206,Soap,dairy,4,852,3408,Walk-in,easypaisa
+05/05/2023,INV-3207,Atta 10kg,grocery,1,320,320,Ayesha,cash
+19/06/2023,INV-3208,Rice 1kg,Personal Care,2,962,1924,Ayesha,udhaar
+13/03/2023,INV-3209,Rice 1kg,Personal Care,4,1111,4444,Zainab,easypaisa
+01/06/2023,INV-3210,Rice 1kg,Dairy,2,474,948,Fatima,cash
+27/07/2023,INV-3211,Soap,grocery,2,617,1234,Fatima,udhaar
+18/02/2023,INV-3212,Sugar 1kg,Dairy,1,264,264,Walk-in,jazzcash
+03/06/2023,INV-3213,Sugar 1kg,beverages,2,1392,2784,Ahmed,jazzcash
+13/12/2023,INV-3214,Atta 10kg,grocery,2,1154,2308,Ahmed,cash
+20/10/2023,INV-3215,Shampoo,Personal Care,4,118,472,Fatima,cash
+09/03/2023,INV-3216,Milk 1L,beverages,2,576,1152,Walk-in,cash
+19/02/2023,INV-3217,Soap,Personal Care,4,565,2260,Ahmed,easypaisa
+01/06/2023,INV-3218,Soap,beverages,3,725,,Zainab,cash
+19/01/2023,INV-3219,Shampoo,Dairy,3,139,417,Fatima,jazzcash
+10/04/2023,INV-3220,Milk 1L,beverages,1,917,917,Walk-in,jazzcash
+01/03/2023,INV-3221,Atta 10kg,dairy,4,327,Rs 1308,Ahmed,udhaar
+16/06/2023,INV-3222,Cooking Oil 1L,Grocery,2,740,Rs 1480,Fatima,udhaar
+21/07/2023,INV-3223,Rice 1kg,Personal Care,1,989,Rs 989,Ayesha,jazzcash
+11/12/2023,INV-3224,Cooking Oil 1L,beverages,4,74,Rs 296,Zainab,jazzcash
+26/05/2023,INV-3225,Atta 10kg,Dairy,3,1236,3708,Fatima,easypaisa
+13/06/2023,INV-3226,Sugar 1kg,beverages,1,474,474,Ali,jazzcash
+30/08/2023,INV-3227,Cooking Oil 1L,Grocery,1,1011,1011,Zainab,easypaisa
+10/03/2023,INV-3228,Cooking Oil 1L,Personal Care,4,440,1760,Zainab,cash
+24/06/2023,INV-3229,Cooking Oil 1L,Personal Care,4,760,3040,Walk-in,easypaisa
+18/02/2023,INV-3230,Atta 10kg,dairy,4,276,Rs 1104,Fatima,jazzcash
+18/04/2023,INV-3231,Shampoo,beverages,4,887,Rs 3548,Ali,jazzcash
+14/08/2023,INV-3232,Shampoo,Dairy,3,289,867,Walk-in,jazzcash
+10/06/2023,INV-3233,Cooking Oil 1L,Grocery,3,780,2340,Ali,udhaar
+29/04/2023,INV-3234,Rice 1kg,dairy,1,430,Rs 430,Walk-in,easypaisa
+29/05/2023,INV-3235,Cooking Oil 1L,dairy,3,1372,4116,Zainab,jazzcash
+30/05/2023,INV-3236,Soap,Dairy,1,602,602,Ayesha,jazzcash
+20/10/2023,INV-3237,Atta 10kg,Personal Care,1,632,632,Walk-in,jazzcash
+23/05/2023,INV-3238,Soap,grocery,2,959,1918,Usman,jazzcash
+09/06/2023,INV-3239,Atta 10kg,grocery,2,1387,2774,Ayesha,easypaisa
+11/01/2023,INV-3240,Shampoo,Dairy,2,544,1088,Ayesha,easypaisa
+18/05/2023,INV-3241,Soap,Personal Care,1,698,698,Walk-in,jazzcash
+19/03/2023,INV-3242,Rice 1kg,beverages,4,661,2644,Usman,udhaar
+18/03/2023,INV-3243,Rice 1kg,grocery,1,1237,Rs 1237,Usman,udhaar
+11/09/2023,INV-3244,Shampoo,beverages,2,1448,2896,Zainab,jazzcash
+15/09/2023,INV-3245,Soap,grocery,1,500,Rs 500,Zainab,easypaisa
+16/11/2023,INV-3246,Shampoo,grocery,2,453,Rs 906,Zainab,udhaar
+18/10/2023,INV-3247,Sugar 1kg,dairy,4,483,1932,Walk-in,easypaisa
+20/09/2023,INV-3248,Soap,Dairy,3,860,2580,Usman,easypaisa
+26/03/2023,INV-3249,Milk 1L,grocery,4,902,3608,Fatima,cash
+26/05/2023,INV-3250,Shampoo,Dairy,4,871,3484,Walk-in,udhaar
+19/11/2023,INV-3251,Tea 200g,beverages,3,721,Rs 2163,Walk-in,easypaisa
+11/02/2023,INV-3252,Rice 1kg,Dairy,2,81,162,Zainab,cash
+05/05/2023,INV-3253,Atta 10kg,beverages,2,98,196,Walk-in,easypaisa
+16/06/2023,INV-3254,Shampoo,grocery,4,1464,Rs 5856,Fatima,easypaisa
+29/08/2023,INV-3255,Shampoo,grocery,3,609,1827,Usman,jazzcash
+07/10/2023,INV-3256,Milk 1L,dairy,4,601,2404,Usman,udhaar
+07/07/2023,INV-3257,Atta 10kg,Grocery,1,623,623,Fatima,cash
+29/10/2023,INV-3258,Cooking Oil 1L,dairy,2,138,276,Ali,udhaar
+19/01/2023,INV-3259,Tea 200g,beverages,3,641,1923,Ahmed,cash
+09/03/2023,INV-3260,Rice 1kg,beverages,3,1211,3633,Ahmed,easypaisa
+06/08/2023,INV-3261,Sugar 1kg,Dairy,1,1416,1416,Ayesha,udhaar
+12/04/2023,INV-3262,Shampoo,Dairy,1,673,673,Ayesha,easypaisa
+11/02/2023,INV-3263,Atta 10kg,Grocery,2,796,1592,Fatima,cash
+15/10/2023,INV-3264,Milk 1L,Personal Care,2,484,968,Ahmed,cash
+16/06/2023,INV-3265,Rice 1kg,Dairy,1,372,Rs 372,Ayesha,jazzcash
+19/04/2023,INV-3266,Shampoo,dairy,1,966,966,Usman,udhaar
+05/02/2023,INV-3267,Sugar 1kg,Personal Care,1,965,965,Ahmed,cash
+20/08/2023,INV-3268,Soap,beverages,2,1198,Rs 2396,Walk-in,cash
+17/08/2023,INV-3269,Soap,Dairy,1,924,924,Fatima,udhaar
+19/12/2023,INV-3270,Sugar 1kg,beverages,4,820,3280,Walk-in,udhaar
+13/06/2023,INV-3271,Shampoo,dairy,1,1009,1009,Walk-in,jazzcash
+14/03/2023,INV-3272,Tea 200g,Personal Care,3,1370,4110,Usman,udhaar
+16/05/2023,INV-3273,Tea 200g,Dairy,2,237,474,Fatima,cash
+19/12/2023,INV-3274,Tea 200g,Grocery,1,1034,1034,Usman,jazzcash
+11/03/2023,INV-3275,Atta 10kg,Personal Care,3,528,1584,Walk-in,jazzcash
+15/07/2023,INV-3276,Shampoo,Dairy,3,962,2886,Ayesha,cash
+26/09/2023,INV-3277,Rice 1kg,Dairy,2,755,Rs 1510,Fatima,udhaar
+18/02/2023,INV-3278,Tea 200g,dairy,4,677,2708,Fatima,udhaar
+12/11/2023,INV-3279,Rice 1kg,Dairy,1,230,230,Usman,udhaar
+10/05/2023,INV-3280,Rice 1kg,grocery,3,700,2100,Ayesha,jazzcash
+05/01/2023,INV-3281,Shampoo,beverages,1,1404,1404,Usman,easypaisa
+27/01/2023,INV-3282,Atta 10kg,Personal Care,1,864,864,Ahmed,udhaar
+09/06/2023,INV-3283,Cooking Oil 1L,Dairy,1,533,533,Zainab,udhaar
+29/05/2023,INV-3284,Atta 10kg,Grocery,2,158,,Ahmed,udhaar
+21/09/2023,INV-3285,Rice 1kg,beverages,2,993,1986,Ahmed,jazzcash
+18/08/2023,INV-3286,Soap,Grocery,2,410,820,Zainab,jazzcash
+19/07/2023,INV-3287,Soap,dairy,1,650,650,Zainab,cash
+19/02/2023,INV-3288,Rice 1kg,grocery,3,525,1575,Usman,jazzcash
+08/03/2023,INV-3289,Sugar 1kg,Grocery,2,894,1788,Usman,easypaisa
+27/10/2023,INV-3290,Milk 1L,Personal Care,1,273,273,Ahmed,cash
+27/02/2023,INV-3291,Milk 1L,Dairy,3,1438,Rs 4314,Fatima,jazzcash
+16/09/2023,INV-3292,Shampoo,Dairy,4,966,3864,Ali,udhaar
+08/12/2023,INV-3293,Atta 10kg,Personal Care,4,634,2536,Ayesha,jazzcash
+22/11/2023,INV-3294,Soap,Grocery,4,417,1668,Zainab,udhaar
+10/05/2023,INV-3295,Milk 1L,dairy,4,1381,Rs 5524,Usman,udhaar
+03/08/2023,INV-3296,Shampoo,dairy,2,212,424,Fatima,cash
+21/06/2023,INV-3297,Sugar 1kg,beverages,1,239,Rs 239,Ali,cash
+15/09/2023,INV-3298,Shampoo,beverages,2,909,1818,Ayesha,udhaar
+12/04/2023,INV-3299,Shampoo,dairy,1,600,Rs 600,Ayesha,cash
+28/07/2023,INV-3300,Shampoo,Grocery,1,752,752,Ayesha,udhaar
+18/10/2023,INV-3301,Tea 200g,beverages,1,56,56,Walk-in,cash
+20/12/2023,INV-3302,Rice 1kg,Personal Care,4,1064,Rs 4256,Fatima,udhaar
+13/10/2023,INV-3303,Soap,grocery,4,576,Rs 2304,Fatima,udhaar
+26/04/2023,INV-3304,Milk 1L,grocery,1,503,503,Zainab,easypaisa
+21/09/2023,INV-3305,Cooking Oil 1L,dairy,3,371,1113,Usman,cash
+30/05/2023,INV-3306,Soap,dairy,2,513,1026,Zainab,cash
+27/10/2023,INV-3307,Soap,Dairy,3,1035,3105,Ahmed,easypaisa
+05/02/2023,INV-3308,Rice 1kg,Grocery,3,1244,3732,Walk-in,jazzcash
+29/11/2023,INV-3309,Rice 1kg,beverages,3,111,Rs 333,Ayesha,cash
+14/10/2023,INV-3310,Milk 1L,Grocery,3,312,936,Zainab,easypaisa
+30/10/2023,INV-3311,Soap,grocery,2,151,302,Ayesha,udhaar
+07/11/2023,INV-3312,Atta 10kg,Dairy,3,459,,Usman,cash
+27/07/2023,INV-3313,Cooking Oil 1L,beverages,4,1038,,Ali,udhaar
+16/04/2023,INV-3314,Cooking Oil 1L,Grocery,2,822,1644,Ahmed,udhaar
+07/06/2023,INV-3315,Atta 10kg,Grocery,1,377,Rs 377,Walk-in,easypaisa
+01/05/2023,INV-3316,Cooking Oil 1L,beverages,2,1443,Rs 2886,Ali,easypaisa
+24/02/2023,INV-3317,Atta 10kg,Personal Care,3,696,2088,Ahmed,easypaisa
+12/01/2023,INV-3318,Rice 1kg,Grocery,2,1250,2500,Ahmed,udhaar
+25/05/2023,INV-3319,Milk 1L,Dairy,3,1209,Rs 3627,Walk-in,udhaar
+16/05/2023,INV-3320,Shampoo,dairy,4,100,400,Fatima,jazzcash
+03/01/2023,INV-3321,Milk 1L,grocery,2,689,1378,Usman,jazzcash
+24/05/2023,INV-3322,Tea 200g,Personal Care,3,490,1470,Usman,jazzcash
+30/01/2023,INV-3323,Soap,Grocery,3,190,570,Ayesha,udhaar
+25/08/2023,INV-3324,Soap,Personal Care,1,762,762,Ali,easypaisa
+06/10/2023,INV-3325,Atta 10kg,Grocery,4,1090,4360,Fatima,jazzcash
+14/12/2023,INV-3326,Tea 200g,dairy,1,1097,1097,Ayesha,cash
+25/04/2023,INV-3327,Sugar 1kg,dairy,1,758,758,Walk-in,udhaar
+14/04/2023,INV-3328,Soap,grocery,2,1244,2488,Walk-in,udhaar
+28/04/2023,INV-3329,Soap,Dairy,2,1160,2320,Ali,jazzcash
+05/01/2023,INV-3330,Shampoo,beverages,4,1219,4876,Usman,easypaisa
+26/12/2023,INV-3331,Shampoo,Grocery,4,677,2708,Zainab,udhaar
+05/09/2023,INV-3332,Tea 200g,Dairy,3,349,1047,Zainab,udhaar
+30/12/2023,INV-3333,Milk 1L,dairy,1,701,701,Ayesha,udhaar
+17/11/2023,INV-3334,Sugar 1kg,beverages,4,425,1700,Ali,cash
+01/05/2023,INV-3335,Sugar 1kg,beverages,2,358,Rs 716,Zainab,easypaisa
+13/10/2023,INV-3336,Rice 1kg,Dairy,3,400,1200,Walk-in,cash
+29/05/2023,INV-3337,Shampoo,Personal Care,4,312,1248,Usman,cash
+25/03/2023,INV-3338,Shampoo,Dairy,1,244,244,Ali,jazzcash
+19/08/2023,INV-3339,Shampoo,beverages,2,90,Rs 180,Ali,cash
+15/10/2023,INV-3340,Rice 1kg,Personal Care,3,858,Rs 2574,Usman,udhaar
+10/06/2023,INV-3341,Tea 200g,Grocery,1,1083,1083,Ali,jazzcash
+29/09/2023,INV-3342,Rice 1kg,beverages,3,104,312,Ahmed,cash
+07/02/2023,INV-3343,Milk 1L,dairy,3,1490,4470,Walk-in,easypaisa
+14/08/2023,INV-3344,Rice 1kg,beverages,4,169,676,Zainab,udhaar
+22/05/2023,INV-3345,Atta 10kg,dairy,3,843,Rs 2529,Fatima,udhaar
+19/10/2023,INV-3346,Soap,dairy,4,826,3304,Ali,udhaar
+31/05/2023,INV-3347,Cooking Oil 1L,beverages,2,1473,2946,Usman,udhaar
+24/04/2023,INV-3348,Rice 1kg,grocery,4,877,3508,Fatima,jazzcash
+25/08/2023,INV-3349,Shampoo,Personal Care,4,1107,4428,Ayesha,cash
+07/03/2023,INV-3350,Milk 1L,Grocery,2,1413,Rs 2826,Usman,jazzcash
+27/12/2023,INV-3351,Sugar 1kg,dairy,4,1216,4864,Usman,cash
+07/12/2023,INV-3352,Tea 200g,Personal Care,4,1289,5156,Zainab,cash
+15/09/2023,INV-3353,Tea 200g,Dairy,2,251,502,Ayesha,cash
+06/09/2023,INV-3354,Atta 10kg,Dairy,2,191,382,Ayesha,easypaisa
+27/11/2023,INV-3355,Rice 1kg,dairy,4,326,1304,Fatima,jazzcash
+19/11/2023,INV-3356,Soap,grocery,4,161,644,Ali,cash
+29/06/2023,INV-3357,Rice 1kg,beverages,1,213,213,Walk-in,udhaar
+09/07/2023,INV-3358,Tea 200g,Personal Care,2,585,1170,Ayesha,udhaar
+03/06/2023,INV-3359,Rice 1kg,Dairy,2,1453,2906,Zainab,udhaar
+15/07/2023,INV-3360,Atta 10kg,grocery,1,1014,1014,Fatima,easypaisa
+07/11/2023,INV-3361,Tea 200g,Personal Care,4,754,Rs 3016,Ahmed,udhaar
+19/09/2023,INV-3362,Sugar 1kg,grocery,2,958,Rs 1916,Walk-in,easypaisa
+23/05/2023,INV-3363,Soap,dairy,2,1094,2188,Ali,jazzcash
+08/12/2023,INV-3364,Milk 1L,grocery,1,1489,1489,Ali,cash
+12/11/2023,INV-3365,Cooking Oil 1L,Personal Care,4,589,2356,Usman,jazzcash
+11/04/2023,INV-3366,Rice 1kg,dairy,3,253,759,Ayesha,cash
+01/09/2023,INV-3367,Shampoo,Personal Care,1,405,405,Fatima,jazzcash
+12/01/2023,INV-3368,Cooking Oil 1L,Dairy,2,498,996,Zainab,jazzcash
+27/08/2023,INV-3369,Rice 1kg,Dairy,4,1216,Rs 4864,Ali,jazzcash
+18/02/2023,INV-3370,Atta 10kg,beverages,3,722,2166,Walk-in,cash
+11/02/2023,INV-3371,Sugar 1kg,Personal Care,2,485,Rs 970,Zainab,udhaar
+15/06/2023,INV-3372,Sugar 1kg,Dairy,3,1338,4014,Zainab,easypaisa
+23/03/2023,INV-3373,Soap,grocery,1,1175,1175,Ali,jazzcash
+18/10/2023,INV-3374,Cooking Oil 1L,beverages,2,360,720,Fatima,easypaisa
+07/06/2023,INV-3375,Cooking Oil 1L,dairy,1,778,778,Fatima,jazzcash
+04/08/2023,INV-3376,Rice 1kg,Personal Care,3,917,2751,Fatima,udhaar
+07/06/2023,INV-3377,Shampoo,Grocery,2,117,234,Ali,easypaisa
+14/05/2023,INV-3378,Atta 10kg,dairy,2,1188,2376,Ahmed,udhaar
+08/03/2023,INV-3379,Sugar 1kg,grocery,4,222,888,Ali,jazzcash
+02/12/2023,INV-3380,Milk 1L,Personal Care,4,648,2592,Walk-in,easypaisa
+07/01/2023,INV-3381,Rice 1kg,grocery,3,1109,3327,Usman,cash
+14/01/2023,INV-3382,Soap,Personal Care,1,1199,Rs 1199,Zainab,easypaisa
+14/03/2023,INV-3383,Sugar 1kg,Grocery,4,1249,4996,Walk-in,jazzcash
+12/06/2023,INV-3384,Rice 1kg,Dairy,2,843,1686,Zainab,udhaar
+07/03/2023,INV-3385,Tea 200g,beverages,4,248,992,Ali,jazzcash
+13/12/2023,INV-3386,Sugar 1kg,dairy,3,1460,4380,Ali,easypaisa
+10/05/2023,INV-3387,Cooking Oil 1L,Personal Care,2,935,1870,Ahmed,easypaisa
+25/07/2023,INV-3388,Tea 200g,beverages,4,103,412,Ali,easypaisa
+03/10/2023,INV-3389,Tea 200g,Personal Care,1,1083,1083,Ayesha,udhaar
+13/09/2023,INV-3390,Soap,grocery,1,1491,Rs 1491,Walk-in,cash
+23/09/2023,INV-3391,Shampoo,beverages,2,447,Rs 894,Ayesha,cash
+25/01/2023,INV-3392,Soap,Grocery,4,124,496,Usman,udhaar
+08/10/2023,INV-3393,Soap,grocery,1,895,895,Usman,udhaar
+10/09/2023,INV-3394,Rice 1kg,grocery,3,195,585,Walk-in,easypaisa
+06/11/2023,INV-3395,Atta 10kg,Personal Care,1,1419,1419,Ali,cash
+16/10/2023,INV-3396,Atta 10kg,Personal Care,3,1126,3378,Usman,udhaar
+13/06/2023,INV-3397,Sugar 1kg,Dairy,1,67,67,Zainab,jazzcash
+05/04/2023,INV-3398,Sugar 1kg,dairy,1,1239,,Walk-in,jazzcash
+27/09/2023,INV-3399,Shampoo,beverages,3,683,2049,Walk-in,jazzcash
+17/11/2023,INV-3400,Milk 1L,dairy,4,1161,4644,Ahmed,cash
+20/04/2023,INV-3401,Atta 10kg,grocery,2,1496,2992,Walk-in,jazzcash
+02/12/2023,INV-3402,Soap,beverages,1,1455,1455,Ali,cash
+06/11/2023,INV-3403,Cooking Oil 1L,Personal Care,2,777,Rs 1554,Ayesha,udhaar
+26/08/2023,INV-3404,Sugar 1kg,beverages,3,1052,3156,Ali,cash
+25/01/2023,INV-3405,Soap,beverages,1,1060,1060,Fatima,udhaar
+21/05/2023,INV-3406,Milk 1L,Grocery,3,290,870,Walk-in,jazzcash
+27/04/2023,INV-3407,Milk 1L,grocery,2,1355,Rs 2710,Walk-in,cash
+25/01/2023,INV-3408,Soap,Personal Care,2,189,378,Usman,udhaar
+20/03/2023,INV-3409,Cooking Oil 1L,dairy,3,340,1020,Fatima,udhaar
+09/03/2023,INV-3410,Milk 1L,beverages,4,532,2128,Usman,cash
+22/06/2023,INV-3411,Cooking Oil 1L,beverages,2,1452,Rs 2904,Zainab,cash
+12/01/2023,INV-3412,Sugar 1kg,Personal Care,4,1180,4720,Usman,jazzcash
+15/10/2023,INV-3413,Tea 200g,Dairy,1,654,654,Walk-in,jazzcash
+08/05/2023,INV-3414,Sugar 1kg,Personal Care,1,331,331,Zainab,udhaar
+06/04/2023,INV-3415,Tea 200g,Personal Care,2,385,770,Ayesha,easypaisa
+02/04/2023,INV-3416,Cooking Oil 1L,Personal Care,4,324,1296,Walk-in,jazzcash
+21/05/2023,INV-3417,Rice 1kg,dairy,2,713,1426,Walk-in,cash
+31/01/2023,INV-3418,Sugar 1kg,Dairy,1,1131,1131,Fatima,cash
+30/11/2023,INV-3419,Sugar 1kg,grocery,2,495,990,Ali,udhaar
+20/01/2023,INV-3420,Atta 10kg,dairy,1,487,487,Zainab,cash
+26/05/2023,INV-3421,Milk 1L,grocery,2,374,748,Zainab,cash
+12/11/2023,INV-3422,Atta 10kg,Grocery,1,1050,1050,Ahmed,udhaar
+09/06/2023,INV-3423,Sugar 1kg,Personal Care,2,1281,Rs 2562,Fatima,easypaisa
+15/12/2023,INV-3424,Atta 10kg,Personal Care,4,674,2696,Fatima,cash
+12/02/2023,INV-3425,Milk 1L,Dairy,3,85,255,Ahmed,cash
+11/09/2023,INV-3426,Rice 1kg,Grocery,4,440,1760,Walk-in,jazzcash
+10/05/2023,INV-3427,Sugar 1kg,Personal Care,1,998,998,Ahmed,easypaisa
+01/03/2023,INV-3428,Atta 10kg,dairy,3,961,2883,Walk-in,udhaar
+31/05/2023,INV-3429,Sugar 1kg,beverages,2,520,1040,Walk-in,jazzcash
+14/10/2023,INV-3430,Soap,grocery,4,91,364,Ahmed,easypaisa
+05/01/2023,INV-3431,Rice 1kg,grocery,1,713,713,Zainab,jazzcash
+23/09/2023,INV-3432,Soap,dairy,2,1130,2260,Ali,jazzcash
+11/12/2023,INV-3433,Rice 1kg,Personal Care,1,308,308,Usman,easypaisa
+10/05/2023,INV-3434,Cooking Oil 1L,beverages,1,788,788,Walk-in,udhaar
+24/09/2023,INV-3435,Atta 10kg,dairy,1,699,699,Zainab,jazzcash
+27/06/2023,INV-3436,Atta 10kg,grocery,1,1357,Rs 1357,Fatima,easypaisa
+10/09/2023,INV-3437,Cooking Oil 1L,beverages,1,430,430,Usman,cash
+25/02/2023,INV-3438,Atta 10kg,dairy,4,206,824,Usman,jazzcash
+24/03/2023,INV-3439,Rice 1kg,Dairy,2,145,290,Walk-in,jazzcash
+09/04/2023,INV-3440,Atta 10kg,grocery,2,223,446,Ahmed,jazzcash
+29/05/2023,INV-3441,Soap,grocery,2,956,1912,Ahmed,cash
+25/11/2023,INV-3442,Soap,dairy,2,1167,2334,Ayesha,cash
+05/06/2023,INV-3443,Sugar 1kg,Grocery,2,161,322,Ayesha,cash
+09/07/2023,INV-3444,Soap,dairy,4,275,1100,Zainab,easypaisa
+20/09/2023,INV-3445,Shampoo,grocery,2,1378,Rs 2756,Usman,cash
+21/03/2023,INV-3446,Shampoo,grocery,1,193,,Ayesha,udhaar
+09/09/2023,INV-3447,Rice 1kg,grocery,2,799,1598,Ahmed,easypaisa
+07/04/2023,INV-3448,Cooking Oil 1L,Grocery,1,1140,1140,Ali,easypaisa
+17/09/2023,INV-3449,Rice 1kg,grocery,1,823,Rs 823,Walk-in,easypaisa
+17/09/2023,INV-3450,Tea 200g,dairy,4,837,3348,Walk-in,cash
+13/04/2023,INV-3451,Soap,grocery,1,193,Rs 193,Ali,udhaar
+09/02/2023,INV-3452,Soap,dairy,1,741,741,Walk-in,easypaisa
+30/09/2023,INV-3453,Rice 1kg,dairy,1,275,Rs 275,Fatima,cash
+11/04/2023,INV-3454,Atta 10kg,grocery,4,611,2444,Ayesha,easypaisa
+25/12/2023,INV-3455,Shampoo,Dairy,2,240,Rs 480,Fatima,cash
+04/11/2023,INV-3456,Tea 200g,beverages,1,528,528,Walk-in,jazzcash
+09/08/2023,INV-3457,Tea 200g,grocery,3,734,2202,Walk-in,cash
+04/11/2023,INV-3458,Rice 1kg,beverages,3,1140,Rs 3420,Ahmed,udhaar
+04/05/2023,INV-3459,Atta 10kg,grocery,3,623,1869,Walk-in,cash
+19/08/2023,INV-3460,Soap,Grocery,1,317,317,Ali,jazzcash
+27/06/2023,INV-3461,Milk 1L,Dairy,1,1123,Rs 1123,Usman,easypaisa
+04/03/2023,INV-3462,Rice 1kg,Dairy,3,194,582,Zainab,easypaisa
+26/04/2023,INV-3463,Rice 1kg,Grocery,3,993,Rs 2979,Ayesha,udhaar
+10/07/2023,INV-3464,Milk 1L,Grocery,1,625,,Ayesha,udhaar
+03/03/2023,INV-3465,Tea 200g,grocery,2,95,190,Usman,cash
+13/09/2023,INV-3466,Atta 10kg,Personal Care,2,752,1504,Walk-in,cash
+07/01/2023,INV-3467,Atta 10kg,Dairy,3,1490,4470,Usman,cash
+04/06/2023,INV-3468,Milk 1L,dairy,1,1256,1256,Ayesha,easypaisa
+02/04/2023,INV-3469,Tea 200g,Grocery,3,1247,Rs 3741,Zainab,jazzcash
+14/01/2023,INV-3470,Atta 10kg,beverages,3,1420,4260,Fatima,jazzcash
+17/08/2023,INV-3471,Tea 200g,grocery,2,393,786,Zainab,easypaisa
+27/03/2023,INV-3472,Milk 1L,beverages,3,707,Rs 2121,Ahmed,cash
+13/05/2023,INV-3473,Tea 200g,dairy,2,776,1552,Ali,easypaisa
+02/07/2023,INV-3474,Soap,beverages,4,1459,5836,Ali,easypaisa
+03/03/2023,INV-3475,Cooking Oil 1L,Grocery,4,562,2248,Ayesha,jazzcash
+07/08/2023,INV-3476,Sugar 1kg,Grocery,3,1051,3153,Ahmed,jazzcash
+03/09/2023,INV-3477,Tea 200g,grocery,1,1496,Rs 1496,Ahmed,easypaisa
+18/08/2023,INV-3478,Atta 10kg,Grocery,1,610,610,Ahmed,jazzcash
+20/03/2023,INV-3479,Atta 10kg,dairy,2,995,1990,Usman,jazzcash
+29/05/2023,INV-3480,Sugar 1kg,dairy,1,1421,1421,Ali,easypaisa
+18/05/2023,INV-3481,Tea 200g,dairy,3,1062,3186,Zainab,easypaisa
+10/11/2023,INV-3482,Cooking Oil 1L,dairy,2,1074,2148,Ali,udhaar
+06/03/2023,INV-3483,Sugar 1kg,Dairy,3,676,Rs 2028,Usman,udhaar
+13/01/2023,INV-3484,Atta 10kg,Dairy,3,182,546,Ahmed,easypaisa
+01/08/2023,INV-3485,Cooking Oil 1L,grocery,1,950,Rs 950,Ayesha,udhaar
+30/08/2023,INV-3486,Tea 200g,grocery,1,564,564,Zainab,udhaar
+01/08/2023,INV-3487,Soap,Dairy,2,129,258,Ahmed,jazzcash
+30/06/2023,INV-3488,Milk 1L,grocery,3,1466,4398,Usman,udhaar
+04/12/2023,INV-3489,Soap,Dairy,3,1226,3678,Fatima,jazzcash
+22/06/2023,INV-3490,Cooking Oil 1L,Dairy,2,1399,2798,Fatima,udhaar
+09/06/2023,INV-3491,Shampoo,Dairy,1,1257,Rs 1257,Ahmed,udhaar
+13/06/2023,INV-3492,Shampoo,Grocery,2,572,1144,Fatima,easypaisa
+07/07/2023,INV-3493,Soap,grocery,4,794,3176,Ahmed,jazzcash
+10/07/2023,INV-3494,Shampoo,Dairy,2,1219,2438,Ayesha,jazzcash
+04/11/2023,INV-3495,Cooking Oil 1L,dairy,3,1270,3810,Ayesha,udhaar
+13/09/2023,INV-3496,Shampoo,dairy,4,1209,4836,Ahmed,easypaisa
+02/07/2023,INV-3497,Cooking Oil 1L,grocery,2,1167,2334,Ayesha,jazzcash
+27/04/2023,INV-3498,Cooking Oil 1L,Personal Care,1,120,120,Zainab,easypaisa
+09/10/2023,INV-3499,Sugar 1kg,grocery,2,1279,Rs 2558,Ahmed,jazzcash
+15/07/2023,INV-3500,Tea 200g,Personal Care,2,611,1222,Ayesha,easypaisa
+03/02/2023,INV-3501,Rice 1kg,beverages,4,1184,4736,Fatima,cash
+21/02/2023,INV-3502,Atta 10kg,grocery,4,276,1104,Zainab,jazzcash
+22/04/2023,INV-3503,Atta 10kg,dairy,4,628,Rs 2512,Ali,udhaar
+09/09/2023,INV-3504,Milk 1L,Personal Care,3,687,2061,Ahmed,udhaar
+23/03/2023,INV-3505,Atta 10kg,Dairy,4,389,1556,Zainab,easypaisa
+20/08/2023,INV-3506,Tea 200g,Grocery,1,689,689,Ali,cash
+15/08/2023,INV-3507,Soap,dairy,2,1097,2194,Walk-in,easypaisa
+21/08/2023,INV-3508,Rice 1kg,grocery,4,99,396,Fatima,jazzcash
+09/08/2023,INV-3509,Shampoo,Dairy,4,376,1504,Ali,jazzcash
+11/02/2023,INV-3510,Shampoo,grocery,2,1040,2080,Usman,jazzcash
+21/01/2023,INV-3511,Shampoo,grocery,3,1444,4332,Ahmed,cash
+11/02/2023,INV-3512,Rice 1kg,dairy,2,540,1080,Zainab,jazzcash
+23/04/2023,INV-3513,Shampoo,beverages,1,140,140,Walk-in,udhaar
+15/04/2023,INV-3514,Milk 1L,Personal Care,4,482,1928,Ali,jazzcash
+11/07/2023,INV-3515,Sugar 1kg,Personal Care,3,289,867,Zainab,easypaisa
+17/01/2023,INV-3516,Soap,beverages,1,1196,Rs 1196,Walk-in,easypaisa
+30/04/2023,INV-3517,Tea 200g,beverages,4,1310,Rs 5240,Walk-in,cash
+09/05/2023,INV-3518,Cooking Oil 1L,beverages,3,1488,Rs 4464,Walk-in,jazzcash
+10/05/2023,INV-3519,Cooking Oil 1L,beverages,4,1062,4248,Walk-in,cash
+01/03/2023,INV-3520,Cooking Oil 1L,dairy,3,687,2061,Ahmed,cash
+17/02/2023,INV-3521,Rice 1kg,dairy,1,1459,1459,Ahmed,jazzcash
+29/01/2023,INV-3522,Sugar 1kg,Dairy,1,1274,1274,Ali,easypaisa
+07/04/2023,INV-3523,Cooking Oil 1L,dairy,2,1437,2874,Zainab,easypaisa
+10/01/2023,INV-3524,Milk 1L,Personal Care,4,1187,Rs 4748,Fatima,easypaisa
+30/08/2023,INV-3525,Rice 1kg,Grocery,2,1279,2558,Zainab,udhaar
+10/11/2023,INV-3526,Sugar 1kg,dairy,4,1355,5420,Ali,jazzcash
+20/08/2023,INV-3527,Atta 10kg,Personal Care,3,941,2823,Ali,cash
+04/10/2023,INV-3528,Tea 200g,beverages,2,1292,2584,Walk-in,jazzcash
+11/10/2023,INV-3529,Rice 1kg,Grocery,4,288,1152,Ahmed,jazzcash
+22/07/2023,INV-3530,Rice 1kg,Grocery,4,937,3748,Ahmed,easypaisa
+04/09/2023,INV-3531,Milk 1L,Grocery,4,1326,5304,Walk-in,cash
+17/10/2023,INV-3532,Milk 1L,dairy,1,1123,Rs 1123,Zainab,cash
+21/09/2023,INV-3533,Soap,beverages,2,1335,2670,Zainab,cash
+02/08/2023,INV-3534,Rice 1kg,Personal Care,4,1366,Rs 5464,Usman,jazzcash
+19/07/2023,INV-3535,Tea 200g,grocery,1,414,414,Fatima,cash
+20/03/2023,INV-3536,Shampoo,grocery,3,1085,3255,Ali,cash
+09/12/2023,INV-3537,Atta 10kg,dairy,2,1413,2826,Fatima,udhaar
+10/12/2023,INV-3538,Tea 200g,Personal Care,1,532,532,Ayesha,easypaisa
+22/06/2023,INV-3539,Rice 1kg,beverages,2,743,1486,Walk-in,udhaar
+10/03/2023,INV-3540,Tea 200g,Personal Care,3,973,2919,Ahmed,udhaar
+28/03/2023,INV-3541,Sugar 1kg,Grocery,4,269,Rs 1076,Ahmed,easypaisa
+11/04/2023,INV-3542,Rice 1kg,grocery,1,454,454,Zainab,easypaisa
+08/01/2023,INV-3543,Cooking Oil 1L,Grocery,4,876,3504,Ayesha,cash
+29/11/2023,INV-3544,Milk 1L,dairy,3,603,Rs 1809,Ayesha,easypaisa
+19/07/2023,INV-3545,Rice 1kg,grocery,4,706,2824,Usman,cash
+28/03/2023,INV-3546,Tea 200g,Personal Care,1,465,,Usman,easypaisa
+12/02/2023,INV-3547,Tea 200g,Personal Care,2,1466,,Zainab,easypaisa
+19/04/2023,INV-3548,Sugar 1kg,beverages,4,840,3360,Walk-in,jazzcash
+01/06/2023,INV-3549,Milk 1L,Personal Care,1,372,372,Usman,udhaar
+17/01/2023,INV-3550,Soap,Personal Care,1,240,240,Ahmed,udhaar
+13/05/2023,INV-3551,Rice 1kg,Personal Care,1,1119,1119,Ayesha,cash
+28/05/2023,INV-3552,Shampoo,Personal Care,1,1178,,Walk-in,easypaisa
+04/10/2023,INV-3553,Shampoo,Dairy,4,107,428,Ahmed,easypaisa
+20/08/2023,INV-3554,Rice 1kg,Personal Care,3,284,852,Ahmed,jazzcash
+10/11/2023,INV-3555,Shampoo,grocery,3,161,483,Ahmed,udhaar
+16/08/2023,INV-3556,Milk 1L,Dairy,3,631,1893,Ali,cash
+19/05/2023,INV-3557,Soap,Dairy,4,191,764,Fatima,jazzcash
+30/07/2023,INV-3558,Cooking Oil 1L,Personal Care,4,1000,4000,Ali,udhaar
+28/01/2023,INV-3559,Sugar 1kg,beverages,1,1433,Rs 1433,Zainab,cash
+20/02/2023,INV-3560,Cooking Oil 1L,grocery,2,1123,2246,Ahmed,easypaisa
+18/09/2023,INV-3561,Sugar 1kg,Grocery,2,1134,2268,Ayesha,jazzcash
+18/09/2023,INV-3562,Soap,dairy,4,743,2972,Ahmed,udhaar
+16/12/2023,INV-3563,Sugar 1kg,Personal Care,3,1245,3735,Ali,jazzcash
+18/12/2023,INV-3564,Tea 200g,Personal Care,2,1493,2986,Usman,cash
+08/01/2023,INV-3565,Tea 200g,beverages,4,1264,Rs 5056,Ayesha,cash
+16/11/2023,INV-3566,Sugar 1kg,Personal Care,4,941,3764,Fatima,easypaisa
+18/05/2023,INV-3567,Milk 1L,Personal Care,3,388,1164,Zainab,jazzcash
+07/02/2023,INV-3568,Shampoo,grocery,3,861,2583,Ali,cash
+21/04/2023,INV-3569,Tea 200g,Dairy,3,1103,3309,Fatima,udhaar
+08/08/2023,INV-3570,Cooking Oil 1L,dairy,4,1307,5228,Ali,udhaar
+03/12/2023,INV-3571,Tea 200g,dairy,2,806,1612,Ali,cash
+11/08/2023,INV-3572,Soap,dairy,2,788,1576,Zainab,cash
+16/05/2023,INV-3573,Rice 1kg,Dairy,1,139,139,Ali,udhaar
+13/09/2023,INV-3574,Tea 200g,Grocery,1,415,415,Ali,easypaisa
+26/12/2023,INV-3575,Cooking Oil 1L,Grocery,1,979,979,Walk-in,udhaar
+25/11/2023,INV-3576,Shampoo,Dairy,2,625,Rs 1250,Ayesha,easypaisa
+18/02/2023,INV-3577,Atta 10kg,dairy,2,708,1416,Zainab,jazzcash
+19/10/2023,INV-3578,Cooking Oil 1L,Grocery,3,1124,3372,Ali,easypaisa
+20/11/2023,INV-3579,Milk 1L,Grocery,4,1064,4256,Fatima,cash
+19/03/2023,INV-3580,Cooking Oil 1L,beverages,2,1054,Rs 2108,Usman,cash
+15/04/2023,INV-3581,Shampoo,Personal Care,1,1431,,Walk-in,jazzcash
+18/06/2023,INV-3582,Shampoo,dairy,4,66,264,Ahmed,udhaar
+05/08/2023,INV-3583,Rice 1kg,Dairy,2,157,314,Ahmed,udhaar
+29/04/2023,INV-3584,Sugar 1kg,grocery,3,986,2958,Ayesha,cash
+09/07/2023,INV-3585,Cooking Oil 1L,beverages,1,529,Rs 529,Ali,udhaar
+12/09/2023,INV-3586,Cooking Oil 1L,Grocery,1,991,991,Walk-in,udhaar
+23/09/2023,INV-3587,Rice 1kg,Grocery,4,426,1704,Fatima,jazzcash
+29/05/2023,INV-3588,Milk 1L,Dairy,2,602,Rs 1204,Zainab,easypaisa
+13/06/2023,INV-3589,Soap,beverages,3,1249,,Usman,udhaar
+20/05/2023,INV-3590,Rice 1kg,beverages,1,1282,1282,Ali,easypaisa
+13/12/2023,INV-3591,Sugar 1kg,dairy,2,1284,2568,Ahmed,easypaisa
+15/09/2023,INV-3592,Soap,Personal Care,4,517,2068,Ahmed,udhaar
+26/09/2023,INV-3593,Sugar 1kg,grocery,4,1206,Rs 4824,Usman,cash
+30/06/2023,INV-3594,Tea 200g,grocery,1,409,Rs 409,Fatima,cash
+09/06/2023,INV-3595,Tea 200g,Grocery,3,683,2049,Ali,cash
+17/12/2023,INV-3596,Sugar 1kg,Dairy,1,295,295,Ali,jazzcash
+15/10/2023,INV-3597,Cooking Oil 1L,grocery,1,584,584,Walk-in,easypaisa
+15/10/2023,INV-3598,Rice 1kg,beverages,3,1103,3309,Ahmed,easypaisa
+14/08/2023,INV-3599,Rice 1kg,Personal Care,2,361,722,Ayesha,easypaisa
+11/01/2023,INV-3600,Sugar 1kg,Personal Care,4,1276,Rs 5104,Walk-in,udhaar
+10/01/2023,INV-3601,Cooking Oil 1L,beverages,1,1064,1064,Ayesha,cash
+28/09/2023,INV-3602,Sugar 1kg,Grocery,2,380,760,Ahmed,jazzcash
+30/09/2023,INV-3603,Tea 200g,Grocery,4,957,3828,Ali,jazzcash
+02/07/2023,INV-3604,Shampoo,Grocery,3,1338,4014,Usman,udhaar
+02/06/2023,INV-3605,Soap,Grocery,3,349,Rs 1047,Walk-in,jazzcash
+11/11/2023,INV-3606,Sugar 1kg,Personal Care,1,618,618,Fatima,cash
+30/11/2023,INV-3607,Shampoo,Dairy,2,143,286,Ali,easypaisa
+04/05/2023,INV-3608,Soap,dairy,3,813,Rs 2439,Zainab,cash
+24/04/2023,INV-3609,Shampoo,dairy,2,270,540,Ayesha,easypaisa
+05/10/2023,INV-3610,Tea 200g,dairy,2,748,1496,Usman,cash
+01/08/2023,INV-3611,Soap,beverages,2,1141,2282,Ayesha,jazzcash
+21/06/2023,INV-3612,Atta 10kg,grocery,3,777,2331,Walk-in,easypaisa
+15/10/2023,INV-3613,Tea 200g,beverages,4,626,2504,Fatima,cash
+23/06/2023,INV-3614,Milk 1L,Grocery,4,399,Rs 1596,Ahmed,jazzcash
+23/04/2023,INV-3615,Rice 1kg,Grocery,2,493,986,Ayesha,jazzcash
+02/05/2023,INV-3616,Sugar 1kg,Dairy,1,1426,Rs 1426,Zainab,cash
+01/02/2023,INV-3617,Tea 200g,beverages,4,889,3556,Ahmed,cash
+10/08/2023,INV-3618,Rice 1kg,Grocery,3,1298,3894,Usman,jazzcash
+29/04/2023,INV-3619,Sugar 1kg,Grocery,2,714,1428,Zainab,easypaisa
+08/02/2023,INV-3620,Milk 1L,Personal Care,4,1141,4564,Walk-in,easypaisa
+25/09/2023,INV-3621,Soap,Personal Care,2,823,1646,Zainab,easypaisa
+21/08/2023,INV-3622,Tea 200g,Personal Care,4,661,2644,Zainab,easypaisa
+18/01/2023,INV-3623,Tea 200g,Dairy,4,109,436,Usman,easypaisa
+29/05/2023,INV-3624,Rice 1kg,Grocery,4,1354,5416,Ahmed,jazzcash
+29/05/2023,INV-3625,Tea 200g,Dairy,1,995,,Zainab,udhaar
+06/05/2023,INV-3626,Shampoo,grocery,1,448,448,Zainab,easypaisa
+29/10/2023,INV-3627,Rice 1kg,Dairy,3,661,1983,Usman,jazzcash
+26/12/2023,INV-3628,Atta 10kg,grocery,4,1130,4520,Usman,udhaar
+26/08/2023,INV-3629,Tea 200g,dairy,4,542,2168,Ayesha,jazzcash
+15/05/2023,INV-3630,Soap,Grocery,1,421,421,Ali,cash
+31/05/2023,INV-3631,Shampoo,dairy,4,448,Rs 1792,Fatima,udhaar
+24/08/2023,INV-3632,Cooking Oil 1L,beverages,2,1203,2406,Walk-in,jazzcash
+12/08/2023,INV-3633,Sugar 1kg,Personal Care,1,1427,1427,Fatima,jazzcash
+22/07/2023,INV-3634,Milk 1L,Personal Care,1,409,409,Walk-in,jazzcash
+13/09/2023,INV-3635,Shampoo,dairy,1,1344,1344,Walk-in,udhaar
+27/03/2023,INV-3636,Soap,dairy,2,1155,2310,Walk-in,jazzcash
+30/05/2023,INV-3637,Atta 10kg,Grocery,2,484,968,Zainab,jazzcash
+23/08/2023,INV-3638,Rice 1kg,Dairy,3,997,2991,Ahmed,easypaisa
+11/12/2023,INV-3639,Milk 1L,Grocery,3,933,2799,Ali,udhaar
+22/01/2023,INV-3640,Soap,beverages,1,578,Rs 578,Ali,udhaar
+14/12/2023,INV-3641,Rice 1kg,Personal Care,2,344,688,Zainab,cash
+12/10/2023,INV-3642,Rice 1kg,Dairy,1,222,Rs 222,Ahmed,cash
+26/09/2023,INV-3643,Milk 1L,dairy,2,216,432,Ahmed,jazzcash
+15/09/2023,INV-3644,Soap,Personal Care,4,1300,5200,Ayesha,cash
+29/01/2023,INV-3645,Sugar 1kg,dairy,1,616,616,Walk-in,udhaar
+01/08/2023,INV-3646,Milk 1L,Personal Care,3,1022,3066,Fatima,udhaar
+10/10/2023,INV-3647,Cooking Oil 1L,Dairy,2,1488,2976,Ayesha,easypaisa
+19/02/2023,INV-3648,Atta 10kg,dairy,3,1373,Rs 4119,Ayesha,cash
+05/04/2023,INV-3649,Soap,dairy,2,1322,,Ayesha,udhaar
+29/03/2023,INV-3650,Tea 200g,Personal Care,2,1418,2836,Walk-in,cash
+13/02/2023,INV-3651,Cooking Oil 1L,Grocery,1,982,Rs 982,Ali,jazzcash
+05/10/2023,INV-3652,Rice 1kg,Grocery,4,403,1612,Fatima,jazzcash
+20/06/2023,INV-3653,Rice 1kg,Dairy,1,1315,1315,Ayesha,easypaisa
+08/07/2023,INV-3654,Tea 200g,Personal Care,4,1057,4228,Ali,jazzcash
+19/12/2023,INV-3655,Atta 10kg,Dairy,2,1046,Rs 2092,Ayesha,udhaar
+03/07/2023,INV-3656,Soap,Grocery,3,187,561,Fatima,easypaisa
+03/01/2023,INV-3657,Milk 1L,beverages,3,506,Rs 1518,Fatima,udhaar
+10/07/2023,INV-3658,Tea 200g,Dairy,4,646,2584,Zainab,udhaar
+28/04/2023,INV-3659,Cooking Oil 1L,Personal Care,1,1030,1030,Ayesha,jazzcash
+19/01/2023,INV-3660,Cooking Oil 1L,Dairy,4,202,,Ahmed,jazzcash
+23/01/2023,INV-3661,Shampoo,Dairy,2,1042,2084,Ayesha,easypaisa
+30/01/2023,INV-3662,Milk 1L,dairy,4,1037,4148,Ali,jazzcash
+22/10/2023,INV-3663,Tea 200g,Personal Care,1,420,420,Ayesha,cash
+18/04/2023,INV-3664,Atta 10kg,dairy,4,130,Rs 520,Ali,easypaisa
+08/10/2023,INV-3665,Atta 10kg,dairy,2,1339,2678,Ayesha,cash
+08/05/2023,INV-3666,Atta 10kg,grocery,2,53,106,Walk-in,udhaar
+17/08/2023,INV-3667,Tea 200g,Personal Care,2,1307,2614,Zainab,udhaar
+21/04/2023,INV-3668,Milk 1L,beverages,4,942,3768,Fatima,cash
+16/05/2023,INV-3669,Sugar 1kg,Dairy,4,795,3180,Ali,udhaar
+28/12/2023,INV-3670,Cooking Oil 1L,Dairy,3,220,660,Ayesha,udhaar
+05/07/2023,INV-3671,Cooking Oil 1L,Grocery,4,1041,4164,Walk-in,jazzcash
+24/05/2023,INV-3672,Rice 1kg,grocery,4,1457,5828,Walk-in,udhaar
+13/03/2023,INV-3673,Cooking Oil 1L,Grocery,4,72,288,Ayesha,jazzcash
+09/05/2023,INV-3674,Atta 10kg,dairy,4,1244,Rs 4976,Ali,cash
+30/12/2023,INV-3675,Soap,grocery,1,156,156,Ahmed,easypaisa
+18/09/2023,INV-3676,Shampoo,Dairy,4,411,1644,Ayesha,easypaisa
+03/01/2023,INV-3677,Atta 10kg,beverages,4,1395,Rs 5580,Ayesha,cash
+14/04/2023,INV-3678,Milk 1L,Dairy,4,1178,4712,Ali,easypaisa
+12/08/2023,INV-3679,Rice 1kg,Personal Care,2,509,1018,Usman,jazzcash
+16/11/2023,INV-3680,Shampoo,grocery,3,1053,3159,Ahmed,jazzcash
+28/12/2023,INV-3681,Soap,Personal Care,4,164,656,Zainab,easypaisa
+20/12/2023,INV-3682,Soap,beverages,3,715,2145,Ayesha,easypaisa
+10/01/2023,INV-3683,Rice 1kg,dairy,1,557,557,Zainab,cash
+29/10/2023,INV-3684,Milk 1L,beverages,1,1182,1182,Zainab,cash
+19/08/2023,INV-3685,Tea 200g,Grocery,1,347,Rs 347,Walk-in,jazzcash
+07/08/2023,INV-3686,Tea 200g,Grocery,3,608,1824,Ahmed,udhaar
+07/03/2023,INV-3687,Tea 200g,Dairy,1,1388,1388,Fatima,jazzcash
+22/04/2023,INV-3688,Cooking Oil 1L,Dairy,2,662,Rs 1324,Ali,jazzcash
+13/01/2023,INV-3689,Shampoo,Personal Care,2,1305,2610,Walk-in,cash
+27/03/2023,INV-3690,Shampoo,Grocery,2,1150,2300,Fatima,easypaisa
+22/08/2023,INV-3691,Cooking Oil 1L,Grocery,4,668,2672,Walk-in,jazzcash
+31/03/2023,INV-3692,Cooking Oil 1L,dairy,2,388,Rs 776,Ali,jazzcash
+10/11/2023,INV-3693,Cooking Oil 1L,Personal Care,3,1400,4200,Ayesha,easypaisa
+23/02/2023,INV-3694,Soap,dairy,1,212,Rs 212,Zainab,udhaar
+12/01/2023,INV-3695,Tea 200g,Grocery,4,123,492,Walk-in,jazzcash
+28/07/2023,INV-3696,Milk 1L,grocery,2,986,1972,Ali,udhaar
+14/01/2023,INV-3697,Milk 1L,grocery,2,365,730,Fatima,jazzcash
+01/05/2023,INV-3698,Shampoo,Personal Care,2,1271,2542,Usman,cash
+20/01/2023,INV-3699,Milk 1L,dairy,1,354,354,Fatima,easypaisa
+16/03/2023,INV-3700,Atta 10kg,Grocery,2,134,268,Zainab,cash
+31/08/2023,INV-3701,Shampoo,dairy,4,1101,4404,Ahmed,jazzcash
+11/08/2023,INV-3702,Soap,grocery,4,623,2492,Ali,jazzcash
+11/03/2023,INV-3703,Soap,Dairy,4,1430,5720,Ahmed,cash
+08/11/2023,INV-3704,Milk 1L,Personal Care,4,1142,4568,Walk-in,cash
+30/07/2023,INV-3705,Shampoo,grocery,2,559,1118,Ali,easypaisa
+11/04/2023,INV-3706,Shampoo,grocery,4,1378,Rs 5512,Fatima,cash
+05/07/2023,INV-3707,Atta 10kg,Personal Care,3,464,1392,Usman,udhaar
+12/05/2023,INV-3708,Rice 1kg,Dairy,2,67,134,Ahmed,jazzcash
+21/04/2023,INV-3709,Soap,Dairy,3,536,1608,Ahmed,jazzcash
+12/05/2023,INV-3710,Cooking Oil 1L,grocery,4,973,3892,Walk-in,jazzcash
+20/01/2023,INV-3711,Milk 1L,grocery,3,1304,3912,Fatima,udhaar
+24/01/2023,INV-3712,Tea 200g,dairy,4,1395,5580,Ahmed,cash
+15/08/2023,INV-3713,Soap,dairy,4,1169,4676,Zainab,jazzcash
+03/06/2023,INV-3714,Shampoo,dairy,3,403,1209,Usman,cash
+20/10/2023,INV-3715,Tea 200g,grocery,4,1468,5872,Ali,easypaisa
+18/08/2023,INV-3716,Tea 200g,beverages,1,1200,1200,Zainab,udhaar
+06/11/2023,INV-3717,Shampoo,Grocery,4,908,3632,Fatima,easypaisa
+25/12/2023,INV-3718,Sugar 1kg,Dairy,4,1432,5728,Fatima,easypaisa
+21/07/2023,INV-3719,Soap,Dairy,3,1313,Rs 3939,Ahmed,jazzcash
+07/02/2023,INV-3720,Cooking Oil 1L,grocery,4,1204,4816,Zainab,easypaisa
+17/09/2023,INV-3721,Soap,Dairy,3,1289,3867,Ahmed,cash
+07/07/2023,INV-3722,Sugar 1kg,dairy,3,504,Rs 1512,Ahmed,cash
+26/02/2023,INV-3723,Atta 10kg,beverages,3,673,Rs 2019,Usman,jazzcash
+20/01/2023,INV-3724,Soap,grocery,2,789,,Ahmed,udhaar
+30/09/2023,INV-3725,Cooking Oil 1L,Personal Care,3,1047,Rs 3141,Zainab,jazzcash
+29/04/2023,INV-3726,Soap,dairy,3,1492,4476,Zainab,udhaar
+12/03/2023,INV-3727,Milk 1L,beverages,2,477,954,Fatima,udhaar
+04/01/2023,INV-3728,Rice 1kg,grocery,4,1161,4644,Usman,jazzcash
+09/08/2023,INV-3729,Soap,dairy,2,868,1736,Zainab,easypaisa
+14/01/2023,INV-3730,Sugar 1kg,Grocery,1,641,641,Ayesha,jazzcash
+03/01/2023,INV-3731,Tea 200g,Dairy,2,1056,Rs 2112,Zainab,easypaisa
+04/08/2023,INV-3732,Soap,Grocery,1,1314,1314,Walk-in,udhaar
+17/08/2023,INV-3733,Milk 1L,Personal Care,2,192,384,Ali,easypaisa
+02/12/2023,INV-3734,Soap,beverages,3,1469,Rs 4407,Ahmed,cash
+05/07/2023,INV-3735,Sugar 1kg,grocery,4,508,Rs 2032,Walk-in,udhaar
+24/02/2023,INV-3736,Soap,dairy,4,303,Rs 1212,Zainab,udhaar
+11/09/2023,INV-3737,Soap,dairy,4,519,2076,Ayesha,easypaisa
+24/01/2023,INV-3738,Atta 10kg,beverages,4,1443,Rs 5772,Walk-in,easypaisa
+11/06/2023,INV-3739,Shampoo,beverages,2,1213,2426,Walk-in,cash
+07/06/2023,INV-3740,Rice 1kg,beverages,2,323,646,Ahmed,cash
+23/03/2023,INV-3741,Sugar 1kg,dairy,1,711,711,Fatima,cash
+08/06/2023,INV-3742,Atta 10kg,Grocery,1,231,231,Ali,udhaar
+07/07/2023,INV-3743,Shampoo,grocery,2,1375,2750,Ahmed,cash
+01/03/2023,INV-3744,Atta 10kg,beverages,1,1162,Rs 1162,Zainab,cash
+01/11/2023,INV-3745,Rice 1kg,dairy,1,609,Rs 609,Fatima,cash
+15/11/2023,INV-3746,Tea 200g,Dairy,4,863,3452,Zainab,jazzcash
+30/07/2023,INV-3747,Atta 10kg,dairy,2,874,Rs 1748,Usman,udhaar
+01/06/2023,INV-3748,Tea 200g,beverages,3,79,237,Ayesha,udhaar
+19/04/2023,INV-3749,Tea 200g,grocery,4,1375,5500,Fatima,cash
+17/03/2023,INV-3750,Shampoo,grocery,3,141,423,Walk-in,udhaar
+30/01/2023,INV-3751,Sugar 1kg,dairy,1,1358,1358,Ali,cash
+10/11/2023,INV-3752,Shampoo,dairy,1,1488,1488,Ayesha,jazzcash
+27/04/2023,INV-3753,Shampoo,dairy,3,261,783,Ahmed,jazzcash
+22/12/2023,INV-3754,Shampoo,dairy,3,259,Rs 777,Usman,easypaisa
+11/07/2023,INV-3755,Rice 1kg,beverages,3,1227,3681,Usman,easypaisa
+19/01/2023,INV-3756,Milk 1L,dairy,1,485,485,Walk-in,jazzcash
+22/06/2023,INV-3757,Cooking Oil 1L,Personal Care,4,709,Rs 2836,Ayesha,jazzcash
+16/08/2023,INV-3758,Atta 10kg,Personal Care,4,1056,Rs 4224,Ali,easypaisa
+16/12/2023,INV-3759,Tea 200g,Personal Care,1,598,Rs 598,Zainab,easypaisa
+02/07/2023,INV-3760,Shampoo,Personal Care,4,460,1840,Ayesha,easypaisa
+23/04/2023,INV-3761,Rice 1kg,Grocery,2,68,,Walk-in,jazzcash
+02/07/2023,INV-3762,Shampoo,grocery,1,844,844,Ahmed,cash
+26/05/2023,INV-3763,Milk 1L,Grocery,2,196,Rs 392,Walk-in,easypaisa
+15/11/2023,INV-3764,Rice 1kg,Dairy,4,1236,Rs 4944,Ahmed,cash
+26/04/2023,INV-3765,Cooking Oil 1L,beverages,3,504,1512,Ahmed,jazzcash
+23/04/2023,INV-3766,Cooking Oil 1L,Dairy,1,1059,1059,Ahmed,easypaisa
+08/09/2023,INV-3767,Milk 1L,Dairy,3,1383,4149,Ali,easypaisa
+08/09/2023,INV-3768,Sugar 1kg,beverages,1,164,164,Ali,jazzcash
+30/10/2023,INV-3769,Milk 1L,Personal Care,3,1142,3426,Ayesha,easypaisa
+09/11/2023,INV-3770,Milk 1L,dairy,2,266,532,Ahmed,cash
+28/04/2023,INV-3771,Tea 200g,beverages,4,647,2588,Ali,udhaar
+28/10/2023,INV-3772,Shampoo,dairy,2,1330,2660,Walk-in,jazzcash
+10/06/2023,INV-3773,Soap,Personal Care,3,1332,3996,Ahmed,jazzcash
+17/07/2023,INV-3774,Milk 1L,Personal Care,3,1229,3687,Ahmed,udhaar
+17/09/2023,INV-3775,Rice 1kg,Grocery,1,667,667,Usman,jazzcash
+28/05/2023,INV-3776,Shampoo,grocery,4,817,Rs 3268,Fatima,udhaar
+28/08/2023,INV-3777,Cooking Oil 1L,Personal Care,1,1116,1116,Usman,easypaisa
+16/02/2023,INV-3778,Atta 10kg,Personal Care,2,591,1182,Fatima,jazzcash
+17/07/2023,INV-3779,Tea 200g,Grocery,4,948,Rs 3792,Ayesha,easypaisa
+16/02/2023,INV-3780,Rice 1kg,Dairy,4,743,2972,Ali,udhaar
+19/03/2023,INV-3781,Sugar 1kg,dairy,4,252,1008,Zainab,udhaar
+04/05/2023,INV-3782,Sugar 1kg,grocery,3,227,Rs 681,Ayesha,udhaar
+16/03/2023,INV-3783,Cooking Oil 1L,grocery,4,513,2052,Ahmed,easypaisa
+25/12/2023,INV-3784,Soap,beverages,3,1375,4125,Ali,easypaisa
+17/05/2023,INV-3785,Atta 10kg,dairy,1,553,553,Ayesha,udhaar
+31/03/2023,INV-3786,Rice 1kg,Grocery,2,312,624,Ayesha,easypaisa
+21/11/2023,INV-3787,Sugar 1kg,beverages,2,579,Rs 1158,Zainab,jazzcash
+02/03/2023,INV-3788,Shampoo,beverages,2,258,516,Ali,udhaar
+18/05/2023,INV-3789,Soap,Dairy,2,525,Rs 1050,Ayesha,udhaar
+19/02/2023,INV-3790,Sugar 1kg,Personal Care,3,87,261,Zainab,udhaar
+16/09/2023,INV-3791,Soap,Grocery,2,365,730,Zainab,jazzcash
+17/04/2023,INV-3792,Cooking Oil 1L,Personal Care,2,284,568,Walk-in,easypaisa
+23/04/2023,INV-3793,Atta 10kg,Grocery,4,1042,4168,Zainab,udhaar
+16/12/2023,INV-3794,Soap,Personal Care,4,918,Rs 3672,Ayesha,jazzcash
+11/09/2023,INV-3795,Tea 200g,grocery,1,1380,1380,Usman,jazzcash
+28/04/2023,INV-3796,Rice 1kg,dairy,1,829,829,Ali,jazzcash
+17/07/2023,INV-3797,Atta 10kg,beverages,2,59,118,Zainab,udhaar
+03/12/2023,INV-3798,Cooking Oil 1L,Dairy,1,1086,1086,Ali,cash
+31/12/2023,INV-3799,Rice 1kg,grocery,2,422,844,Fatima,jazzcash
+20/02/2023,INV-3800,Milk 1L,Grocery,1,398,Rs 398,Ali,udhaar
+02/09/2023,INV-3801,Sugar 1kg,Grocery,1,437,437,Ali,cash
+04/02/2023,INV-3802,Rice 1kg,dairy,4,238,Rs 952,Walk-in,easypaisa
+29/10/2023,INV-3803,Shampoo,grocery,2,266,532,Fatima,udhaar
+10/03/2023,INV-3804,Milk 1L,grocery,2,824,1648,Fatima,easypaisa
+15/12/2023,INV-3805,Sugar 1kg,grocery,1,1389,1389,Ahmed,cash
+16/11/2023,INV-3806,Cooking Oil 1L,Personal Care,4,137,548,Walk-in,easypaisa
+18/02/2023,INV-3807,Cooking Oil 1L,grocery,2,465,930,Usman,easypaisa
+15/03/2023,INV-3808,Cooking Oil 1L,beverages,1,1421,1421,Fatima,easypaisa
+11/07/2023,INV-3809,Cooking Oil 1L,beverages,3,1192,3576,Walk-in,udhaar
+18/09/2023,INV-3810,Tea 200g,Grocery,4,863,3452,Zainab,jazzcash
+22/12/2023,INV-3811,Shampoo,grocery,1,607,607,Usman,udhaar
+11/03/2023,INV-3812,Tea 200g,Grocery,2,836,,Ayesha,jazzcash
+31/03/2023,INV-3813,Cooking Oil 1L,Personal Care,4,965,Rs 3860,Fatima,udhaar
+17/09/2023,INV-3814,Shampoo,Grocery,4,169,Rs 676,Zainab,jazzcash
+06/05/2023,INV-3815,Rice 1kg,grocery,3,1097,Rs 3291,Walk-in,udhaar
+19/08/2023,INV-3816,Sugar 1kg,beverages,3,121,363,Usman,easypaisa
+22/10/2023,INV-3817,Rice 1kg,grocery,2,877,1754,Zainab,udhaar
+09/05/2023,INV-3818,Milk 1L,Dairy,3,1241,,Ayesha,jazzcash
+07/10/2023,INV-3819,Rice 1kg,beverages,1,873,873,Fatima,cash
+09/11/2023,INV-3820,Cooking Oil 1L,dairy,4,653,2612,Usman,cash
+10/04/2023,INV-3821,Rice 1kg,Grocery,3,564,Rs 1692,Ahmed,cash
+22/11/2023,INV-3822,Atta 10kg,grocery,3,307,921,Ali,udhaar
+24/10/2023,INV-3823,Rice 1kg,Personal Care,4,259,1036,Zainab,jazzcash
+01/07/2023,INV-3824,Soap,Dairy,2,1072,2144,Fatima,easypaisa
+23/06/2023,INV-3825,Tea 200g,Personal Care,4,66,264,Ali,jazzcash
+12/11/2023,INV-3826,Soap,Personal Care,2,1085,2170,Usman,udhaar
+30/12/2023,INV-3827,Tea 200g,beverages,1,805,805,Fatima,cash
+07/07/2023,INV-3828,Cooking Oil 1L,Grocery,1,394,394,Ahmed,easypaisa
+26/02/2023,INV-3829,Milk 1L,grocery,2,1144,2288,Fatima,easypaisa
+31/01/2023,INV-3830,Cooking Oil 1L,grocery,1,1322,1322,Ali,cash
+25/03/2023,INV-3831,Rice 1kg,grocery,4,389,Rs 1556,Fatima,cash
+01/06/2023,INV-3832,Soap,Personal Care,1,257,257,Fatima,udhaar
+05/02/2023,INV-3833,Tea 200g,grocery,2,843,1686,Ali,jazzcash
+01/08/2023,INV-3834,Tea 200g,Grocery,1,632,632,Walk-in,cash
+30/12/2023,INV-3835,Sugar 1kg,Personal Care,1,1340,1340,Fatima,udhaar
+16/04/2023,INV-3836,Atta 10kg,Dairy,4,618,Rs 2472,Zainab,udhaar
+08/12/2023,INV-3837,Shampoo,grocery,4,736,2944,Ahmed,udhaar
+08/08/2023,INV-3838,Cooking Oil 1L,Dairy,4,181,724,Fatima,easypaisa
+12/06/2023,INV-3839,Milk 1L,grocery,2,511,1022,Ayesha,jazzcash
+08/08/2023,INV-3840,Shampoo,Personal Care,2,148,Rs 296,Usman,cash
+27/09/2023,INV-3841,Rice 1kg,Personal Care,4,1016,4064,Usman,cash
+30/04/2023,INV-3842,Atta 10kg,grocery,4,1470,5880,Zainab,udhaar
+02/12/2023,INV-3843,Sugar 1kg,Grocery,4,65,Rs 260,Walk-in,jazzcash
+01/07/2023,INV-3844,Atta 10kg,grocery,4,67,268,Ali,cash
+16/04/2023,INV-3845,Soap,grocery,3,1085,3255,Fatima,cash
+05/08/2023,INV-3846,Atta 10kg,Personal Care,1,1019,1019,Ayesha,easypaisa
+24/07/2023,INV-3847,Cooking Oil 1L,beverages,2,433,866,Usman,easypaisa
+11/03/2023,INV-3848,Soap,dairy,3,673,,Ahmed,cash
+13/02/2023,INV-3849,Shampoo,beverages,3,887,2661,Walk-in,udhaar
+25/11/2023,INV-3850,Sugar 1kg,Grocery,3,1459,4377,Fatima,easypaisa
+28/10/2023,INV-3851,Tea 200g,Grocery,3,1072,3216,Ahmed,udhaar
+16/08/2023,INV-3852,Atta 10kg,Dairy,3,941,2823,Usman,jazzcash
+03/07/2023,INV-3853,Shampoo,Grocery,1,1303,Rs 1303,Ali,easypaisa
+17/04/2023,INV-3854,Rice 1kg,Dairy,2,925,1850,Ayesha,jazzcash
+25/03/2023,INV-3855,Atta 10kg,dairy,1,899,899,Ali,cash
+04/12/2023,INV-3856,Cooking Oil 1L,beverages,1,1034,1034,Ali,jazzcash
+07/09/2023,INV-3857,Tea 200g,Dairy,1,545,545,Ahmed,easypaisa
+29/12/2023,INV-3858,Cooking Oil 1L,beverages,1,1332,1332,Ahmed,udhaar
+21/01/2023,INV-3859,Soap,grocery,2,1413,Rs 2826,Usman,udhaar
+15/07/2023,INV-3860,Milk 1L,Personal Care,1,1035,1035,Walk-in,easypaisa
+27/06/2023,INV-3861,Milk 1L,grocery,2,1227,,Usman,udhaar
+07/01/2023,INV-3862,Soap,Personal Care,4,61,244,Walk-in,cash
+11/03/2023,INV-3863,Soap,beverages,3,505,1515,Ali,cash
+07/05/2023,INV-3864,Rice 1kg,Dairy,2,1280,Rs 2560,Ayesha,easypaisa
+09/06/2023,INV-3865,Rice 1kg,Dairy,4,245,980,Ahmed,easypaisa
+05/09/2023,INV-3866,Milk 1L,beverages,4,1066,4264,Walk-in,cash
+22/07/2023,INV-3867,Soap,Dairy,1,141,Rs 141,Usman,udhaar
+28/05/2023,INV-3868,Atta 10kg,grocery,1,224,224,Ayesha,cash
+23/05/2023,INV-3869,Soap,dairy,4,743,2972,Zainab,easypaisa
+18/07/2023,INV-3870,Atta 10kg,grocery,4,739,2956,Ali,udhaar
+03/06/2023,INV-3871,Rice 1kg,dairy,3,1119,3357,Zainab,udhaar
+22/05/2023,INV-3872,Milk 1L,grocery,1,511,511,Fatima,cash
+09/11/2023,INV-3873,Soap,Grocery,2,862,1724,Usman,cash
+14/06/2023,INV-3874,Cooking Oil 1L,Personal Care,4,315,1260,Zainab,easypaisa
+10/11/2023,INV-3875,Soap,grocery,3,479,Rs 1437,Usman,jazzcash
+21/01/2023,INV-3876,Sugar 1kg,grocery,3,450,1350,Fatima,easypaisa
+23/03/2023,INV-3877,Tea 200g,Grocery,1,74,74,Fatima,easypaisa
+10/03/2023,INV-3878,Cooking Oil 1L,Dairy,1,485,485,Zainab,cash
+11/05/2023,INV-3879,Tea 200g,Personal Care,4,312,,Fatima,cash
+28/03/2023,INV-3880,Cooking Oil 1L,Grocery,4,1182,4728,Walk-in,jazzcash
+06/08/2023,INV-3881,Sugar 1kg,Grocery,2,688,,Ayesha,easypaisa
+01/11/2023,INV-3882,Tea 200g,grocery,1,1135,Rs 1135,Ayesha,cash
+11/12/2023,INV-3883,Cooking Oil 1L,dairy,1,542,542,Ali,easypaisa
+07/12/2023,INV-3884,Atta 10kg,Dairy,1,318,318,Ali,cash
+10/06/2023,INV-3885,Cooking Oil 1L,beverages,2,597,1194,Walk-in,jazzcash
+27/06/2023,INV-3886,Milk 1L,grocery,4,587,Rs 2348,Ayesha,cash
+27/04/2023,INV-3887,Soap,Personal Care,4,766,3064,Ahmed,easypaisa
+15/07/2023,INV-3888,Sugar 1kg,grocery,3,889,2667,Ali,udhaar
+23/11/2023,INV-3889,Shampoo,beverages,1,805,805,Zainab,udhaar
+27/03/2023,INV-3890,Shampoo,Personal Care,4,1311,5244,Zainab,easypaisa
+16/10/2023,INV-3891,Soap,Dairy,3,779,2337,Fatima,udhaar
+22/03/2023,INV-3892,Sugar 1kg,dairy,4,1134,4536,Usman,jazzcash
+01/06/2023,INV-3893,Atta 10kg,Dairy,2,522,1044,Fatima,easypaisa
+02/03/2023,INV-3894,Sugar 1kg,Personal Care,1,1274,1274,Ayesha,jazzcash
+02/03/2023,INV-3895,Soap,dairy,1,668,668,Fatima,easypaisa
+20/12/2023,INV-3896,Soap,Grocery,2,1338,2676,Ali,jazzcash
+28/01/2023,INV-3897,Sugar 1kg,Grocery,3,967,2901,Fatima,easypaisa
+12/02/2023,INV-3898,Milk 1L,beverages,4,1423,Rs 5692,Fatima,cash
+18/06/2023,INV-3899,Rice 1kg,beverages,1,1063,Rs 1063,Usman,easypaisa
+27/03/2023,INV-3900,Soap,dairy,1,1253,Rs 1253,Ali,easypaisa
+26/06/2023,INV-3901,Milk 1L,grocery,3,657,Rs 1971,Fatima,cash
+17/01/2023,INV-3902,Atta 10kg,Grocery,1,1428,1428,Walk-in,jazzcash
+08/04/2023,INV-3903,Soap,beverages,1,1454,1454,Ahmed,easypaisa
+17/07/2023,INV-3904,Cooking Oil 1L,dairy,2,292,584,Ayesha,cash
+08/04/2023,INV-3905,Cooking Oil 1L,dairy,4,494,1976,Walk-in,jazzcash
+06/03/2023,INV-3906,Soap,grocery,2,1058,,Ahmed,easypaisa
+26/11/2023,INV-3907,Milk 1L,dairy,1,274,Rs 274,Ali,cash
+07/12/2023,INV-3908,Atta 10kg,Dairy,1,1352,Rs 1352,Walk-in,easypaisa
+05/01/2023,INV-3909,Tea 200g,dairy,3,861,2583,Ayesha,jazzcash
+02/01/2023,INV-3910,Atta 10kg,Grocery,1,651,Rs 651,Fatima,jazzcash
+22/01/2023,INV-3911,Cooking Oil 1L,grocery,3,1063,3189,Ali,jazzcash
+22/04/2023,INV-3912,Atta 10kg,Dairy,4,1123,4492,Walk-in,cash
+26/02/2023,INV-3913,Atta 10kg,Dairy,4,784,3136,Usman,udhaar
+07/03/2023,INV-3914,Atta 10kg,Dairy,3,1436,4308,Fatima,easypaisa
+26/11/2023,INV-3915,Sugar 1kg,beverages,4,1014,4056,Walk-in,udhaar
+08/04/2023,INV-3916,Sugar 1kg,Dairy,4,1033,4132,Ali,udhaar
+24/05/2023,INV-3917,Soap,grocery,1,441,Rs 441,Ahmed,jazzcash
+05/05/2023,INV-3918,Rice 1kg,beverages,4,1263,5052,Usman,udhaar
+16/06/2023,INV-3919,Milk 1L,dairy,2,674,,Ayesha,jazzcash
+27/03/2023,INV-3920,Milk 1L,beverages,1,1011,1011,Fatima,jazzcash
+17/03/2023,INV-3921,Cooking Oil 1L,Dairy,4,472,Rs 1888,Fatima,easypaisa
+10/12/2023,INV-3922,Milk 1L,Dairy,4,813,3252,Zainab,udhaar
+21/10/2023,INV-3923,Rice 1kg,Personal Care,4,1199,Rs 4796,Ahmed,udhaar
+28/02/2023,INV-3924,Atta 10kg,Personal Care,4,719,2876,Ahmed,udhaar
+18/05/2023,INV-3925,Cooking Oil 1L,beverages,2,128,Rs 256,Usman,easypaisa
+09/04/2023,INV-3926,Rice 1kg,beverages,4,1128,Rs 4512,Ayesha,jazzcash
+11/07/2023,INV-3927,Tea 200g,dairy,4,1486,5944,Ali,easypaisa
+31/08/2023,INV-3928,Cooking Oil 1L,Personal Care,2,1113,Rs 2226,Usman,udhaar
+15/11/2023,INV-3929,Soap,dairy,3,1458,Rs 4374,Zainab,jazzcash
+18/02/2023,INV-3930,Rice 1kg,Dairy,1,1092,1092,Usman,easypaisa
+01/02/2023,INV-3931,Cooking Oil 1L,grocery,1,674,674,Ayesha,udhaar
+04/10/2023,INV-3932,Milk 1L,Dairy,3,1396,Rs 4188,Usman,cash
+20/01/2023,INV-3933,Shampoo,beverages,1,134,134,Zainab,jazzcash
+03/06/2023,INV-3934,Atta 10kg,beverages,4,406,1624,Fatima,udhaar
+09/03/2023,INV-3935,Cooking Oil 1L,Grocery,2,416,832,Zainab,cash
+02/08/2023,INV-3936,Sugar 1kg,grocery,4,217,868,Usman,jazzcash
+23/05/2023,INV-3937,Soap,Grocery,2,772,Rs 1544,Zainab,jazzcash
+20/08/2023,INV-3938,Rice 1kg,Personal Care,3,503,Rs 1509,Ayesha,cash
+01/08/2023,INV-3939,Atta 10kg,grocery,4,1416,5664,Walk-in,easypaisa
+20/03/2023,INV-3940,Tea 200g,Dairy,4,182,728,Walk-in,easypaisa
+02/08/2023,INV-3941,Atta 10kg,dairy,3,377,1131,Ayesha,easypaisa
+26/04/2023,INV-3942,Cooking Oil 1L,beverages,2,1247,2494,Usman,cash
+02/04/2023,INV-3943,Tea 200g,Grocery,1,346,346,Ayesha,jazzcash
+27/09/2023,INV-3944,Rice 1kg,beverages,4,1096,4384,Ali,udhaar
+17/06/2023,INV-3945,Atta 10kg,Personal Care,1,244,244,Usman,cash
+27/02/2023,INV-3946,Tea 200g,grocery,2,216,432,Walk-in,udhaar
+11/10/2023,INV-3947,Tea 200g,grocery,4,1310,5240,Ali,jazzcash
+26/01/2023,INV-3948,Milk 1L,Grocery,2,297,594,Zainab,cash
+07/03/2023,INV-3949,Shampoo,dairy,3,1247,3741,Ayesha,jazzcash
+05/09/2023,INV-3950,Shampoo,beverages,3,562,Rs 1686,Ali,cash
+11/09/2023,INV-3951,Cooking Oil 1L,Grocery,4,973,Rs 3892,Ali,cash
+13/02/2023,INV-3952,Shampoo,beverages,3,1177,3531,Fatima,udhaar
+07/04/2023,INV-3953,Rice 1kg,Grocery,3,363,Rs 1089,Ayesha,cash
+11/02/2023,INV-3954,Cooking Oil 1L,dairy,1,986,986,Fatima,udhaar
+15/08/2023,INV-3955,Atta 10kg,grocery,1,1123,1123,Fatima,cash
+19/09/2023,INV-3956,Soap,Dairy,1,1383,1383,Ali,jazzcash
+16/06/2023,INV-3957,Milk 1L,Dairy,4,1322,5288,Fatima,cash
+06/10/2023,INV-3958,Sugar 1kg,Personal Care,1,618,618,Zainab,easypaisa
+30/03/2023,INV-3959,Milk 1L,dairy,3,274,822,Ali,udhaar
+27/06/2023,INV-3960,Tea 200g,beverages,2,429,Rs 858,Ayesha,easypaisa
+16/07/2023,INV-3961,Atta 10kg,dairy,2,1208,2416,Fatima,jazzcash
+03/11/2023,INV-3962,Rice 1kg,Dairy,3,1082,Rs 3246,Fatima,easypaisa
+24/09/2023,INV-3963,Soap,grocery,3,291,Rs 873,Fatima,cash
+25/09/2023,INV-3964,Sugar 1kg,beverages,3,1106,3318,Ayesha,cash
+15/03/2023,INV-3965,Cooking Oil 1L,Grocery,4,889,3556,Usman,jazzcash
+08/01/2023,INV-3966,Tea 200g,Dairy,2,295,590,Ali,jazzcash
+24/10/2023,INV-3967,Cooking Oil 1L,dairy,3,1183,,Ali,easypaisa
+13/06/2023,INV-3968,Tea 200g,beverages,2,1139,Rs 2278,Fatima,jazzcash
+26/03/2023,INV-3969,Tea 200g,beverages,2,540,1080,Ali,udhaar
+13/03/2023,INV-3970,Shampoo,grocery,3,1497,Rs 4491,Zainab,jazzcash
+24/02/2023,INV-3971,Cooking Oil 1L,dairy,4,708,2832,Fatima,jazzcash
+16/02/2023,INV-3972,Rice 1kg,Grocery,2,158,316,Ahmed,cash
+26/08/2023,INV-3973,Rice 1kg,Dairy,4,808,3232,Usman,easypaisa
+14/04/2023,INV-3974,Shampoo,Personal Care,4,1197,4788,Ali,cash
+29/07/2023,INV-3975,Milk 1L,Personal Care,3,907,2721,Zainab,cash
+11/02/2023,INV-3976,Tea 200g,dairy,1,521,521,Ahmed,udhaar
+12/11/2023,INV-3977,Milk 1L,grocery,1,1386,1386,Ayesha,udhaar
+25/09/2023,INV-3978,Atta 10kg,Grocery,3,66,Rs 198,Fatima,easypaisa
+20/09/2023,INV-3979,Rice 1kg,grocery,1,1118,1118,Fatima,cash
+02/12/2023,INV-3980,Cooking Oil 1L,Dairy,4,666,2664,Zainab,easypaisa
+31/12/2023,INV-3981,Cooking Oil 1L,Grocery,1,75,75,Ayesha,jazzcash
+16/09/2023,INV-3982,Rice 1kg,grocery,4,1268,Rs 5072,Usman,cash
+10/10/2023,INV-3983,Tea 200g,beverages,4,1238,4952,Ali,cash
+24/04/2023,INV-3984,Tea 200g,grocery,2,1296,2592,Zainab,easypaisa
+29/12/2023,INV-3985,Sugar 1kg,dairy,3,933,2799,Ahmed,jazzcash
+09/02/2023,INV-3986,Sugar 1kg,grocery,1,1212,1212,Ayesha,easypaisa
+08/08/2023,INV-3987,Cooking Oil 1L,dairy,2,102,204,Usman,jazzcash
+09/05/2023,INV-3988,Tea 200g,beverages,3,1132,3396,Zainab,udhaar
+08/01/2023,INV-3989,Shampoo,dairy,4,1479,5916,Zainab,easypaisa
+11/04/2023,INV-3990,Sugar 1kg,grocery,2,793,1586,Zainab,jazzcash
+25/06/2023,INV-3991,Cooking Oil 1L,dairy,4,977,Rs 3908,Fatima,udhaar
+17/04/2023,INV-3992,Soap,dairy,4,1203,Rs 4812,Zainab,udhaar
+11/04/2023,INV-3993,Atta 10kg,Personal Care,1,1359,1359,Ali,cash
+17/09/2023,INV-3994,Sugar 1kg,Dairy,2,926,1852,Usman,cash
+03/09/2023,INV-3995,Sugar 1kg,dairy,4,781,3124,Ahmed,jazzcash
+02/10/2023,INV-3996,Soap,grocery,4,930,3720,Usman,cash
+01/02/2023,INV-3997,Milk 1L,grocery,2,364,728,Ayesha,easypaisa
+17/05/2023,INV-3998,Milk 1L,beverages,4,933,3732,Usman,cash
+12/01/2023,INV-3999,Milk 1L,beverages,1,83,83,Walk-in,easypaisa
