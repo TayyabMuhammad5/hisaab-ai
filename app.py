@@ -9,6 +9,15 @@ from hisaab.profiler import get_db_profile
 from hisaab.pipeline import run_pipeline
 from data.make_sample_data import generate_sample_data
 
+try:
+    import spaces
+
+    @spaces.GPU(duration=1)
+    def _zerogpu_startup_probe():
+        return "ok"
+except ImportError:
+    pass
+
 data_dir = Path(__file__).parent / "data"
 sample_file = data_dir / "sample_shop.xlsx"
 if not sample_file.exists():
